@@ -1,0 +1,371 @@
+figure,item,paper,reproduction,ratio
+Fig1b,treating Head and neck cancer with EGFR inhibitor combined with radiotherapy,82,295,3.566265060240964
+Fig1b,treating Lung cancer with EGFR inhibitor combined with radiotherapy,70,302,4.267605633802817
+Fig1b,treating Breast cancer with EGFR inhibitor combined with radiotherapy,22,114,5.0
+Fig1b,treating Breast cancer with HER2 inhibitor combined with radiotherapy,16,119,7.0588235294117645
+Fig1b,treating Head and neck cancer with PI3K inhibitor combined with radiotherapy,12,25,2.0
+Fig1b,treating Lung cancer with PI3K inhibitor combined with radiotherapy,8,32,3.6666666666666665
+Fig1b,treating Breast cancer with PI3K inhibitor combined with radiotherapy,7,17,2.25
+Fig1b,treating Prostate cancer with EGFR inhibitor combined with radiotherapy,7,21,2.75
+Fig1b,treating Head and neck cancer with ERK inhibitor combined with radiotherapy,6,11,1.7142857142857142
+Fig1b,treating Prostate cancer with PI3K inhibitor combined with radiotherapy,5,9,1.6666666666666667
+Fig1b,treating Lung cancer with HER2 inhibitor combined with radiotherapy,5,28,4.833333333333333
+Fig1b,treating Breast cancer with ERK inhibitor combined with radiotherapy,4,6,1.4
+Fig1b,treating Hepatocellular carcinoma with PI3K inhibitor combined with radiotherapy,4,8,1.8
+Fig1b,treating Lung cancer with ERK inhibitor combined with radiotherapy,4,18,3.8
+Fig1b,treating Lung cancer with PDGFR inhibitor combined with radiotherapy,4,7,1.6
+Fig1b,treating Melanoma with EGFR inhibitor combined with radiotherapy,4,13,2.8
+Fig1b,treating Head and neck cancer with PDGFR inhibitor combined with radiotherapy,3,4,1.25
+Fig1b,treating Head and neck cancer with HER2 inhibitor combined with radiotherapy,2,29,10.0
+Fig1b,treating Hepatocellular carcinoma with EGFR inhibitor combined with radiotherapy,2,4,1.6666666666666667
+Fig1b,treating Hepatocellular carcinoma with ERK inhibitor combined with radiotherapy,2,3,1.3333333333333333
+Fig1b,treating Prostate cancer with PDGFR inhibitor combined with radiotherapy,2,5,2.0
+Fig1b,treating Lung cancer with FGFR inhibitor combined with radiotherapy,2,2,1.0
+Fig1b,treating Melanoma with ERK inhibitor combined with radiotherapy,2,7,2.6666666666666665
+Fig2b,Doxorubicin + Breast cancer,11669,11939,1.0231362467866323
+Fig2b,Doxorubicin + Glioma,659,704,1.0681818181818181
+Fig2b,Doxorubicin + Osteosarcoma,1913,1966,1.0276907001044933
+Fig2b,Doxorubicin + Prostate cancer,1215,1232,1.0139802631578947
+Fig2b,Doxorubicin + Cholangiocarcinoma,91,92,1.0108695652173914
+Fig2b,Doxorubicin + Liposarcoma,27,183,6.571428571428571
+Fig2b,5-Fu + Breast cancer,8149,8247,1.0120245398773007
+Fig2b,5-Fu + Glioma,275,288,1.0471014492753623
+Fig2b,5-Fu + Osteosarcoma,96,96,1.0
+Fig2b,5-Fu + Prostate cancer,568,575,1.0123022847100176
+Fig2b,5-Fu + Cholangiocarcinoma,346,357,1.031700288184438
+Fig2b,5-Fu + Liposarcoma,8,9,1.1111111111111112
+Fig2b,Paclitaxel + Breast cancer,7271,7393,1.0167766776677667
+Fig2b,Paclitaxel + Glioma,396,416,1.0503778337531486
+Fig2b,Paclitaxel + Osteosarcoma,105,106,1.009433962264151
+Fig2b,Paclitaxel + Prostate cancer,938,949,1.0117145899893503
+Fig2b,Paclitaxel + Cholangiocarcinoma,30,32,1.064516129032258
+Fig2b,Paclitaxel + Liposarcoma,12,14,1.1538461538461537
+Fig2b,Cisplatin + Breast cancer,3725,3800,1.0201288244766507
+Fig2b,Cisplatin + Glioma,1090,1130,1.0366636113657195
+Fig2b,Cisplatin + Osteosarcoma,1415,1438,1.0162429378531073
+Fig2b,Cisplatin + Prostate cancer,1049,1067,1.0171428571428571
+Fig2b,Cisplatin + Cholangiocarcinoma,311,323,1.0384615384615385
+Fig2b,Cisplatin + Liposarcoma,42,43,1.0232558139534884
+Fig2b,Rapamycin + Breast cancer,1595,1642,1.0294486215538847
+Fig2b,Rapamycin + Glioma,641,672,1.0482866043613708
+Fig2b,Rapamycin + Osteosarcoma,147,154,1.0472972972972974
+Fig2b,Rapamycin + Prostate cancer,526,534,1.015180265654649
+Fig2b,Rapamycin + Cholangiocarcinoma,47,49,1.0416666666666667
+Fig2b,Rapamycin + Liposarcoma,14,15,1.0666666666666667
+Fig2b,Vincristine + Breast cancer,1379,1395,1.0115942028985507
+Fig2b,Vincristine + Glioma,1077,1113,1.033395176252319
+Fig2b,Vincristine + Osteosarcoma,646,666,1.0309119010819165
+Fig2b,Vincristine + Prostate cancer,242,244,1.008230452674897
+Fig2b,Vincristine + Cholangiocarcinoma,13,14,1.0714285714285714
+Fig2b,Vincristine + Liposarcoma,19,21,1.1
+Fig2b,Gemcitabine + Breast cancer,1251,1264,1.0103833865814698
+Fig2b,Gemcitabine + Glioma,68,75,1.1014492753623188
+Fig2b,Gemcitabine + Osteosarcoma,107,108,1.0092592592592593
+Fig2b,Gemcitabine + Prostate cancer,214,215,1.0046511627906978
+Fig2b,Gemcitabine + Cholangiocarcinoma,512,537,1.0487329434697856
+Fig2b,Gemcitabine + Liposarcoma,38,42,1.1025641025641026
+Fig2b,Etoposide + Breast cancer,1155,1156,1.0008650519031141
+Fig2b,Etoposide + Glioma,638,657,1.029733959311424
+Fig2b,Etoposide + Osteosarcoma,451,468,1.0376106194690264
+Fig2b,Etoposide + Prostate cancer,483,489,1.012396694214876
+Fig2b,Etoposide + Cholangiocarcinoma,12,12,1.0
+Fig2b,Etoposide + Liposarcoma,12,12,1.0
+Fig2b,Mitomycin + Breast cancer,873,944,1.0812356979405033
+Fig2b,Mitomycin + Glioma,43,57,1.3181818181818181
+Fig2b,Mitomycin + Osteosarcoma,44,59,1.3333333333333333
+Fig2b,Mitomycin + Prostate cancer,177,184,1.0393258426966292
+Fig2b,Mitomycin + Cholangiocarcinoma,56,58,1.0350877192982457
+Fig2b,Mitomycin + Liposarcoma,14,17,1.2
+Fig2b,Everolimus + Breast cancer,626,640,1.022328548644338
+Fig2b,Everolimus + Glioma,116,124,1.0683760683760684
+Fig2b,Everolimus + Osteosarcoma,8,8,1.0
+Fig2b,Everolimus + Prostate cancer,64,65,1.0153846153846153
+Fig2b,Everolimus + Cholangiocarcinoma,11,11,1.0
+Fig2b,Everolimus + Liposarcoma,2,2,1.0
+Fig2b,Irinotecan + Breast cancer,461,470,1.0194805194805194
+Fig2b,Irinotecan + Glioma,376,390,1.0371352785145889
+Fig2b,Irinotecan + Osteosarcoma,59,63,1.0666666666666667
+Fig2b,Irinotecan + Prostate cancer,87,90,1.0340909090909092
+Fig2b,Irinotecan + Cholangiocarcinoma,36,37,1.027027027027027
+Fig2b,Irinotecan + Liposarcoma,0,0,1.0
+Fig2b,Imatinib + Breast cancer,322,332,1.0309597523219813
+Fig2b,Imatinib + Glioma,120,130,1.0826446280991735
+Fig2b,Imatinib + Osteosarcoma,47,52,1.1041666666666667
+Fig2b,Imatinib + Prostate cancer,137,139,1.0144927536231885
+Fig2b,Imatinib + Cholangiocarcinoma,10,10,1.0
+Fig2b,Imatinib + Liposarcoma,19,24,1.25
+Fig2b,Sunitinib + Breast cancer,300,306,1.0199335548172757
+Fig2b,Sunitinib + Glioma,82,86,1.0481927710843373
+Fig2b,Sunitinib + Osteosarcoma,10,10,1.0
+Fig2b,Sunitinib + Prostate cancer,104,107,1.0285714285714285
+Fig2b,Sunitinib + Cholangiocarcinoma,8,8,1.0
+Fig2b,Sunitinib + Liposarcoma,7,7,1.0
+Fig2b,Sorafenib + Breast cancer,278,283,1.017921146953405
+Fig2b,Sorafenib + Glioma,74,79,1.0666666666666667
+Fig2b,Sorafenib + Osteosarcoma,33,34,1.0294117647058822
+Fig2b,Sorafenib + Prostate cancer,93,95,1.0212765957446808
+Fig2b,Sorafenib + Cholangiocarcinoma,64,68,1.0615384615384615
+Fig2b,Sorafenib + Liposarcoma,6,7,1.1428571428571428
+Fig2b,Cytarabine + Breast cancer,248,253,1.0200803212851406
+Fig2b,Cytarabine + Glioma,103,104,1.0096153846153846
+Fig2b,Cytarabine + Osteosarcoma,35,35,1.0
+Fig2b,Cytarabine + Prostate cancer,37,37,1.0
+Fig2b,Cytarabine + Cholangiocarcinoma,0,0,1.0
+Fig2b,Cytarabine + Liposarcoma,3,4,1.25
+Fig2b,Dacarbazine + Breast cancer,166,179,1.0778443113772456
+Fig2b,Dacarbazine + Glioma,3197,3502,1.0953721075672296
+Fig2b,Dacarbazine + Osteosarcoma,69,73,1.0571428571428572
+Fig2b,Dacarbazine + Prostate cancer,40,41,1.024390243902439
+Fig2b,Dacarbazine + Cholangiocarcinoma,0,0,1.0
+Fig2b,Dacarbazine + Liposarcoma,38,39,1.0256410256410255
+Fig2b,Pemetrexed + Breast cancer,154,155,1.0064516129032257
+Fig2b,Pemetrexed + Glioma,8,8,1.0
+Fig2b,Pemetrexed + Osteosarcoma,9,9,1.0
+Fig2b,Pemetrexed + Prostate cancer,16,16,1.0
+Fig2b,Pemetrexed + Cholangiocarcinoma,1,1,1.0
+Fig2b,Pemetrexed + Liposarcoma,0,0,1.0
+Fig3a,Gefitinib + Head and neck cancer,420,426,1.0142517814726841
+Fig3a,Erlotinib + Head and neck cancer,393,399,1.015228426395939
+Fig3a,Sorafenib + Head and neck cancer,361,390,1.080110497237569
+Fig3a,Sirolimus + Head and neck cancer,272,284,1.043956043956044
+Fig3a,Vandetanib + Head and neck cancer,236,248,1.0506329113924051
+Fig3a,Imatinib + Head and neck cancer,175,177,1.0113636363636365
+Fig3a,Sunitinib + Head and neck cancer,174,177,1.0171428571428571
+Fig3a,Lenvatinib + Head and neck cancer,164,197,1.2
+Fig3a,Lapatinib + Head and neck cancer,119,122,1.025
+Fig3a,Cabozantinib + Head and neck cancer,108,119,1.1009174311926606
+Fig3a,Everolimus + Head and neck cancer,96,101,1.0515463917525774
+Fig3a,Afatinib + Head and neck cancer,86,91,1.0574712643678161
+Fig3a,Dasatinib + Head and neck cancer,84,86,1.0235294117647058
+Fig3a,Vemurafenib + Head and neck cancer,68,80,1.173913043478261
+Fig3a,Pazopanib + Head and neck cancer,58,63,1.0847457627118644
+Fig3a,Temsirolimus + Head and neck cancer,47,48,1.0208333333333333
+Fig3a,Crizotinib + Head and neck cancer,47,52,1.1041666666666667
+Fig3a,Axitinib + Head and neck cancer,41,41,1.0
+Fig3a,Trametinib + Head and neck cancer,38,47,1.2307692307692308
+Fig3a,Dabrafenib + Head and neck cancer,29,38,1.3
+Fig3a,Dacomitinib + Head and neck cancer,22,22,1.0
+Fig3a,Palbociclib + Head and neck cancer,16,24,1.4705882352941178
+Fig3a,Ponatinib + Head and neck cancer,14,15,1.0666666666666667
+Fig3a,Regorafenib + Head and neck cancer,14,14,1.0
+Fig3a,Nilotinib + Head and neck cancer,13,14,1.0714285714285714
+Fig3b,radiotherapy,354364,361126,1.0190820199511803
+Fig3b,Head and neck cancer + radiotherapy,58292,59868,1.0270358362067487
+Fig3b,Gefitinib + radiotherapy,462,466,1.0086393088552916
+Fig3b,Gefitinib + Head and neck cancer + radiotherapy,92,92,1.0
+Fig3b,Erlotinib + radiotherapy,523,529,1.0114503816793894
+Fig3b,Erlotinib + Head and neck cancer + radiotherapy,81,82,1.0121951219512195
+Fig3b,Sorafenib + radiotherapy,437,460,1.052511415525114
+Fig3b,Sorafenib + Head and neck cancer + radiotherapy,65,74,1.1363636363636365
+Fig3b,Sirolimus + radiotherapy,284,293,1.0315789473684212
+Fig3b,Sirolimus + Head and neck cancer + radiotherapy,31,32,1.03125
+Fig3b,Lenvatinib + radiotherapy,39,56,1.425
+Fig3b,Lenvatinib + Head and neck cancer + radiotherapy,28,42,1.4827586206896552
+Fig3b,Cabozantinib + radiotherapy,30,34,1.1290322580645162
+Fig3b,Cabozantinib + Head and neck cancer + radiotherapy,10,10,1.0
+Fig3b,Afatinib + radiotherapy,66,71,1.0746268656716418
+Fig3b,Afatinib + Head and neck cancer + radiotherapy,18,20,1.105263157894737
+Fig3b,Axitinib + radiotherapy,29,30,1.0333333333333334
+Fig3b,Axitinib + Head and neck cancer + radiotherapy,6,6,1.0
+Fig3b,Trametinib + radiotherapy,33,37,1.1176470588235294
+Fig3b,Trametinib + Head and neck cancer + radiotherapy,5,8,1.5
+Fig3b,Dacomitinib + radiotherapy,8,8,1.0
+Fig3b,Dacomitinib + Head and neck cancer + radiotherapy,7,7,1.0
+Fig3b,Palbociclib + radiotherapy,24,25,1.04
+Fig3b,Palbociclib + Head and neck cancer + radiotherapy,0,1,2.0
+Fig3b,Nilotinib + radiotherapy,10,10,1.0
+Fig3b,Nilotinib + Head and neck cancer + radiotherapy,2,2,1.0
+Fig3b,Regorafenib + radiotherapy,23,27,1.1666666666666667
+Fig3b,Regorafenib + Head and neck cancer + radiotherapy,0,0,1.0
+Fig3b,nanoparticle,209356,220192,1.051758479534957
+Fig3b,Head and neck cancer + nanoparticle,750,814,1.085219707057257
+Fig3b,Gefitinib + nanoparticle,58,59,1.0169491525423728
+Fig3b,Gefitinib + Head and neck cancer + nanoparticle,4,5,1.2
+Fig3b,Erlotinib + nanoparticle,66,69,1.044776119402985
+Fig3b,Erlotinib + Head and neck cancer + nanoparticle,1,2,1.5
+Fig3b,Sorafenib + nanoparticle,150,161,1.0728476821192052
+Fig3b,Sorafenib + Head and neck cancer + nanoparticle,1,1,1.0
+Fig3b,Sirolimus + nanoparticle,151,168,1.111842105263158
+Fig3b,Sirolimus + Head and neck cancer + nanoparticle,0,0,1.0
+Fig3b,Lenvatinib + nanoparticle,5,6,1.1666666666666667
+Fig3b,Lenvatinib + Head and neck cancer + nanoparticle,0,0,1.0
+Fig3b,Cabozantinib + nanoparticle,4,4,1.0
+Fig3b,Cabozantinib + Head and neck cancer + nanoparticle,0,0,1.0
+Fig3b,Afatinib + nanoparticle,8,8,1.0
+Fig3b,Afatinib + Head and neck cancer + nanoparticle,0,0,1.0
+Fig3b,Axitinib + nanoparticle,11,12,1.0833333333333333
+Fig3b,Axitinib + Head and neck cancer + nanoparticle,0,0,1.0
+Fig3b,Trametinib + nanoparticle,5,5,1.0
+Fig3b,Trametinib + Head and neck cancer + nanoparticle,0,0,1.0
+Fig3b,Palbociclib + nanoparticle,2,2,1.0
+Fig3b,Palbociclib + Head and neck cancer + nanoparticle,0,0,1.0
+Fig3b,Nilotinib + nanoparticle,9,10,1.1
+Fig3b,Nilotinib + Head and neck cancer + nanoparticle,0,0,1.0
+Fig3b,Regorafenib + nanoparticle,4,7,1.6
+Fig3b,Regorafenib + Head and neck cancer + nanoparticle,0,0,1.0
+Fig4b,Rapamycin + nanoparticle,238,247,1.0376569037656904
+Fig4b,Rapamycin + MG63,44,45,1.0222222222222221
+Fig4b,Rapamycin + MG63 + nanoparticle,0,0,1.0
+Fig4b,Rapamycin + U2OS,18,25,1.368421052631579
+Fig4b,Rapamycin + Fadu,15,15,1.0
+Fig4b,Paclitaxel + nanoparticle,2399,2486,1.03625
+Fig4b,Paclitaxel + MG63,15,15,1.0
+Fig4b,Paclitaxel + MG63 + nanoparticle,4,4,1.0
+Fig4b,Paclitaxel + U2OS,18,25,1.368421052631579
+Fig4b,Paclitaxel + Fadu,36,37,1.027027027027027
+Fig4b,Gemcitabine + nanoparticle,396,420,1.0604534005037782
+Fig4b,Gemcitabine + MG63,12,11,0.9230769230769231
+Fig4b,Gemcitabine + MG63 + nanoparticle,2,1,0.6666666666666666
+Fig4b,Gemcitabine + U2OS,5,5,1.0
+Fig4b,Gemcitabine + Fadu,3,3,1.0
+Fig4b,Sorafenib + nanoparticle,155,161,1.0384615384615385
+Fig4b,Sorafenib + MG63,4,4,1.0
+Fig4b,Sorafenib + MG63 + nanoparticle,0,0,1.0
+Fig4b,Sorafenib + U2OS,1,2,1.5
+Fig4b,Sorafenib + Fadu,4,4,1.0
+Fig4b,Nintedanib + nanoparticle,6,6,1.0
+Fig4b,Nintedanib + MG63,0,0,1.0
+Fig4b,Nintedanib + MG63 + nanoparticle,0,0,1.0
+Fig4b,Nintedanib + U2OS,0,0,1.0
+Fig4b,Nintedanib + Fadu,2,2,1.0
+Fig4b,Carfilzomib + nanoparticle,8,10,1.2222222222222223
+Fig4b,Carfilzomib + MG63,0,0,1.0
+Fig4b,Carfilzomib + MG63 + nanoparticle,0,0,1.0
+Fig4b,Carfilzomib + U2OS,1,1,1.0
+Fig4b,Carfilzomib + Fadu,0,0,1.0
+Fig4b,Nilotinib + nanoparticle,10,10,1.0
+Fig4b,Nilotinib + MG63,1,1,1.0
+Fig4b,Nilotinib + MG63 + nanoparticle,0,0,1.0
+Fig4b,Nilotinib + U2OS,0,0,1.0
+Fig4b,Nilotinib + Fadu,0,0,1.0
+Fig4b,Cabozantinib + nanoparticle,4,4,1.0
+Fig4b,Cabozantinib + MG63,0,0,1.0
+Fig4b,Cabozantinib + MG63 + nanoparticle,0,0,1.0
+Fig4b,Cabozantinib + U2OS,0,0,1.0
+Fig4b,Cabozantinib + Fadu,0,0,1.0
+Fig4b,Trametinib + nanoparticle,5,5,1.0
+Fig4b,Trametinib + MG63,0,0,1.0
+Fig4b,Trametinib + MG63 + nanoparticle,0,0,1.0
+Fig4b,Trametinib + U2OS,0,0,1.0
+Fig4b,Trametinib + Fadu,0,0,1.0
+Fig4b,Palbociclib + nanoparticle,2,2,1.0
+Fig4b,Palbociclib + MG63,0,0,1.0
+Fig4b,Palbociclib + MG63 + nanoparticle,0,0,1.0
+Fig4b,Palbociclib + U2OS,0,0,1.0
+Fig4b,Palbociclib + Fadu,0,0,1.0
+Fig4b,Ponatinib + nanoparticle,1,1,1.0
+Fig4b,Ponatinib + MG63,0,0,1.0
+Fig4b,Ponatinib + MG63 + nanoparticle,0,0,1.0
+Fig4b,Ponatinib + U2OS,0,0,1.0
+Fig4b,Ponatinib + Fadu,0,0,1.0
+Fig4b,Duvelisib + nanoparticle,0,0,1.0
+Fig4b,Duvelisib + MG63,0,0,1.0
+Fig4b,Duvelisib + MG63 + nanoparticle,0,0,1.0
+Fig4b,Duvelisib + U2OS,0,0,1.0
+Fig4b,Duvelisib + Fadu,0,0,1.0
+Fig4b,Infigratinib + nanoparticle,0,0,1.0
+Fig4b,Infigratinib + MG63,0,0,1.0
+Fig4b,Infigratinib + MG63 + nanoparticle,0,0,1.0
+Fig4b,Infigratinib + U2OS,0,0,1.0
+Fig4b,Infigratinib + Fadu,0,0,1.0
+Fig4b,MG63 + nanoparticle,251,257,1.0238095238095237
+Fig4b,U2OS + nanoparticle,22,28,1.2608695652173914
+Fig4b,Fadu + nanoparticle,31,33,1.0625
+Fig4c,Gemcitabine + Osteosarcoma,107,108,1.0092592592592593
+Fig4c,Sorafenib + Osteosarcoma,33,34,1.0294117647058822
+Fig4c,Nilotinib + Osteosarcoma,1,1,1.0
+Fig4c,Carfilzomib + Osteosarcoma,1,1,1.0
+Fig4c,Nintedanib + Osteosarcoma,2,2,1.0
+Fig4c,Trametinib + Osteosarcoma,2,2,1.0
+Fig4c,Cabozantinib + Osteosarcoma,3,3,1.0
+Fig4c,Ponatinib + Osteosarcoma,1,1,1.0
+Fig4c,Infigratinib + Osteosarcoma,1,1,1.0
+Fig4c,Duvelisib + Osteosarcoma,0,0,1.0
+Fig4c,Gemcitabine + HNSCC,94,95,1.0105263157894737
+Fig4c,Sorafenib + HNSCC,34,34,1.0
+Fig4c,Nilotinib + HNSCC,6,7,1.1428571428571428
+Fig4c,Carfilzomib + HNSCC,3,3,1.0
+Fig4c,Nintedanib + HNSCC,2,2,1.0
+Fig4c,Trametinib + HNSCC,9,9,1.0
+Fig4c,Cabozantinib + HNSCC,0,0,1.0
+Fig4c,Ponatinib + HNSCC,3,3,1.0
+Fig4c,Infigratinib + HNSCC,0,1,2.0
+Fig4c,Duvelisib + HNSCC,0,0,1.0
+Fig5b,Breast cancer + Nanoparticle,5385,5811,1.0790939472707017
+Fig5b,Breast cancer + Liposome,1397,1827,1.30758226037196
+Fig5b,Breast cancer + Hydrogel,366,399,1.0899182561307903
+Fig5b,Breast cancer + Radiolabeled Antibody,379,505,1.331578947368421
+Fig5b,Lung cancer + Nanoparticle,2776,2930,1.0554555275477133
+Fig5b,Lung cancer + Liposome,1309,1513,1.1557251908396946
+Fig5b,Lung cancer + Hydrogel,141,153,1.0845070422535212
+Fig5b,Lung cancer + Radiolabeled Antibody,325,442,1.3588957055214723
+Fig5b,Pancreatic cancer + Nanoparticle,895,962,1.0747767857142858
+Fig5b,Pancreatic cancer + Liposome,281,341,1.2127659574468086
+Fig5b,Pancreatic cancer + Hydrogel,57,63,1.103448275862069
+Fig5b,Pancreatic cancer + Radiolabeled Antibody,117,147,1.2542372881355932
+Fig5b,Myocardial infarction + Nanoparticle,483,506,1.0475206611570247
+Fig5b,Myocardial infarction + Liposome,156,172,1.1019108280254777
+Fig5b,Myocardial infarction + Hydrogel,378,395,1.0448548812664908
+Fig5b,Myocardial infarction + Radiolabeled Antibody,36,55,1.5135135135135136
+Fig5b,Rheumatoid arthritis + Nanoparticle,305,328,1.0751633986928104
+Fig5b,Rheumatoid arthritis + Liposome,212,234,1.1032863849765258
+Fig5b,Rheumatoid arthritis + Hydrogel,56,56,1.0
+Fig5b,Rheumatoid arthritis + Radiolabeled Antibody,61,118,1.9193548387096775
+Fig5b,Asthma + Nanoparticle,291,297,1.0205479452054795
+Fig5b,Asthma + Liposome,116,123,1.0598290598290598
+Fig5b,Asthma + Hydrogel,22,22,1.0
+Fig5b,Asthma + Radiolabeled Antibody,18,29,1.5789473684210527
+Fig5b,Osteoarthritis + Nanoparticle,195,210,1.0765306122448979
+Fig5b,Osteoarthritis + Liposome,74,82,1.1066666666666667
+Fig5b,Osteoarthritis + Hydrogel,270,285,1.055350553505535
+Fig5b,Osteoarthritis + Radiolabeled Antibody,8,14,1.6666666666666667
+Fig5b,Hepatitis c + Nanoparticle,159,167,1.05
+Fig5b,Hepatitis c + Liposome,114,123,1.0782608695652174
+Fig5b,Hepatitis c + Hydrogel,10,10,1.0
+Fig5b,Hepatitis c + Radiolabeled Antibody,9,13,1.4
+Fig5b,Glaucoma + Nanoparticle,156,166,1.0636942675159236
+Fig5b,Glaucoma + Liposome,74,78,1.0533333333333332
+Fig5b,Glaucoma + Hydrogel,109,114,1.0454545454545454
+Fig5b,Glaucoma + Radiolabeled Antibody,2,3,1.3333333333333333
+Fig5b,ASGPR,1782,530,0.2978126752664049
+Fig5b,Nanoparticle + ASGPR,134,85,0.6370370370370371
+Fig5b,Liposome + ASGPR,109,43,0.4
+Fig5b,Hydrogel + ASGPR,5,4,0.8333333333333334
+Fig5b,Radiolabeled Antibody + ASGPR,12,6,0.5384615384615384
+Fig5b,Breast cancer + ASGPR,6,3,0.5714285714285714
+Fig5b,Lung cancer + ASGPR,12,5,0.46153846153846156
+Fig5b,Pancreatic cancer + ASGPR,4,0,0.2
+Fig5b,Myocardial infarction + ASGPR,2,1,0.6666666666666666
+Fig5b,Rheumatoid arthritis + ASGPR,2,1,0.6666666666666666
+Fig5b,Asthma + ASGPR,0,0,1.0
+Fig5b,Osteoarthritis + ASGPR,0,0,1.0
+Fig5b,Hepatitis c + ASGPR,32,14,0.45454545454545453
+Fig5b,Glaucoma + ASGPR,0,0,1.0
+Fig5b,VCAM-1,19761,19960,1.0100698309887663
+Fig5b,Nanoparticle + VCAM-1,191,201,1.0520833333333333
+Fig5b,Liposome + VCAM-1,120,128,1.0661157024793388
+Fig5b,Hydrogel + VCAM-1,23,26,1.125
+Fig5b,Radiolabeled Antibody + VCAM-1,53,70,1.3148148148148149
+Fig5b,Breast cancer + VCAM-1,292,299,1.023890784982935
+Fig5b,Lung cancer + VCAM-1,334,340,1.017910447761194
+Fig5b,Pancreatic cancer + VCAM-1,81,85,1.048780487804878
+Fig5b,Myocardial infarction + VCAM-1,336,343,1.0207715133531157
+Fig5b,Rheumatoid arthritis + VCAM-1,380,385,1.0131233595800524
+Fig5b,Asthma + VCAM-1,398,400,1.005012531328321
+Fig5b,Osteoarthritis + VCAM-1,94,96,1.0210526315789474
+Fig5b,Hepatitis c + VCAM-1,53,54,1.0185185185185186
+Fig5b,Glaucoma + VCAM-1,12,12,1.0
+Fig5b,Annexin A1,1649,1669,1.0121212121212122
+Fig5b,Nanoparticle + Annexin A1,11,11,1.0
+Fig5b,Liposome + Annexin A1,27,28,1.0357142857142858
+Fig5b,Hydrogel + Annexin A1,1,1,1.0
+Fig5b,Radiolabeled Antibody + Annexin A1,0,0,1.0
+Fig5b,Breast cancer + Annexin A1,73,73,1.0
+Fig5b,Lung cancer + Annexin A1,61,63,1.032258064516129
+Fig5b,Pancreatic cancer + Annexin A1,25,25,1.0
+Fig5b,Myocardial infarction + Annexin A1,12,13,1.0769230769230769
+Fig5b,Rheumatoid arthritis + Annexin A1,31,33,1.0625
+Fig5b,Asthma + Annexin A1,21,21,1.0
+Fig5b,Osteoarthritis + Annexin A1,8,8,1.0
+Fig5b,Hepatitis c + Annexin A1,1,1,1.0
+Fig5b,Glaucoma + Annexin A1,3,5,1.5

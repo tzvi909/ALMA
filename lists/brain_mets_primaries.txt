@@ -1,0 +1,6 @@
+non-small cell lung cancer
+small cell lung cancer
+breast cancer
+melanoma
+renal cell carcinoma
+colorectal cancer

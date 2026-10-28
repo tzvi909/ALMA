@@ -1,0 +1,9 @@
+experiment,top10,n,published,rate
+Fig 3 HNC + nanoparticle,False,34,4,11.8
+Fig 3 HNC + nanoparticle,True,10,2,20.0
+Fig 3 HNC + radiotherapy,False,9,2,22.2
+Fig 3 HNC + radiotherapy,True,10,7,70.0
+Fig 3d KIs x 7 cancers + radiotherapy,False,132,36,27.3
+Fig 3d KIs x 7 cancers + radiotherapy,True,10,9,90.0
+Fig 5 targeted biomaterials,False,209,31,14.8
+Fig 5 targeted biomaterials,True,10,3,30.0

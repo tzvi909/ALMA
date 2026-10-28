@@ -1,0 +1,9 @@
+Breast cancer
+Lung cancer
+Pancreatic cancer
+Myocardial infarction
+Rheumatoid arthritis
+Asthma
+Osteoarthritis
+Hepatitis c
+Glaucoma

@@ -1,0 +1,14 @@
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+test_output/
+# the manuscript is not distributed with the code
+*.pdf
+# build / run artefacts (re-created by excel/build_excel.py or on first use)
+excel/vbaProject.bin
+excel/ALMA_cache.sqlite
+excel/ALMA_selftest.sqlite
+# Excel / LibreOffice lock files
+~$*
+.~lock.*

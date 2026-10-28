@@ -1,0 +1,289 @@
+rank,hypothesis,row,col,var,NOP,NOP_LR,NOP_THR,NOP_TVR,NOP_HR,NOP_VR,N,LR,TVR,THR,VR,HR
+1,Pancreatic cancer + Nanoparticle + VCAM-1,Pancreatic cancer,Nanoparticle,VCAM-1,0,962,85,201,4,20,2,2,2,2,2,1
+2,Rheumatoid arthritis + Liposome + VCAM-1,Rheumatoid arthritis,Liposome,VCAM-1,1,234,385,128,6,21,2,2,2,2,2,1
+3,Osteoarthritis + Nanoparticle + ICAM-1,Osteoarthritis,Nanoparticle,ICAM-1,1,210,119,185,3,17,2,2,2,2,2,1
+4,Osteoarthritis + Liposome + ICAM-1,Osteoarthritis,Liposome,ICAM-1,1,82,119,157,3,22,2,2,2,2,2,1
+5,Asthma + Nanoparticle + VCAM-1,Asthma,Nanoparticle,VCAM-1,0,297,400,201,1,20,2,2,2,2,2,0
+6,Hepatitis c + Nanoparticle + ICAM-1,Hepatitis c,Nanoparticle,ICAM-1,0,167,105,185,1,18,2,2,2,2,2,0
+7,Hepatitis c + Liposome + ICAM-1,Hepatitis c,Liposome,ICAM-1,0,123,105,157,1,23,2,2,2,2,2,0
+8,Pancreatic cancer + Nanoparticle + ICAM-1,Pancreatic cancer,Nanoparticle,ICAM-1,0,962,102,185,1,18,2,2,2,2,2,0
+9,Osteoarthritis + Nanoparticle + VCAM-1,Osteoarthritis,Nanoparticle,VCAM-1,0,210,96,201,1,20,2,2,2,2,2,0
+10,Osteoarthritis + Liposome + VCAM-1,Osteoarthritis,Liposome,VCAM-1,0,82,96,128,1,22,2,2,2,2,2,0
+11,Hepatitis c + Nanoparticle + VCAM-1,Hepatitis c,Nanoparticle,VCAM-1,0,167,54,201,0,20,2,2,2,2,2,0
+12,Hepatitis c + Liposome + VCAM-1,Hepatitis c,Liposome,VCAM-1,0,123,54,128,0,22,2,2,2,2,2,0
+13,Glaucoma + Nanoparticle + CAV1,Glaucoma,Nanoparticle,CAV1,0,166,45,35,0,12,2,2,2,2,2,0
+14,Myocardial infarction + Nanoparticle + CAV1,Myocardial infarction,Nanoparticle,CAV1,0,506,32,35,0,12,2,2,2,2,2,0
+15,Asthma + Nanoparticle + CAV1,Asthma,Nanoparticle,CAV1,0,297,23,35,0,12,2,2,2,2,2,0
+16,Glaucoma + Nanoparticle + ICAM-1,Glaucoma,Nanoparticle,ICAM-1,0,166,17,185,0,18,2,2,2,2,2,0
+17,Glaucoma + Liposome + ICAM-1,Glaucoma,Liposome,ICAM-1,0,78,17,157,0,23,2,2,2,2,2,0
+18,Glaucoma + Nanoparticle + VCAM-1,Glaucoma,Nanoparticle,VCAM-1,0,166,12,201,0,20,2,2,2,2,2,0
+19,Glaucoma + Liposome + VCAM-1,Glaucoma,Liposome,VCAM-1,0,78,12,128,0,22,2,2,2,2,2,0
+20,Asthma + Liposome + VCAM-1,Asthma,Liposome,VCAM-1,1,123,400,128,0,21,2,2,2,2,2,0
+21,Pancreatic cancer + Liposome + ICAM-1,Pancreatic cancer,Liposome,ICAM-1,1,341,102,157,0,22,2,2,2,2,2,0
+22,Breast cancer + Radiolabeled Antibody + ICAM-1,Breast cancer,Radiolabeled Antibody,ICAM-1,0,505,297,83,10,7,2,2,2,2,1,2
+23,Rheumatoid arthritis + Liposome + E-selectin,Rheumatoid arthritis,Liposome,E-selectin,0,234,191,71,5,9,2,2,2,2,1,1
+24,Pancreatic cancer + Radiolabeled Antibody + VCAM-1,Pancreatic cancer,Radiolabeled Antibody,VCAM-1,0,147,85,70,4,8,2,2,2,2,1,1
+25,Rheumatoid arthritis + Nanoparticle + E-selectin,Rheumatoid arthritis,Nanoparticle,E-selectin,0,328,191,61,5,6,2,2,2,2,1,1
+26,Breast cancer + Radiolabeled Antibody + E-selectin,Breast cancer,Radiolabeled Antibody,E-selectin,0,505,138,60,7,9,2,2,2,2,1,1
+27,Myocardial infarction + Radiolabeled Antibody + VCAM-1,Myocardial infarction,Radiolabeled Antibody,VCAM-1,0,55,343,70,7,8,2,2,2,2,1,1
+28,Myocardial infarction + Radiolabeled Antibody + ICAM-1,Myocardial infarction,Radiolabeled Antibody,ICAM-1,0,55,398,83,4,7,2,2,2,2,1,1
+29,Myocardial infarction + Radiolabeled Antibody + E-selectin,Myocardial infarction,Radiolabeled Antibody,E-selectin,0,55,160,60,2,9,2,2,2,2,1,1
+30,Osteoarthritis + Nanoparticle + E-selectin,Osteoarthritis,Nanoparticle,E-selectin,0,210,31,61,2,6,2,2,2,2,1,1
+31,Osteoarthritis + Liposome + E-selectin,Osteoarthritis,Liposome,E-selectin,0,82,31,71,2,9,2,2,2,2,1,1
+32,Asthma + Radiolabeled Antibody + ICAM-1,Asthma,Radiolabeled Antibody,ICAM-1,0,29,690,83,7,7,2,2,2,2,1,1
+33,Lung cancer + Liposome + FAP,Lung cancer,Liposome,FAP,0,1513,100,19,3,3,2,2,2,2,1,1
+34,Hepatitis c + Liposome + ASGPR,Hepatitis c,Liposome,ASGPR,0,123,14,43,2,3,2,2,2,2,1,1
+35,Rheumatoid arthritis + Nanoparticle + FAP,Rheumatoid arthritis,Nanoparticle,FAP,0,328,12,24,4,3,2,2,2,2,1,1
+36,Rheumatoid arthritis + Radiolabeled Antibody + VCAM-1,Rheumatoid arthritis,Radiolabeled Antibody,VCAM-1,1,118,385,70,6,7,2,2,2,2,1,1
+37,Lung cancer + Radiolabeled Antibody + PSMA,Lung cancer,Radiolabeled Antibody,PSMA,1,442,100,70,6,4,2,2,2,2,1,1
+38,Breast cancer + Nanoparticle + FAP,Breast cancer,Nanoparticle,FAP,1,5811,139,24,2,2,2,2,2,2,1,1
+39,Pancreatic cancer + Nanoparticle + PSMA,Pancreatic cancer,Nanoparticle,PSMA,1,962,21,149,2,9,2,2,2,2,1,1
+40,Pancreatic cancer + Liposome + PSMA,Pancreatic cancer,Liposome,PSMA,1,341,21,21,2,5,2,2,2,2,1,1
+41,Pancreatic cancer + Radiolabeled Antibody + PSMA,Pancreatic cancer,Radiolabeled Antibody,PSMA,1,147,21,70,2,4,2,2,2,2,1,1
+42,Rheumatoid arthritis + Liposome + FAP,Rheumatoid arthritis,Liposome,FAP,1,234,12,19,3,2,2,2,2,2,1,1
+43,Pancreatic cancer + Radiolabeled Antibody + ICAM-1,Pancreatic cancer,Radiolabeled Antibody,ICAM-1,0,147,102,83,1,7,2,2,2,2,1,0
+44,Asthma + Liposome + E-selectin,Asthma,Liposome,E-selectin,0,123,130,71,0,9,2,2,2,2,1,0
+45,Asthma + Nanoparticle + E-selectin,Asthma,Nanoparticle,E-selectin,0,297,130,61,0,6,2,2,2,2,1,0
+46,Pancreatic cancer + Nanoparticle + E-selectin,Pancreatic cancer,Nanoparticle,E-selectin,0,962,50,61,0,6,2,2,2,2,1,0
+47,Pancreatic cancer + Liposome + E-selectin,Pancreatic cancer,Liposome,E-selectin,0,341,50,71,0,9,2,2,2,2,1,0
+48,Pancreatic cancer + Radiolabeled Antibody + E-selectin,Pancreatic cancer,Radiolabeled Antibody,E-selectin,0,147,50,60,0,9,2,2,2,2,1,0
+49,Asthma + Radiolabeled Antibody + VCAM-1,Asthma,Radiolabeled Antibody,VCAM-1,0,29,400,70,1,8,2,2,2,2,1,0
+50,Asthma + Radiolabeled Antibody + E-selectin,Asthma,Radiolabeled Antibody,E-selectin,0,29,130,60,0,9,2,2,2,2,1,0
+51,Pancreatic cancer + Nanoparticle + FAP,Pancreatic cancer,Nanoparticle,FAP,0,962,101,24,1,3,2,2,2,2,1,0
+52,Glaucoma + Nanoparticle + FAP,Glaucoma,Nanoparticle,FAP,0,166,27,24,0,3,2,2,2,2,1,0
+53,Pancreatic cancer + Liposome + FAP,Pancreatic cancer,Liposome,FAP,0,341,101,19,1,3,2,2,2,2,1,0
+54,Glaucoma + Liposome + FAP,Glaucoma,Liposome,FAP,0,78,27,19,0,3,2,2,2,2,1,0
+55,Hepatitis c + Nanoparticle + E-selectin,Hepatitis c,Nanoparticle,E-selectin,0,167,16,61,0,6,2,2,2,2,1,0
+56,Hepatitis c + Liposome + E-selectin,Hepatitis c,Liposome,E-selectin,0,123,16,71,0,9,2,2,2,2,1,0
+57,Glaucoma + Nanoparticle + E-selectin,Glaucoma,Nanoparticle,E-selectin,0,166,15,61,0,6,2,2,2,2,1,0
+58,Glaucoma + Liposome + E-selectin,Glaucoma,Liposome,E-selectin,0,78,15,71,0,9,2,2,2,2,1,0
+59,Hepatitis c + Radiolabeled Antibody + VCAM-1,Hepatitis c,Radiolabeled Antibody,VCAM-1,0,13,54,70,0,8,2,2,2,2,1,0
+60,Hepatitis c + Radiolabeled Antibody + E-selectin,Hepatitis c,Radiolabeled Antibody,E-selectin,0,13,16,60,0,9,2,2,2,2,1,0
+61,Myocardial infarction + Nanoparticle + FAP,Myocardial infarction,Nanoparticle,FAP,0,506,13,24,0,3,2,2,2,2,1,0
+62,Myocardial infarction + Liposome + FAP,Myocardial infarction,Liposome,FAP,0,172,13,19,0,3,2,2,2,2,1,0
+63,Asthma + Nanoparticle + FAP,Asthma,Nanoparticle,FAP,0,297,12,24,0,3,2,2,2,2,1,0
+64,Asthma + Liposome + FAP,Asthma,Liposome,FAP,0,123,12,19,0,3,2,2,2,2,1,0
+65,Hepatitis c + Nanoparticle + FAP,Hepatitis c,Nanoparticle,FAP,0,167,12,24,0,3,2,2,2,2,1,0
+66,Hepatitis c + Liposome + FAP,Hepatitis c,Liposome,FAP,0,123,12,19,0,3,2,2,2,2,1,0
+67,Myocardial infarction + Liposome + E-selectin,Myocardial infarction,Liposome,E-selectin,1,172,160,71,1,8,2,2,2,2,1,0
+68,Myocardial infarction + Nanoparticle + E-selectin,Myocardial infarction,Nanoparticle,E-selectin,1,506,160,61,1,5,2,2,2,2,1,0
+69,Hepatitis c + Nanoparticle + ASGPR,Hepatitis c,Nanoparticle,ASGPR,1,167,14,85,1,2,2,2,2,2,1,0
+70,Osteoarthritis + Radiolabeled Antibody + VCAM-1,Osteoarthritis,Radiolabeled Antibody,VCAM-1,1,14,96,70,0,7,2,2,2,2,1,0
+71,Hepatitis c + Radiolabeled Antibody + ICAM-1,Hepatitis c,Radiolabeled Antibody,ICAM-1,1,13,105,83,0,6,2,2,2,2,1,0
+72,Breast cancer + Hydrogel + VCAM-1,Breast cancer,Hydrogel,VCAM-1,0,399,299,26,16,1,2,2,2,2,0,2
+73,Lung cancer + Hydrogel + VCAM-1,Lung cancer,Hydrogel,VCAM-1,0,153,340,26,15,1,2,2,2,2,0,2
+74,Breast cancer + Hydrogel + ICAM-1,Breast cancer,Hydrogel,ICAM-1,0,399,297,13,10,1,2,2,2,2,0,2
+75,Rheumatoid arthritis + Hydrogel + ICAM-1,Rheumatoid arthritis,Hydrogel,ICAM-1,0,56,497,13,10,1,2,2,2,2,0,2
+76,Lung cancer + Hydrogel + ICAM-1,Lung cancer,Hydrogel,ICAM-1,1,153,369,13,11,0,2,2,2,2,0,2
+77,Pancreatic cancer + Hydrogel + VCAM-1,Pancreatic cancer,Hydrogel,VCAM-1,0,63,85,26,4,1,2,2,2,2,0,1
+78,Rheumatoid arthritis + Hydrogel + VCAM-1,Rheumatoid arthritis,Hydrogel,VCAM-1,0,56,385,26,7,1,2,2,2,2,0,1
+79,Myocardial infarction + Hydrogel + ICAM-1,Myocardial infarction,Hydrogel,ICAM-1,0,395,398,13,4,1,2,2,2,2,0,1
+80,Asthma + Hydrogel + ICAM-1,Asthma,Hydrogel,ICAM-1,0,22,690,13,7,1,2,2,2,2,0,1
+81,Osteoarthritis + Hydrogel + ICAM-1,Osteoarthritis,Hydrogel,ICAM-1,0,285,119,13,4,1,2,2,2,2,0,1
+82,Breast cancer + Liposome + CAV1,Breast cancer,Liposome,CAV1,0,1827,234,11,5,0,2,2,2,2,0,1
+83,Lung cancer + Liposome + CAV1,Lung cancer,Liposome,CAV1,0,1513,177,11,4,0,2,2,2,2,0,1
+84,Pancreatic cancer + Liposome + CAV1,Pancreatic cancer,Liposome,CAV1,0,341,41,11,3,0,2,2,2,2,0,1
+85,Myocardial infarction + Hydrogel + VCAM-1,Myocardial infarction,Hydrogel,VCAM-1,1,395,343,26,6,0,2,2,2,2,0,1
+86,Lung cancer + Liposome + Annexin A1,Lung cancer,Liposome,Annexin A1,0,1513,63,28,0,1,2,2,2,2,0,0
+87,Rheumatoid arthritis + Liposome + Annexin A1,Rheumatoid arthritis,Liposome,Annexin A1,0,234,33,28,0,1,2,2,2,2,0,0
+88,Osteoarthritis + Hydrogel + VCAM-1,Osteoarthritis,Hydrogel,VCAM-1,0,285,96,26,1,1,2,2,2,2,0,0
+89,Pancreatic cancer + Liposome + Annexin A1,Pancreatic cancer,Liposome,Annexin A1,0,341,25,28,0,1,2,2,2,2,0,0
+90,Asthma + Hydrogel + VCAM-1,Asthma,Hydrogel,VCAM-1,0,22,400,26,1,1,2,2,2,2,0,0
+91,Asthma + Liposome + Annexin A1,Asthma,Liposome,Annexin A1,0,123,21,28,0,1,2,2,2,2,0,0
+92,Pancreatic cancer + Hydrogel + ICAM-1,Pancreatic cancer,Hydrogel,ICAM-1,0,63,102,13,1,1,2,2,2,2,0,0
+93,Glaucoma + Hydrogel + ICAM-1,Glaucoma,Hydrogel,ICAM-1,0,114,17,13,0,1,2,2,2,2,0,0
+94,Myocardial infarction + Liposome + Annexin A1,Myocardial infarction,Liposome,Annexin A1,0,172,13,28,0,1,2,2,2,2,0,0
+95,Glaucoma + Hydrogel + VCAM-1,Glaucoma,Hydrogel,VCAM-1,0,114,12,26,0,1,2,2,2,2,0,0
+96,Myocardial infarction + Liposome + CAV1,Myocardial infarction,Liposome,CAV1,0,172,32,11,0,0,2,2,2,2,0,0
+97,Asthma + Liposome + CAV1,Asthma,Liposome,CAV1,0,123,23,11,0,0,2,2,2,2,0,0
+98,Glaucoma + Liposome + CAV1,Glaucoma,Liposome,CAV1,0,78,45,11,0,0,2,2,2,2,0,0
+99,Lung cancer + Nanoparticle + Annexin A1,Lung cancer,Nanoparticle,Annexin A1,0,2930,63,11,0,1,2,2,2,2,0,0
+100,Pancreatic cancer + Nanoparticle + Annexin A1,Pancreatic cancer,Nanoparticle,Annexin A1,0,962,25,11,0,1,2,2,2,2,0,0
+101,Myocardial infarction + Nanoparticle + Annexin A1,Myocardial infarction,Nanoparticle,Annexin A1,0,506,13,11,0,1,2,2,2,2,0,0
+102,Rheumatoid arthritis + Nanoparticle + Annexin A1,Rheumatoid arthritis,Nanoparticle,Annexin A1,0,328,33,11,0,1,2,2,2,2,0,0
+103,Asthma + Nanoparticle + Annexin A1,Asthma,Nanoparticle,Annexin A1,0,297,21,11,0,1,2,2,2,2,0,0
+104,Hepatitis c + Hydrogel + VCAM-1,Hepatitis c,Hydrogel,VCAM-1,0,10,54,26,0,1,2,2,2,2,0,0
+105,Hepatitis c + Hydrogel + ICAM-1,Hepatitis c,Hydrogel,ICAM-1,0,10,105,13,1,1,2,2,2,2,0,0
+106,Breast cancer + Liposome + Annexin A1,Breast cancer,Liposome,Annexin A1,1,1827,73,28,1,0,2,2,2,2,0,0
+107,Breast cancer + Nanoparticle + Annexin A1,Breast cancer,Nanoparticle,Annexin A1,1,5811,73,11,1,0,2,2,2,2,0,0
+108,Hepatitis c + Nanoparticle + CAV1,Hepatitis c,Nanoparticle,CAV1,0,167,8,35,0,12,2,2,2,1,2,0
+109,Osteoarthritis + Nanoparticle + CAV1,Osteoarthritis,Nanoparticle,CAV1,0,210,5,35,0,12,2,2,2,1,2,0
+110,Rheumatoid arthritis + Nanoparticle + CAV1,Rheumatoid arthritis,Nanoparticle,CAV1,0,328,4,35,0,12,2,2,2,1,2,0
+111,Lung cancer + Nanoparticle + ASGPR,Lung cancer,Nanoparticle,ASGPR,1,2930,5,85,2,2,2,2,2,1,1,1
+112,Osteoarthritis + Nanoparticle + FAP,Osteoarthritis,Nanoparticle,FAP,0,210,9,24,0,3,2,2,2,1,1,0
+113,Osteoarthritis + Liposome + FAP,Osteoarthritis,Liposome,FAP,0,82,9,19,0,3,2,2,2,1,1,0
+114,Breast cancer + Liposome + ASGPR,Breast cancer,Liposome,ASGPR,0,1827,3,43,1,3,2,2,2,1,1,0
+115,Breast cancer + Nanoparticle + ASGPR,Breast cancer,Nanoparticle,ASGPR,1,5811,3,85,0,2,2,2,2,1,1,0
+116,Hepatitis c + Liposome + CAV1,Hepatitis c,Liposome,CAV1,0,123,8,11,0,0,2,2,2,1,0,0
+117,Osteoarthritis + Nanoparticle + Annexin A1,Osteoarthritis,Nanoparticle,Annexin A1,0,210,8,11,0,1,2,2,2,1,0,0
+118,Osteoarthritis + Liposome + Annexin A1,Osteoarthritis,Liposome,Annexin A1,0,82,8,28,0,1,2,2,2,1,0,0
+119,Osteoarthritis + Liposome + CAV1,Osteoarthritis,Liposome,CAV1,0,82,5,11,0,0,2,2,2,1,0,0
+120,Glaucoma + Nanoparticle + Annexin A1,Glaucoma,Nanoparticle,Annexin A1,0,166,5,11,0,1,2,2,2,1,0,0
+121,Glaucoma + Liposome + Annexin A1,Glaucoma,Liposome,Annexin A1,0,78,5,28,0,1,2,2,2,1,0,0
+122,Rheumatoid arthritis + Liposome + CAV1,Rheumatoid arthritis,Liposome,CAV1,0,234,4,11,0,0,2,2,2,1,0,0
+123,Myocardial infarction + Nanoparticle + PSMA,Myocardial infarction,Nanoparticle,PSMA,0,506,1,149,0,10,2,2,2,0,2,0
+124,Asthma + Nanoparticle + PSMA,Asthma,Nanoparticle,PSMA,0,297,1,149,0,10,2,2,2,0,2,0
+125,Osteoarthritis + Nanoparticle + PSMA,Osteoarthritis,Nanoparticle,PSMA,0,210,1,149,0,10,2,2,2,0,2,0
+126,Glaucoma + Nanoparticle + PSMA,Glaucoma,Nanoparticle,PSMA,0,166,1,149,0,10,2,2,2,0,2,0
+127,Rheumatoid arthritis + Nanoparticle + PSMA,Rheumatoid arthritis,Nanoparticle,PSMA,0,328,0,149,0,10,2,2,2,0,2,0
+128,Hepatitis c + Nanoparticle + PSMA,Hepatitis c,Nanoparticle,PSMA,0,167,0,149,0,10,2,2,2,0,2,0
+129,Myocardial infarction + Nanoparticle + ASGPR,Myocardial infarction,Nanoparticle,ASGPR,0,506,1,85,1,3,2,2,2,0,1,0
+130,Rheumatoid arthritis + Nanoparticle + ASGPR,Rheumatoid arthritis,Nanoparticle,ASGPR,0,328,1,85,0,3,2,2,2,0,1,0
+131,Rheumatoid arthritis + Liposome + ASGPR,Rheumatoid arthritis,Liposome,ASGPR,0,234,1,43,0,3,2,2,2,0,1,0
+132,Myocardial infarction + Liposome + PSMA,Myocardial infarction,Liposome,PSMA,0,172,1,21,0,6,2,2,2,0,1,0
+133,Myocardial infarction + Radiolabeled Antibody + PSMA,Myocardial infarction,Radiolabeled Antibody,PSMA,0,55,1,70,0,5,2,2,2,0,1,0
+134,Asthma + Liposome + PSMA,Asthma,Liposome,PSMA,0,123,1,21,0,6,2,2,2,0,1,0
+135,Asthma + Radiolabeled Antibody + PSMA,Asthma,Radiolabeled Antibody,PSMA,0,29,1,70,0,5,2,2,2,0,1,0
+136,Osteoarthritis + Liposome + PSMA,Osteoarthritis,Liposome,PSMA,0,82,1,21,0,6,2,2,2,0,1,0
+137,Osteoarthritis + Radiolabeled Antibody + PSMA,Osteoarthritis,Radiolabeled Antibody,PSMA,0,14,1,70,0,5,2,2,2,0,1,0
+138,Glaucoma + Liposome + PSMA,Glaucoma,Liposome,PSMA,0,78,1,21,0,6,2,2,2,0,1,0
+139,Pancreatic cancer + Nanoparticle + ASGPR,Pancreatic cancer,Nanoparticle,ASGPR,0,962,0,85,0,3,2,2,2,0,1,0
+140,Pancreatic cancer + Liposome + ASGPR,Pancreatic cancer,Liposome,ASGPR,0,341,0,43,0,3,2,2,2,0,1,0
+141,Asthma + Nanoparticle + ASGPR,Asthma,Nanoparticle,ASGPR,0,297,0,85,0,3,2,2,2,0,1,0
+142,Asthma + Liposome + ASGPR,Asthma,Liposome,ASGPR,0,123,0,43,0,3,2,2,2,0,1,0
+143,Osteoarthritis + Nanoparticle + ASGPR,Osteoarthritis,Nanoparticle,ASGPR,0,210,0,85,0,3,2,2,2,0,1,0
+144,Osteoarthritis + Liposome + ASGPR,Osteoarthritis,Liposome,ASGPR,0,82,0,43,0,3,2,2,2,0,1,0
+145,Glaucoma + Nanoparticle + ASGPR,Glaucoma,Nanoparticle,ASGPR,0,166,0,85,0,3,2,2,2,0,1,0
+146,Glaucoma + Liposome + ASGPR,Glaucoma,Liposome,ASGPR,0,78,0,43,0,3,2,2,2,0,1,0
+147,Rheumatoid arthritis + Liposome + PSMA,Rheumatoid arthritis,Liposome,PSMA,0,234,0,21,0,6,2,2,2,0,1,0
+148,Rheumatoid arthritis + Radiolabeled Antibody + PSMA,Rheumatoid arthritis,Radiolabeled Antibody,PSMA,0,118,0,70,0,5,2,2,2,0,1,0
+149,Hepatitis c + Liposome + PSMA,Hepatitis c,Liposome,PSMA,0,123,0,21,0,6,2,2,2,0,1,0
+150,Hepatitis c + Radiolabeled Antibody + PSMA,Hepatitis c,Radiolabeled Antibody,PSMA,0,13,0,70,0,5,2,2,2,0,1,0
+151,Myocardial infarction + Liposome + ASGPR,Myocardial infarction,Liposome,ASGPR,1,172,1,43,0,2,2,2,2,0,1,0
+152,Hepatitis c + Nanoparticle + Annexin A1,Hepatitis c,Nanoparticle,Annexin A1,0,167,1,11,0,1,2,2,2,0,0,0
+153,Hepatitis c + Liposome + Annexin A1,Hepatitis c,Liposome,Annexin A1,0,123,1,28,0,1,2,2,2,0,0,0
+154,Breast cancer + Radiolabeled Antibody + FAP,Breast cancer,Radiolabeled Antibody,FAP,0,505,139,6,3,5,2,2,1,2,1,1
+155,Lung cancer + Radiolabeled Antibody + FAP,Lung cancer,Radiolabeled Antibody,FAP,1,442,100,6,2,4,2,2,1,2,1,1
+156,Myocardial infarction + Radiolabeled Antibody + FAP,Myocardial infarction,Radiolabeled Antibody,FAP,0,55,13,6,0,5,2,2,1,2,1,0
+157,Asthma + Radiolabeled Antibody + FAP,Asthma,Radiolabeled Antibody,FAP,0,29,12,6,0,5,2,2,1,2,1,0
+158,Hepatitis c + Radiolabeled Antibody + FAP,Hepatitis c,Radiolabeled Antibody,FAP,0,13,12,6,0,5,2,2,1,2,1,0
+159,Pancreatic cancer + Radiolabeled Antibody + FAP,Pancreatic cancer,Radiolabeled Antibody,FAP,1,147,101,6,0,4,2,2,1,2,1,0
+160,Breast cancer + Hydrogel + PSMA,Breast cancer,Hydrogel,PSMA,0,399,71,3,11,0,2,2,1,2,0,2
+161,Breast cancer + Hydrogel + E-selectin,Breast cancer,Hydrogel,E-selectin,0,399,138,6,7,0,2,2,1,2,0,1
+162,Lung cancer + Hydrogel + E-selectin,Lung cancer,Hydrogel,E-selectin,0,153,143,6,8,0,2,2,1,2,0,1
+163,Myocardial infarction + Hydrogel + E-selectin,Myocardial infarction,Hydrogel,E-selectin,0,395,160,6,2,0,2,2,1,2,0,1
+164,Rheumatoid arthritis + Hydrogel + E-selectin,Rheumatoid arthritis,Hydrogel,E-selectin,0,56,191,6,5,0,2,2,1,2,0,1
+165,Osteoarthritis + Hydrogel + E-selectin,Osteoarthritis,Hydrogel,E-selectin,0,285,31,6,2,0,2,2,1,2,0,1
+166,Hepatitis c + Hydrogel + ASGPR,Hepatitis c,Hydrogel,ASGPR,0,10,14,4,2,0,2,2,1,2,0,1
+167,Breast cancer + Radiolabeled Antibody + CAV1,Breast cancer,Radiolabeled Antibody,CAV1,0,505,234,3,5,0,2,2,1,2,0,1
+168,Lung cancer + Radiolabeled Antibody + CAV1,Lung cancer,Radiolabeled Antibody,CAV1,0,442,177,3,4,0,2,2,1,2,0,1
+169,Pancreatic cancer + Radiolabeled Antibody + CAV1,Pancreatic cancer,Radiolabeled Antibody,CAV1,0,147,41,3,3,0,2,2,1,2,0,1
+170,Lung cancer + Hydrogel + PSMA,Lung cancer,Hydrogel,PSMA,0,153,100,3,7,0,2,2,1,2,0,1
+171,Pancreatic cancer + Hydrogel + PSMA,Pancreatic cancer,Hydrogel,PSMA,0,63,21,3,3,0,2,2,1,2,0,1
+172,Breast cancer + Hydrogel + FAP,Breast cancer,Hydrogel,FAP,0,399,139,2,3,0,2,2,1,2,0,1
+173,Lung cancer + Hydrogel + FAP,Lung cancer,Hydrogel,FAP,0,153,100,2,3,0,2,2,1,2,0,1
+174,Rheumatoid arthritis + Hydrogel + FAP,Rheumatoid arthritis,Hydrogel,FAP,0,56,12,2,4,0,2,2,1,2,0,1
+175,Pancreatic cancer + Hydrogel + E-selectin,Pancreatic cancer,Hydrogel,E-selectin,0,63,50,6,0,0,2,2,1,2,0,0
+176,Asthma + Hydrogel + E-selectin,Asthma,Hydrogel,E-selectin,0,22,130,6,0,0,2,2,1,2,0,0
+177,Hepatitis c + Hydrogel + E-selectin,Hepatitis c,Hydrogel,E-selectin,0,10,16,6,0,0,2,2,1,2,0,0
+178,Glaucoma + Hydrogel + E-selectin,Glaucoma,Hydrogel,E-selectin,0,114,15,6,0,0,2,2,1,2,0,0
+179,Myocardial infarction + Radiolabeled Antibody + CAV1,Myocardial infarction,Radiolabeled Antibody,CAV1,0,55,32,3,0,0,2,2,1,2,0,0
+180,Asthma + Radiolabeled Antibody + CAV1,Asthma,Radiolabeled Antibody,CAV1,0,29,23,3,0,0,2,2,1,2,0,0
+181,Pancreatic cancer + Hydrogel + FAP,Pancreatic cancer,Hydrogel,FAP,0,63,101,2,1,0,2,2,1,2,0,0
+182,Myocardial infarction + Hydrogel + FAP,Myocardial infarction,Hydrogel,FAP,0,395,13,2,0,0,2,2,1,2,0,0
+183,Asthma + Hydrogel + FAP,Asthma,Hydrogel,FAP,0,22,12,2,0,0,2,2,1,2,0,0
+184,Hepatitis c + Hydrogel + FAP,Hepatitis c,Hydrogel,FAP,0,10,12,2,0,0,2,2,1,2,0,0
+185,Glaucoma + Hydrogel + FAP,Glaucoma,Hydrogel,FAP,0,114,27,2,0,0,2,2,1,2,0,0
+186,Hepatitis c + Radiolabeled Antibody + ASGPR,Hepatitis c,Radiolabeled Antibody,ASGPR,1,13,14,6,1,0,2,2,1,2,0,0
+187,Osteoarthritis + Radiolabeled Antibody + FAP,Osteoarthritis,Radiolabeled Antibody,FAP,0,14,9,6,0,5,2,2,1,1,1,0
+188,Lung cancer + Radiolabeled Antibody + ASGPR,Lung cancer,Radiolabeled Antibody,ASGPR,0,442,5,6,3,1,2,2,1,1,0,1
+189,Lung cancer + Hydrogel + ASGPR,Lung cancer,Hydrogel,ASGPR,0,153,5,4,3,0,2,2,1,1,0,1
+190,Breast cancer + Hydrogel + ASGPR,Breast cancer,Hydrogel,ASGPR,0,399,3,4,1,0,2,2,1,1,0,0
+191,Breast cancer + Radiolabeled Antibody + ASGPR,Breast cancer,Radiolabeled Antibody,ASGPR,0,505,3,6,1,1,2,2,1,1,0,0
+192,Rheumatoid arthritis + Radiolabeled Antibody + CAV1,Rheumatoid arthritis,Radiolabeled Antibody,CAV1,0,118,4,3,0,0,2,2,1,1,0,0
+193,Osteoarthritis + Radiolabeled Antibody + CAV1,Osteoarthritis,Radiolabeled Antibody,CAV1,0,14,5,3,0,0,2,2,1,1,0,0
+194,Hepatitis c + Radiolabeled Antibody + CAV1,Hepatitis c,Radiolabeled Antibody,CAV1,0,13,8,3,0,0,2,2,1,1,0,0
+195,Osteoarthritis + Hydrogel + FAP,Osteoarthritis,Hydrogel,FAP,0,285,9,2,0,0,2,2,1,1,0,0
+196,Myocardial infarction + Hydrogel + ASGPR,Myocardial infarction,Hydrogel,ASGPR,0,395,1,4,1,0,2,2,1,0,0,0
+197,Myocardial infarction + Radiolabeled Antibody + ASGPR,Myocardial infarction,Radiolabeled Antibody,ASGPR,0,55,1,6,1,1,2,2,1,0,0,0
+198,Rheumatoid arthritis + Hydrogel + ASGPR,Rheumatoid arthritis,Hydrogel,ASGPR,0,56,1,4,0,0,2,2,1,0,0,0
+199,Rheumatoid arthritis + Radiolabeled Antibody + ASGPR,Rheumatoid arthritis,Radiolabeled Antibody,ASGPR,0,118,1,6,0,1,2,2,1,0,0,0
+200,Myocardial infarction + Hydrogel + PSMA,Myocardial infarction,Hydrogel,PSMA,0,395,1,3,0,0,2,2,1,0,0,0
+201,Asthma + Hydrogel + PSMA,Asthma,Hydrogel,PSMA,0,22,1,3,0,0,2,2,1,0,0,0
+202,Osteoarthritis + Hydrogel + PSMA,Osteoarthritis,Hydrogel,PSMA,0,285,1,3,0,0,2,2,1,0,0,0
+203,Glaucoma + Hydrogel + PSMA,Glaucoma,Hydrogel,PSMA,0,114,1,3,0,0,2,2,1,0,0,0
+204,Pancreatic cancer + Hydrogel + ASGPR,Pancreatic cancer,Hydrogel,ASGPR,0,63,0,4,0,0,2,2,1,0,0,0
+205,Pancreatic cancer + Radiolabeled Antibody + ASGPR,Pancreatic cancer,Radiolabeled Antibody,ASGPR,0,147,0,6,0,1,2,2,1,0,0,0
+206,Asthma + Hydrogel + ASGPR,Asthma,Hydrogel,ASGPR,0,22,0,4,0,0,2,2,1,0,0,0
+207,Asthma + Radiolabeled Antibody + ASGPR,Asthma,Radiolabeled Antibody,ASGPR,0,29,0,6,0,1,2,2,1,0,0,0
+208,Osteoarthritis + Hydrogel + ASGPR,Osteoarthritis,Hydrogel,ASGPR,0,285,0,4,0,0,2,2,1,0,0,0
+209,Osteoarthritis + Radiolabeled Antibody + ASGPR,Osteoarthritis,Radiolabeled Antibody,ASGPR,0,14,0,6,0,1,2,2,1,0,0,0
+210,Glaucoma + Hydrogel + ASGPR,Glaucoma,Hydrogel,ASGPR,0,114,0,4,0,0,2,2,1,0,0,0
+211,Rheumatoid arthritis + Hydrogel + PSMA,Rheumatoid arthritis,Hydrogel,PSMA,0,56,0,3,0,0,2,2,1,0,0,0
+212,Hepatitis c + Hydrogel + PSMA,Hepatitis c,Hydrogel,PSMA,0,10,0,3,0,0,2,2,1,0,0,0
+213,Breast cancer + Hydrogel + CAV1,Breast cancer,Hydrogel,CAV1,0,399,234,1,5,0,2,2,0,2,0,1
+214,Lung cancer + Hydrogel + CAV1,Lung cancer,Hydrogel,CAV1,0,153,177,1,4,0,2,2,0,2,0,1
+215,Pancreatic cancer + Hydrogel + CAV1,Pancreatic cancer,Hydrogel,CAV1,0,63,41,1,3,0,2,2,0,2,0,1
+216,Breast cancer + Hydrogel + Annexin A1,Breast cancer,Hydrogel,Annexin A1,0,399,73,1,2,0,2,2,0,2,0,1
+217,Breast cancer + Radiolabeled Antibody + Annexin A1,Breast cancer,Radiolabeled Antibody,Annexin A1,0,505,73,0,2,0,2,2,0,2,0,1
+218,Myocardial infarction + Hydrogel + CAV1,Myocardial infarction,Hydrogel,CAV1,0,395,32,1,0,0,2,2,0,2,0,0
+219,Asthma + Hydrogel + CAV1,Asthma,Hydrogel,CAV1,0,22,23,1,0,0,2,2,0,2,0,0
+220,Glaucoma + Hydrogel + CAV1,Glaucoma,Hydrogel,CAV1,0,114,45,1,0,0,2,2,0,2,0,0
+221,Lung cancer + Hydrogel + Annexin A1,Lung cancer,Hydrogel,Annexin A1,0,153,63,1,0,0,2,2,0,2,0,0
+222,Pancreatic cancer + Hydrogel + Annexin A1,Pancreatic cancer,Hydrogel,Annexin A1,0,63,25,1,0,0,2,2,0,2,0,0
+223,Myocardial infarction + Hydrogel + Annexin A1,Myocardial infarction,Hydrogel,Annexin A1,0,395,13,1,0,0,2,2,0,2,0,0
+224,Rheumatoid arthritis + Hydrogel + Annexin A1,Rheumatoid arthritis,Hydrogel,Annexin A1,0,56,33,1,0,0,2,2,0,2,0,0
+225,Asthma + Hydrogel + Annexin A1,Asthma,Hydrogel,Annexin A1,0,22,21,1,0,0,2,2,0,2,0,0
+226,Lung cancer + Radiolabeled Antibody + Annexin A1,Lung cancer,Radiolabeled Antibody,Annexin A1,0,442,63,0,0,0,2,2,0,2,0,0
+227,Pancreatic cancer + Radiolabeled Antibody + Annexin A1,Pancreatic cancer,Radiolabeled Antibody,Annexin A1,0,147,25,0,0,0,2,2,0,2,0,0
+228,Myocardial infarction + Radiolabeled Antibody + Annexin A1,Myocardial infarction,Radiolabeled Antibody,Annexin A1,0,55,13,0,0,0,2,2,0,2,0,0
+229,Rheumatoid arthritis + Radiolabeled Antibody + Annexin A1,Rheumatoid arthritis,Radiolabeled Antibody,Annexin A1,0,118,33,0,0,0,2,2,0,2,0,0
+230,Asthma + Radiolabeled Antibody + Annexin A1,Asthma,Radiolabeled Antibody,Annexin A1,0,29,21,0,0,0,2,2,0,2,0,0
+231,Rheumatoid arthritis + Hydrogel + CAV1,Rheumatoid arthritis,Hydrogel,CAV1,0,56,4,1,0,0,2,2,0,1,0,0
+232,Osteoarthritis + Hydrogel + CAV1,Osteoarthritis,Hydrogel,CAV1,0,285,5,1,0,0,2,2,0,1,0,0
+233,Hepatitis c + Hydrogel + CAV1,Hepatitis c,Hydrogel,CAV1,0,10,8,1,0,0,2,2,0,1,0,0
+234,Osteoarthritis + Hydrogel + Annexin A1,Osteoarthritis,Hydrogel,Annexin A1,0,285,8,1,0,0,2,2,0,1,0,0
+235,Glaucoma + Hydrogel + Annexin A1,Glaucoma,Hydrogel,Annexin A1,0,114,5,1,0,0,2,2,0,1,0,0
+236,Osteoarthritis + Radiolabeled Antibody + Annexin A1,Osteoarthritis,Radiolabeled Antibody,Annexin A1,0,14,8,0,0,0,2,2,0,1,0,0
+237,Hepatitis c + Hydrogel + Annexin A1,Hepatitis c,Hydrogel,Annexin A1,0,10,1,1,0,0,2,2,0,0,0,0
+238,Hepatitis c + Radiolabeled Antibody + Annexin A1,Hepatitis c,Radiolabeled Antibody,Annexin A1,0,13,1,0,0,0,2,2,0,0,0,0
+239,Glaucoma + Radiolabeled Antibody + VCAM-1,Glaucoma,Radiolabeled Antibody,VCAM-1,0,3,12,70,0,8,2,1,2,2,1,0
+240,Glaucoma + Radiolabeled Antibody + ICAM-1,Glaucoma,Radiolabeled Antibody,ICAM-1,0,3,17,83,0,7,2,1,2,2,1,0
+241,Glaucoma + Radiolabeled Antibody + E-selectin,Glaucoma,Radiolabeled Antibody,E-selectin,0,3,15,60,0,9,2,1,2,2,1,0
+242,Glaucoma + Radiolabeled Antibody + PSMA,Glaucoma,Radiolabeled Antibody,PSMA,0,3,1,70,0,5,2,1,2,0,1,0
+243,Glaucoma + Radiolabeled Antibody + FAP,Glaucoma,Radiolabeled Antibody,FAP,0,3,27,6,0,5,2,1,1,2,1,0
+244,Glaucoma + Radiolabeled Antibody + CAV1,Glaucoma,Radiolabeled Antibody,CAV1,0,3,45,3,0,0,2,1,1,2,0,0
+245,Glaucoma + Radiolabeled Antibody + ASGPR,Glaucoma,Radiolabeled Antibody,ASGPR,0,3,0,6,0,1,2,1,1,0,0,0
+246,Glaucoma + Radiolabeled Antibody + Annexin A1,Glaucoma,Radiolabeled Antibody,Annexin A1,0,3,5,0,0,0,2,1,0,1,0,0
+247,Breast cancer + Nanoparticle + VCAM-1,Breast cancer,Nanoparticle,VCAM-1,6,5811,299,201,10,14,1,2,2,2,2,2
+248,Myocardial infarction + Nanoparticle + ICAM-1,Myocardial infarction,Nanoparticle,ICAM-1,2,506,398,185,2,16,1,2,2,2,2,1
+249,Asthma + Nanoparticle + ICAM-1,Asthma,Nanoparticle,ICAM-1,2,297,690,185,5,16,1,2,2,2,2,1
+250,Myocardial infarction + Liposome + ICAM-1,Myocardial infarction,Liposome,ICAM-1,2,172,398,157,2,21,1,2,2,2,2,1
+251,Myocardial infarction + Nanoparticle + VCAM-1,Myocardial infarction,Nanoparticle,VCAM-1,3,506,343,201,4,17,1,2,2,2,2,1
+252,Myocardial infarction + Liposome + VCAM-1,Myocardial infarction,Liposome,VCAM-1,3,172,343,128,4,19,1,2,2,2,2,1
+253,Lung cancer + Nanoparticle + ICAM-1,Lung cancer,Nanoparticle,ICAM-1,4,2930,369,185,8,14,1,2,2,2,2,1
+254,Rheumatoid arthritis + Nanoparticle + ICAM-1,Rheumatoid arthritis,Nanoparticle,ICAM-1,4,328,497,185,6,14,1,2,2,2,2,1
+255,Rheumatoid arthritis + Liposome + ICAM-1,Rheumatoid arthritis,Liposome,ICAM-1,4,234,497,157,6,19,1,2,2,2,2,1
+256,Rheumatoid arthritis + Nanoparticle + VCAM-1,Rheumatoid arthritis,Nanoparticle,VCAM-1,5,328,385,201,2,15,1,2,2,2,2,1
+257,Breast cancer + Nanoparticle + ICAM-1,Breast cancer,Nanoparticle,ICAM-1,5,5811,297,185,5,13,1,2,2,2,2,1
+258,Breast cancer + Liposome + ICAM-1,Breast cancer,Liposome,ICAM-1,5,1827,297,157,5,18,1,2,2,2,2,1
+259,Lung cancer + Liposome + ICAM-1,Lung cancer,Liposome,ICAM-1,5,1513,369,157,7,18,1,2,2,2,2,1
+260,Asthma + Liposome + ICAM-1,Asthma,Liposome,ICAM-1,5,123,690,157,2,18,1,2,2,2,2,1
+261,Lung cancer + Nanoparticle + VCAM-1,Lung cancer,Nanoparticle,VCAM-1,6,2930,340,201,9,14,1,2,2,2,2,1
+262,Lung cancer + Liposome + VCAM-1,Lung cancer,Liposome,VCAM-1,6,1513,340,128,9,16,1,2,2,2,2,1
+263,Breast cancer + Liposome + VCAM-1,Breast cancer,Liposome,VCAM-1,7,1827,299,128,9,15,1,2,2,2,2,1
+264,Pancreatic cancer + Liposome + VCAM-1,Pancreatic cancer,Liposome,VCAM-1,4,341,85,128,0,18,1,2,2,2,2,0
+265,Lung cancer + Radiolabeled Antibody + ICAM-1,Lung cancer,Radiolabeled Antibody,ICAM-1,2,442,369,83,10,5,1,2,2,2,1,2
+266,Breast cancer + Radiolabeled Antibody + VCAM-1,Breast cancer,Radiolabeled Antibody,VCAM-1,3,505,299,70,13,5,1,2,2,2,1,2
+267,Lung cancer + Radiolabeled Antibody + VCAM-1,Lung cancer,Radiolabeled Antibody,VCAM-1,3,442,340,70,12,5,1,2,2,2,1,2
+268,Rheumatoid arthritis + Radiolabeled Antibody + ICAM-1,Rheumatoid arthritis,Radiolabeled Antibody,ICAM-1,2,118,497,83,8,5,1,2,2,2,1,1
+269,Breast cancer + Nanoparticle + E-selectin,Breast cancer,Nanoparticle,E-selectin,2,5811,138,61,5,4,1,2,2,2,1,1
+270,Lung cancer + Radiolabeled Antibody + E-selectin,Lung cancer,Radiolabeled Antibody,E-selectin,2,442,143,60,6,7,1,2,2,2,1,1
+271,Breast cancer + Liposome + PSMA,Breast cancer,Liposome,PSMA,2,1827,71,21,9,4,1,2,2,2,1,1
+272,Osteoarthritis + Radiolabeled Antibody + ICAM-1,Osteoarthritis,Radiolabeled Antibody,ICAM-1,2,14,119,83,2,5,1,2,2,2,1,1
+273,Lung cancer + Nanoparticle + PSMA,Lung cancer,Nanoparticle,PSMA,3,2930,100,149,4,7,1,2,2,2,1,1
+274,Lung cancer + Liposome + E-selectin,Lung cancer,Liposome,E-selectin,3,1513,143,71,5,6,1,2,2,2,1,1
+275,Breast cancer + Radiolabeled Antibody + PSMA,Breast cancer,Radiolabeled Antibody,PSMA,3,505,71,70,8,2,1,2,2,2,1,1
+276,Lung cancer + Nanoparticle + E-selectin,Lung cancer,Nanoparticle,E-selectin,3,2930,143,61,5,3,1,2,2,2,1,1
+277,Lung cancer + Liposome + PSMA,Lung cancer,Liposome,PSMA,3,1513,100,21,4,3,1,2,2,2,1,1
+278,Breast cancer + Liposome + E-selectin,Breast cancer,Liposome,E-selectin,5,1827,138,71,2,4,1,2,2,2,1,1
+279,Breast cancer + Nanoparticle + PSMA,Breast cancer,Nanoparticle,PSMA,6,5811,71,149,5,4,1,2,2,2,1,1
+280,Osteoarthritis + Radiolabeled Antibody + E-selectin,Osteoarthritis,Radiolabeled Antibody,E-selectin,2,14,31,60,0,7,1,2,2,2,1,0
+281,Pancreatic cancer + Nanoparticle + CAV1,Pancreatic cancer,Nanoparticle,CAV1,3,962,41,35,0,9,1,2,2,2,1,0
+282,Lung cancer + Nanoparticle + CAV1,Lung cancer,Nanoparticle,CAV1,4,2930,177,35,0,8,1,2,2,2,1,0
+283,Rheumatoid arthritis + Radiolabeled Antibody + E-selectin,Rheumatoid arthritis,Radiolabeled Antibody,E-selectin,5,118,191,60,0,4,1,2,2,2,1,0
+284,Breast cancer + Nanoparticle + CAV1,Breast cancer,Nanoparticle,CAV1,5,5811,234,35,0,7,1,2,2,2,1,0
+285,Lung cancer + Nanoparticle + FAP,Lung cancer,Nanoparticle,FAP,2,2930,100,24,1,1,1,2,2,2,0,0
+286,Breast cancer + Liposome + FAP,Breast cancer,Liposome,FAP,2,1827,139,19,1,1,1,2,2,2,0,0
+287,Lung cancer + Liposome + ASGPR,Lung cancer,Liposome,ASGPR,2,1513,5,43,1,1,1,2,2,1,0,0
+288,Rheumatoid arthritis + Radiolabeled Antibody + FAP,Rheumatoid arthritis,Radiolabeled Antibody,FAP,3,118,12,6,1,2,1,2,1,2,1,0

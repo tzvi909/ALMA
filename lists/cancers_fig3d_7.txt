@@ -1,0 +1,7 @@
+Lung cancer
+Breast cancer
+Head and neck cancer
+Prostate cancer
+Pancreatic cancer
+Hepatocellular carcinoma
+Melanoma

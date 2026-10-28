@@ -1,0 +1,18 @@
+kinase inhibitor,paper (Fig 2d),reproduction,match
+Dasatinib,Leukemia,Leukemia,True
+Bosutinib,Leukemia,Leukemia,True
+Imatinib,Leukemia,Leukemia,True
+Gefitinib,Lung cancer,Lung cancer,True
+Erlotinib,Lung cancer,Lung cancer,True
+Crizotinib,Lung cancer,Lung cancer,True
+Palbociclib,Breast cancer,Breast cancer,True
+Neratinib,Breast cancer,Breast cancer,True
+Lapatinib,Breast cancer,Breast cancer,True
+Trametinib,Melanoma,Melanoma,True
+Dabrafenib,Melanoma,Melanoma,True
+Encorafenib,Melanoma,Melanoma,True
+Cabozantinib,Renal cell carcinoma,Renal cell carcinoma,True
+Everolimus,Renal cell carcinoma,Renal cell carcinoma,True
+Sunitinib,Renal cell carcinoma,Renal cell carcinoma,True
+Sorafenib,Hepatocellular carcinoma,Hepatocellular carcinoma,True
+Regorafenib,Hepatocellular carcinoma,Hepatocellular carcinoma,True

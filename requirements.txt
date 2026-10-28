@@ -1,0 +1,13 @@
+# ALMA (Python engine, command line, reproduction scripts)
+requests
+pandas
+numpy
+matplotlib
+openpyxl
+xlsxwriter
+tabulate
+# Excel through Python (excel/ALMA_xlwings.py, on the computer with Excel)
+xlwings
+# tests of the VBA project writer
+oletools
+olefile

@@ -1,0 +1,141 @@
+rank,hypothesis,row,col,var,NOP,NOP_LR,NOP_THR,NOP_TVR,NOP_HR,NOP_VR,N,LR,TVR,THR,VR,HR,pub_year,class,hypothesis_text
+1,Osteoarthritis + Nanoparticle + VCAM-1,Osteoarthritis,Nanoparticle,VCAM-1,0,1002,116,343,3,39,2,2,2,2,2,1,,novel - unpublished,VCAM-1 targeted Nanoparticle for Osteoarthritis
+2,Osteoarthritis + Liposome + VCAM-1,Osteoarthritis,Liposome,VCAM-1,0,269,116,162,3,28,2,2,2,2,2,1,,novel - unpublished,VCAM-1 targeted Liposome for Osteoarthritis
+3,Rheumatoid arthritis + Nanoparticle + E-selectin,Rheumatoid arthritis,Nanoparticle,E-selectin,0,1115,206,105,6,14,2,2,2,2,2,1,,novel - unpublished,E-selectin targeted Nanoparticle for Rheumatoid arthritis
+4,Pancreatic cancer + Nanoparticle + VCAM-1,Pancreatic cancer,Nanoparticle,VCAM-1,0,2555,101,343,5,39,2,2,2,2,2,1,,novel - unpublished,VCAM-1 targeted Nanoparticle for Pancreatic cancer
+5,Osteoarthritis + Nanoparticle + E-selectin,Osteoarthritis,Nanoparticle,E-selectin,0,1002,31,105,2,14,2,2,2,2,2,1,,novel - unpublished,E-selectin targeted Nanoparticle for Osteoarthritis
+6,Osteoarthritis + Liposome + E-selectin,Osteoarthritis,Liposome,E-selectin,0,269,31,92,2,13,2,2,2,2,2,1,,novel - unpublished,E-selectin targeted Liposome for Osteoarthritis
+7,Osteoarthritis + Liposome + ICAM-1,Osteoarthritis,Liposome,ICAM-1,1,269,137,185,6,28,2,2,2,2,2,1,2003.0,novel - 1 publication < 2021 (untimely),ICAM-1 targeted Liposome for Osteoarthritis
+8,Pancreatic cancer + Nanoparticle + ICAM-1,Pancreatic cancer,Nanoparticle,ICAM-1,1,2555,136,328,2,46,2,2,2,2,2,1,2021.0,novel - 1 publication >= 2021 (timely),ICAM-1 targeted Nanoparticle for Pancreatic cancer
+9,Pancreatic cancer + Liposome + ICAM-1,Pancreatic cancer,Liposome,ICAM-1,1,794,136,185,2,28,2,2,2,2,2,1,2016.0,novel - 1 publication < 2021 (untimely),ICAM-1 targeted Liposome for Pancreatic cancer
+10,Myocardial infarction + Liposome + E-selectin,Myocardial infarction,Liposome,E-selectin,1,273,176,92,2,12,2,2,2,2,2,1,2003.0,novel - 1 publication < 2021 (untimely),E-selectin targeted Liposome for Myocardial infarction
+11,Rheumatoid arthritis + Liposome + E-selectin,Rheumatoid arthritis,Liposome,E-selectin,1,473,206,92,5,12,2,2,2,2,2,1,2026.0,novel - 1 publication >= 2021 (timely),E-selectin targeted Liposome for Rheumatoid arthritis
+12,Myocardial infarction + Liposome + FAP,Myocardial infarction,Liposome,FAP,1,273,61,47,9,14,2,2,2,2,2,1,2025.0,novel - 1 publication >= 2021 (timely),FAP targeted Liposome for Myocardial infarction
+13,Hepatitis c + Nanoparticle + ICAM-1,Hepatitis c,Nanoparticle,ICAM-1,0,291,118,328,1,47,2,2,2,2,2,0,,novel - unpublished,ICAM-1 targeted Nanoparticle for Hepatitis c
+14,Hepatitis c + Liposome + ICAM-1,Hepatitis c,Liposome,ICAM-1,0,146,118,185,1,29,2,2,2,2,2,0,,novel - unpublished,ICAM-1 targeted Liposome for Hepatitis c
+15,Asthma + Nanoparticle + E-selectin,Asthma,Nanoparticle,E-selectin,0,649,139,105,0,14,2,2,2,2,2,0,,novel - unpublished,E-selectin targeted Nanoparticle for Asthma
+16,Asthma + Liposome + E-selectin,Asthma,Liposome,E-selectin,0,213,139,92,0,13,2,2,2,2,2,0,,novel - unpublished,E-selectin targeted Liposome for Asthma
+17,Myocardial infarction + Nanoparticle + CAV1,Myocardial infarction,Nanoparticle,CAV1,0,1214,65,72,0,23,2,2,2,2,2,0,,novel - unpublished,CAV1 targeted Nanoparticle for Myocardial infarction
+18,Hepatitis c + Nanoparticle + VCAM-1,Hepatitis c,Nanoparticle,VCAM-1,0,291,63,343,0,39,2,2,2,2,2,0,,novel - unpublished,VCAM-1 targeted Nanoparticle for Hepatitis c
+19,Hepatitis c + Liposome + VCAM-1,Hepatitis c,Liposome,VCAM-1,0,146,63,162,0,28,2,2,2,2,2,0,,novel - unpublished,VCAM-1 targeted Liposome for Hepatitis c
+20,Glaucoma + Nanoparticle + FAP,Glaucoma,Nanoparticle,FAP,0,426,37,131,0,40,2,2,2,2,2,0,,novel - unpublished,FAP targeted Nanoparticle for Glaucoma
+21,Glaucoma + Liposome + FAP,Glaucoma,Liposome,FAP,0,150,37,47,0,15,2,2,2,2,2,0,,novel - unpublished,FAP targeted Liposome for Glaucoma
+22,Asthma + Nanoparticle + CAV1,Asthma,Nanoparticle,CAV1,0,649,32,72,0,23,2,2,2,2,2,0,,novel - unpublished,CAV1 targeted Nanoparticle for Asthma
+23,Glaucoma + Nanoparticle + ICAM-1,Glaucoma,Nanoparticle,ICAM-1,0,426,31,328,0,47,2,2,2,2,2,0,,novel - unpublished,ICAM-1 targeted Nanoparticle for Glaucoma
+24,Glaucoma + Liposome + ICAM-1,Glaucoma,Liposome,ICAM-1,0,150,31,185,0,29,2,2,2,2,2,0,,novel - unpublished,ICAM-1 targeted Liposome for Glaucoma
+25,Glaucoma + Nanoparticle + VCAM-1,Glaucoma,Nanoparticle,VCAM-1,0,426,22,343,0,39,2,2,2,2,2,0,,novel - unpublished,VCAM-1 targeted Nanoparticle for Glaucoma
+26,Glaucoma + Liposome + VCAM-1,Glaucoma,Liposome,VCAM-1,0,150,22,162,0,28,2,2,2,2,2,0,,novel - unpublished,VCAM-1 targeted Liposome for Glaucoma
+27,Hepatitis c + Nanoparticle + E-selectin,Hepatitis c,Nanoparticle,E-selectin,0,291,22,105,0,14,2,2,2,2,2,0,,novel - unpublished,E-selectin targeted Nanoparticle for Hepatitis c
+28,Hepatitis c + Liposome + E-selectin,Hepatitis c,Liposome,E-selectin,0,146,22,92,0,13,2,2,2,2,2,0,,novel - unpublished,E-selectin targeted Liposome for Hepatitis c
+29,Asthma + Nanoparticle + FAP,Asthma,Nanoparticle,FAP,0,649,19,131,0,40,2,2,2,2,2,0,,novel - unpublished,FAP targeted Nanoparticle for Asthma
+30,Asthma + Liposome + FAP,Asthma,Liposome,FAP,0,213,19,47,0,15,2,2,2,2,2,0,,novel - unpublished,FAP targeted Liposome for Asthma
+31,Osteoarthritis + Nanoparticle + CAV1,Osteoarthritis,Nanoparticle,CAV1,0,1002,18,72,1,23,2,2,2,2,2,0,,novel - unpublished,CAV1 targeted Nanoparticle for Osteoarthritis
+32,Hepatitis c + Nanoparticle + FAP,Hepatitis c,Nanoparticle,FAP,0,291,17,131,0,40,2,2,2,2,2,0,,novel - unpublished,FAP targeted Nanoparticle for Hepatitis c
+33,Hepatitis c + Liposome + FAP,Hepatitis c,Liposome,FAP,0,146,17,47,0,15,2,2,2,2,2,0,,novel - unpublished,FAP targeted Liposome for Hepatitis c
+34,Glaucoma + Nanoparticle + E-selectin,Glaucoma,Nanoparticle,E-selectin,0,426,16,105,0,14,2,2,2,2,2,0,,novel - unpublished,E-selectin targeted Nanoparticle for Glaucoma
+35,Glaucoma + Liposome + E-selectin,Glaucoma,Liposome,E-selectin,0,150,16,92,0,13,2,2,2,2,2,0,,novel - unpublished,E-selectin targeted Liposome for Glaucoma
+36,Hepatitis c + Nanoparticle + CAV1,Hepatitis c,Nanoparticle,CAV1,0,291,11,72,0,23,2,2,2,2,2,0,,novel - unpublished,CAV1 targeted Nanoparticle for Hepatitis c
+37,Asthma + Nanoparticle + VCAM-1,Asthma,Nanoparticle,VCAM-1,1,649,433,343,1,38,2,2,2,2,2,0,2024.0,novel - 1 publication >= 2021 (timely),VCAM-1 targeted Nanoparticle for Asthma
+38,Asthma + Liposome + VCAM-1,Asthma,Liposome,VCAM-1,1,213,433,162,1,27,2,2,2,2,2,0,2016.0,novel - 1 publication < 2021 (untimely),VCAM-1 targeted Liposome for Asthma
+39,Glaucoma + Nanoparticle + CAV1,Glaucoma,Nanoparticle,CAV1,1,426,72,72,0,22,2,2,2,2,2,0,2021.0,novel - 1 publication >= 2021 (timely),CAV1 targeted Nanoparticle for Glaucoma
+40,Pancreatic cancer + Nanoparticle + E-selectin,Pancreatic cancer,Nanoparticle,E-selectin,1,2555,62,105,1,13,2,2,2,2,2,0,2021.0,novel - 1 publication >= 2021 (timely),E-selectin targeted Nanoparticle for Pancreatic cancer
+41,Pancreatic cancer + Liposome + E-selectin,Pancreatic cancer,Liposome,E-selectin,1,794,62,92,1,12,2,2,2,2,2,0,2026.0,novel - 1 publication >= 2021 (timely),E-selectin targeted Liposome for Pancreatic cancer
+42,Osteoarthritis + Nanoparticle + FAP,Osteoarthritis,Nanoparticle,FAP,1,1002,31,131,1,39,2,2,2,2,2,0,2024.0,novel - 1 publication >= 2021 (timely),FAP targeted Nanoparticle for Osteoarthritis
+43,Osteoarthritis + Liposome + FAP,Osteoarthritis,Liposome,FAP,1,269,31,47,1,14,2,2,2,2,2,0,2024.0,novel - 1 publication >= 2021 (timely),FAP targeted Liposome for Osteoarthritis
+44,Rheumatoid arthritis + Nanoparticle + CAV1,Rheumatoid arthritis,Nanoparticle,CAV1,1,1115,13,72,0,22,2,2,2,2,2,0,2025.0,novel - 1 publication >= 2021 (timely),CAV1 targeted Nanoparticle for Rheumatoid arthritis
+45,Breast cancer + Radiolabeled Antibody + ICAM-1,Breast cancer,Radiolabeled Antibody,ICAM-1,0,613,403,88,19,8,2,2,2,2,1,2,,novel - unpublished,ICAM-1 targeted Radiolabeled Antibody for Breast cancer
+46,Breast cancer + Radiolabeled Antibody + E-selectin,Breast cancer,Radiolabeled Antibody,E-selectin,0,613,168,60,10,9,2,2,2,2,1,2,,novel - unpublished,E-selectin targeted Radiolabeled Antibody for Breast cancer
+47,Breast cancer + Hydrogel + VCAM-1,Breast cancer,Hydrogel,VCAM-1,0,1360,369,58,28,6,2,2,2,2,1,2,,novel - unpublished,VCAM-1 targeted Hydrogel for Breast cancer
+48,Rheumatoid arthritis + Hydrogel + VCAM-1,Rheumatoid arthritis,Hydrogel,VCAM-1,0,272,453,58,11,6,2,2,2,2,1,2,,novel - unpublished,VCAM-1 targeted Hydrogel for Rheumatoid arthritis
+49,Myocardial infarction + Radiolabeled Antibody + VCAM-1,Myocardial infarction,Radiolabeled Antibody,VCAM-1,0,56,441,76,10,8,2,2,2,2,1,2,,novel - unpublished,VCAM-1 targeted Radiolabeled Antibody for Myocardial infarction
+50,Myocardial infarction + Radiolabeled Antibody + ICAM-1,Myocardial infarction,Radiolabeled Antibody,ICAM-1,0,56,482,88,11,8,2,2,2,2,1,2,,novel - unpublished,ICAM-1 targeted Radiolabeled Antibody for Myocardial infarction
+51,Breast cancer + Hydrogel + ICAM-1,Breast cancer,Hydrogel,ICAM-1,0,1360,403,38,19,2,2,2,2,2,1,2,,novel - unpublished,ICAM-1 targeted Hydrogel for Breast cancer
+52,Myocardial infarction + Hydrogel + ICAM-1,Myocardial infarction,Hydrogel,ICAM-1,0,903,482,38,11,2,2,2,2,2,1,2,,novel - unpublished,ICAM-1 targeted Hydrogel for Myocardial infarction
+53,Rheumatoid arthritis + Hydrogel + ICAM-1,Rheumatoid arthritis,Hydrogel,ICAM-1,0,272,569,38,12,2,2,2,2,2,1,2,,novel - unpublished,ICAM-1 targeted Hydrogel for Rheumatoid arthritis
+54,Asthma + Hydrogel + ICAM-1,Asthma,Hydrogel,ICAM-1,0,69,773,38,13,2,2,2,2,2,1,2,,novel - unpublished,ICAM-1 targeted Hydrogel for Asthma
+55,Asthma + Radiolabeled Antibody + ICAM-1,Asthma,Radiolabeled Antibody,ICAM-1,0,31,773,88,13,8,2,2,2,2,1,2,,novel - unpublished,ICAM-1 targeted Radiolabeled Antibody for Asthma
+56,Pancreatic cancer + Hydrogel + FAP,Pancreatic cancer,Hydrogel,FAP,0,279,299,24,14,5,2,2,2,2,1,2,,novel - unpublished,FAP targeted Hydrogel for Pancreatic cancer
+57,Myocardial infarction + Radiolabeled Antibody + FAP,Myocardial infarction,Radiolabeled Antibody,FAP,0,56,61,20,10,8,2,2,2,2,1,2,,novel - unpublished,FAP targeted Radiolabeled Antibody for Myocardial infarction
+58,Rheumatoid arthritis + Radiolabeled Antibody + VCAM-1,Rheumatoid arthritis,Radiolabeled Antibody,VCAM-1,1,126,453,76,10,7,2,2,2,2,1,2,1996.0,novel - 1 publication < 2021 (untimely),VCAM-1 targeted Radiolabeled Antibody for Rheumatoid arthritis
+59,Lung cancer + Hydrogel + VCAM-1,Lung cancer,Hydrogel,VCAM-1,1,492,428,58,21,5,2,2,2,2,1,2,2026.0,novel - 1 publication >= 2021 (timely),VCAM-1 targeted Hydrogel for Lung cancer
+60,Breast cancer + Hydrogel + FAP,Breast cancer,Hydrogel,FAP,1,1360,335,24,23,4,2,2,2,2,1,2,2026.0,novel - 1 publication >= 2021 (timely),FAP targeted Hydrogel for Breast cancer
+61,Pancreatic cancer + Radiolabeled Antibody + VCAM-1,Pancreatic cancer,Radiolabeled Antibody,VCAM-1,0,193,101,76,5,8,2,2,2,2,1,1,,novel - unpublished,VCAM-1 targeted Radiolabeled Antibody for Pancreatic cancer
+62,Pancreatic cancer + Radiolabeled Antibody + E-selectin,Pancreatic cancer,Radiolabeled Antibody,E-selectin,0,193,62,60,2,9,2,2,2,2,1,1,,novel - unpublished,E-selectin targeted Radiolabeled Antibody for Pancreatic cancer
+63,Asthma + Hydrogel + VCAM-1,Asthma,Hydrogel,VCAM-1,0,69,433,58,2,6,2,2,2,2,1,1,,novel - unpublished,VCAM-1 targeted Hydrogel for Asthma
+64,Myocardial infarction + Radiolabeled Antibody + E-selectin,Myocardial infarction,Radiolabeled Antibody,E-selectin,0,56,176,60,3,9,2,2,2,2,1,1,,novel - unpublished,E-selectin targeted Radiolabeled Antibody for Myocardial infarction
+65,Pancreatic cancer + Hydrogel + ICAM-1,Pancreatic cancer,Hydrogel,ICAM-1,0,279,136,38,3,2,2,2,2,2,1,1,,novel - unpublished,ICAM-1 targeted Hydrogel for Pancreatic cancer
+66,Asthma + Radiolabeled Antibody + VCAM-1,Asthma,Radiolabeled Antibody,VCAM-1,0,31,433,76,2,8,2,2,2,2,1,1,,novel - unpublished,VCAM-1 targeted Radiolabeled Antibody for Asthma
+67,Rheumatoid arthritis + Hydrogel + FAP,Rheumatoid arthritis,Hydrogel,FAP,0,272,46,24,8,5,2,2,2,2,1,1,,novel - unpublished,FAP targeted Hydrogel for Rheumatoid arthritis
+68,Osteoarthritis + Hydrogel + FAP,Osteoarthritis,Hydrogel,FAP,0,1206,31,24,2,5,2,2,2,2,1,1,,novel - unpublished,FAP targeted Hydrogel for Osteoarthritis
+69,Breast cancer + Liposome + CAV1,Breast cancer,Liposome,CAV1,0,3334,327,22,9,2,2,2,2,2,1,1,,novel - unpublished,CAV1 targeted Liposome for Breast cancer
+70,Osteoarthritis + Radiolabeled Antibody + FAP,Osteoarthritis,Radiolabeled Antibody,FAP,0,16,31,20,2,8,2,2,2,2,1,1,,novel - unpublished,FAP targeted Radiolabeled Antibody for Osteoarthritis
+71,Hepatitis c + Liposome + ASGPR,Hepatitis c,Liposome,ASGPR,0,146,15,62,2,3,2,2,2,2,1,1,,novel - unpublished,ASGPR targeted Liposome for Hepatitis c
+72,Breast cancer + Hydrogel + CAV1,Breast cancer,Hydrogel,CAV1,0,1360,327,10,9,2,2,2,2,2,1,1,,novel - unpublished,CAV1 targeted Hydrogel for Breast cancer
+73,Lung cancer + Hydrogel + CAV1,Lung cancer,Hydrogel,CAV1,0,492,253,10,9,2,2,2,2,2,1,1,,novel - unpublished,CAV1 targeted Hydrogel for Lung cancer
+74,Pancreatic cancer + Radiolabeled Antibody + ICAM-1,Pancreatic cancer,Radiolabeled Antibody,ICAM-1,1,193,136,88,2,7,2,2,2,2,1,1,2020.0,novel - 1 publication < 2021 (untimely),ICAM-1 targeted Radiolabeled Antibody for Pancreatic cancer
+75,Pancreatic cancer + Hydrogel + VCAM-1,Pancreatic cancer,Hydrogel,VCAM-1,1,279,101,58,4,5,2,2,2,2,1,1,2024.0,novel - 1 publication >= 2021 (timely),VCAM-1 targeted Hydrogel for Pancreatic cancer
+76,Pancreatic cancer + Liposome + PSMA,Pancreatic cancer,Liposome,PSMA,1,794,64,38,7,5,2,2,2,2,1,1,2016.0,novel - 1 publication < 2021 (untimely),PSMA targeted Liposome for Pancreatic cancer
+77,Lung cancer + Radiolabeled Antibody + FAP,Lung cancer,Radiolabeled Antibody,FAP,1,502,346,20,9,7,2,2,2,2,1,1,2019.0,novel - 1 publication < 2021 (untimely),FAP targeted Radiolabeled Antibody for Lung cancer
+78,Osteoarthritis + Radiolabeled Antibody + VCAM-1,Osteoarthritis,Radiolabeled Antibody,VCAM-1,1,16,116,76,2,7,2,2,2,2,1,1,1996.0,novel - 1 publication < 2021 (untimely),VCAM-1 targeted Radiolabeled Antibody for Osteoarthritis
+79,Pancreatic cancer + Nanoparticle + Annexin A1,Pancreatic cancer,Nanoparticle,Annexin A1,0,2555,41,35,1,6,2,2,2,2,1,0,,novel - unpublished,Annexin A1 targeted Nanoparticle for Pancreatic cancer
+80,Rheumatoid arthritis + Nanoparticle + Annexin A1,Rheumatoid arthritis,Nanoparticle,Annexin A1,0,1115,44,35,0,6,2,2,2,2,1,0,,novel - unpublished,Annexin A1 targeted Nanoparticle for Rheumatoid arthritis
+81,Rheumatoid arthritis + Liposome + Annexin A1,Rheumatoid arthritis,Liposome,Annexin A1,0,473,44,32,0,4,2,2,2,2,1,0,,novel - unpublished,Annexin A1 targeted Liposome for Rheumatoid arthritis
+82,Glaucoma + Hydrogel + ICAM-1,Glaucoma,Hydrogel,ICAM-1,0,283,31,38,0,2,2,2,2,2,1,0,,novel - unpublished,ICAM-1 targeted Hydrogel for Glaucoma
+83,Asthma + Radiolabeled Antibody + E-selectin,Asthma,Radiolabeled Antibody,E-selectin,0,31,139,60,0,9,2,2,2,2,1,0,,novel - unpublished,E-selectin targeted Radiolabeled Antibody for Asthma
+84,Asthma + Liposome + Annexin A1,Asthma,Liposome,Annexin A1,0,213,29,32,1,4,2,2,2,2,1,0,,novel - unpublished,Annexin A1 targeted Liposome for Asthma
+85,Myocardial infarction + Nanoparticle + Annexin A1,Myocardial infarction,Nanoparticle,Annexin A1,0,1214,26,35,1,6,2,2,2,2,1,0,,novel - unpublished,Annexin A1 targeted Nanoparticle for Myocardial infarction
+86,Myocardial infarction + Liposome + Annexin A1,Myocardial infarction,Liposome,Annexin A1,0,273,26,32,1,4,2,2,2,2,1,0,,novel - unpublished,Annexin A1 targeted Liposome for Myocardial infarction
+87,Glaucoma + Hydrogel + FAP,Glaucoma,Hydrogel,FAP,0,283,37,24,0,5,2,2,2,2,1,0,,novel - unpublished,FAP targeted Hydrogel for Glaucoma
+88,Glaucoma + Hydrogel + VCAM-1,Glaucoma,Hydrogel,VCAM-1,0,283,22,58,0,6,2,2,2,2,1,0,,novel - unpublished,VCAM-1 targeted Hydrogel for Glaucoma
+89,Myocardial infarction + Liposome + CAV1,Myocardial infarction,Liposome,CAV1,0,273,65,22,0,2,2,2,2,2,1,0,,novel - unpublished,CAV1 targeted Liposome for Myocardial infarction
+90,Asthma + Liposome + CAV1,Asthma,Liposome,CAV1,0,213,32,22,0,2,2,2,2,2,1,0,,novel - unpublished,CAV1 targeted Liposome for Asthma
+91,Glaucoma + Liposome + CAV1,Glaucoma,Liposome,CAV1,0,150,72,22,1,2,2,2,2,2,1,0,,novel - unpublished,CAV1 targeted Liposome for Glaucoma
+92,Asthma + Hydrogel + FAP,Asthma,Hydrogel,FAP,0,69,19,24,0,5,2,2,2,2,1,0,,novel - unpublished,FAP targeted Hydrogel for Asthma
+93,Asthma + Radiolabeled Antibody + FAP,Asthma,Radiolabeled Antibody,FAP,0,31,19,20,0,8,2,2,2,2,1,0,,novel - unpublished,FAP targeted Radiolabeled Antibody for Asthma
+94,Osteoarthritis + Liposome + CAV1,Osteoarthritis,Liposome,CAV1,0,269,18,22,1,2,2,2,2,2,1,0,,novel - unpublished,CAV1 targeted Liposome for Osteoarthritis
+95,Hepatitis c + Radiolabeled Antibody + VCAM-1,Hepatitis c,Radiolabeled Antibody,VCAM-1,0,14,63,76,0,8,2,2,2,2,1,0,,novel - unpublished,VCAM-1 targeted Radiolabeled Antibody for Hepatitis c
+96,Osteoarthritis + Liposome + Annexin A1,Osteoarthritis,Liposome,Annexin A1,0,269,14,32,1,4,2,2,2,2,1,0,,novel - unpublished,Annexin A1 targeted Liposome for Osteoarthritis
+97,Hepatitis c + Radiolabeled Antibody + E-selectin,Hepatitis c,Radiolabeled Antibody,E-selectin,0,14,22,60,0,9,2,2,2,2,1,0,,novel - unpublished,E-selectin targeted Radiolabeled Antibody for Hepatitis c
+98,Hepatitis c + Radiolabeled Antibody + FAP,Hepatitis c,Radiolabeled Antibody,FAP,0,14,17,20,0,8,2,2,2,2,1,0,,novel - unpublished,FAP targeted Radiolabeled Antibody for Hepatitis c
+99,Rheumatoid arthritis + Liposome + CAV1,Rheumatoid arthritis,Liposome,CAV1,0,473,13,22,1,2,2,2,2,2,1,0,,novel - unpublished,CAV1 targeted Liposome for Rheumatoid arthritis
+100,Hepatitis c + Hydrogel + VCAM-1,Hepatitis c,Hydrogel,VCAM-1,0,11,63,58,0,6,2,2,2,2,1,0,,novel - unpublished,VCAM-1 targeted Hydrogel for Hepatitis c
+101,Hepatitis c + Hydrogel + ICAM-1,Hepatitis c,Hydrogel,ICAM-1,0,11,118,38,1,2,2,2,2,2,1,0,,novel - unpublished,ICAM-1 targeted Hydrogel for Hepatitis c
+102,Hepatitis c + Liposome + CAV1,Hepatitis c,Liposome,CAV1,0,146,11,22,0,2,2,2,2,2,1,0,,novel - unpublished,CAV1 targeted Liposome for Hepatitis c
+103,Hepatitis c + Hydrogel + FAP,Hepatitis c,Hydrogel,FAP,0,11,17,24,0,5,2,2,2,2,1,0,,novel - unpublished,FAP targeted Hydrogel for Hepatitis c
+104,Myocardial infarction + Hydrogel + CAV1,Myocardial infarction,Hydrogel,CAV1,0,903,65,10,0,2,2,2,2,2,1,0,,novel - unpublished,CAV1 targeted Hydrogel for Myocardial infarction
+105,Rheumatoid arthritis + Hydrogel + CAV1,Rheumatoid arthritis,Hydrogel,CAV1,0,272,13,10,1,2,2,2,2,2,1,0,,novel - unpublished,CAV1 targeted Hydrogel for Rheumatoid arthritis
+106,Asthma + Hydrogel + CAV1,Asthma,Hydrogel,CAV1,0,69,32,10,0,2,2,2,2,2,1,0,,novel - unpublished,CAV1 targeted Hydrogel for Asthma
+107,Hepatitis c + Hydrogel + CAV1,Hepatitis c,Hydrogel,CAV1,0,11,11,10,0,2,2,2,2,2,1,0,,novel - unpublished,CAV1 targeted Hydrogel for Hepatitis c
+108,Glaucoma + Hydrogel + CAV1,Glaucoma,Hydrogel,CAV1,0,283,72,10,1,2,2,2,2,2,1,0,,novel - unpublished,CAV1 targeted Hydrogel for Glaucoma
+109,Lung cancer + Nanoparticle + Annexin A1,Lung cancer,Nanoparticle,Annexin A1,1,6944,98,35,1,5,2,2,2,2,1,0,2026.0,novel - 1 publication >= 2021 (timely),Annexin A1 targeted Nanoparticle for Lung cancer
+110,Lung cancer + Liposome + Annexin A1,Lung cancer,Liposome,Annexin A1,1,2398,98,32,1,3,2,2,2,2,1,0,2026.0,novel - 1 publication >= 2021 (timely),Annexin A1 targeted Liposome for Lung cancer
+111,Pancreatic cancer + Liposome + Annexin A1,Pancreatic cancer,Liposome,Annexin A1,1,794,41,32,0,3,2,2,2,2,1,0,2025.0,novel - 1 publication >= 2021 (timely),Annexin A1 targeted Liposome for Pancreatic cancer
+112,Asthma + Nanoparticle + Annexin A1,Asthma,Nanoparticle,Annexin A1,1,649,29,35,0,5,2,2,2,2,1,0,2025.0,novel - 1 publication >= 2021 (timely),Annexin A1 targeted Nanoparticle for Asthma
+113,Hepatitis c + Nanoparticle + ASGPR,Hepatitis c,Nanoparticle,ASGPR,1,291,15,144,1,7,2,2,2,2,1,0,2013.0,novel - 1 publication < 2021 (untimely),ASGPR targeted Nanoparticle for Hepatitis c
+114,Hepatitis c + Radiolabeled Antibody + ICAM-1,Hepatitis c,Radiolabeled Antibody,ICAM-1,1,14,118,88,0,7,2,2,2,2,1,0,2001.0,novel - 1 publication < 2021 (untimely),ICAM-1 targeted Radiolabeled Antibody for Hepatitis c
+115,Osteoarthritis + Nanoparticle + Annexin A1,Osteoarthritis,Nanoparticle,Annexin A1,1,1002,14,35,0,5,2,2,2,2,1,0,2025.0,novel - 1 publication >= 2021 (timely),Annexin A1 targeted Nanoparticle for Osteoarthritis
+116,Breast cancer + Hydrogel + E-selectin,Breast cancer,Hydrogel,E-selectin,0,1360,168,11,10,0,2,2,2,2,0,2,,novel - unpublished,E-selectin targeted Hydrogel for Breast cancer
+117,Lung cancer + Hydrogel + E-selectin,Lung cancer,Hydrogel,E-selectin,0,492,178,11,13,0,2,2,2,2,0,2,,novel - unpublished,E-selectin targeted Hydrogel for Lung cancer
+118,Breast cancer + Hydrogel + PSMA,Breast cancer,Hydrogel,PSMA,0,1360,207,10,19,0,2,2,2,2,0,2,,novel - unpublished,PSMA targeted Hydrogel for Breast cancer
+119,Lung cancer + Hydrogel + PSMA,Lung cancer,Hydrogel,PSMA,0,492,296,10,15,0,2,2,2,2,0,2,,novel - unpublished,PSMA targeted Hydrogel for Lung cancer
+120,Lung cancer + Hydrogel + ICAM-1,Lung cancer,Hydrogel,ICAM-1,1,492,523,38,19,1,2,2,2,2,0,2,2015.0,novel - 1 publication < 2021 (untimely),ICAM-1 targeted Hydrogel for Lung cancer
+121,Pancreatic cancer + Hydrogel + E-selectin,Pancreatic cancer,Hydrogel,E-selectin,0,279,62,11,2,0,2,2,2,2,0,1,,novel - unpublished,E-selectin targeted Hydrogel for Pancreatic cancer
+122,Myocardial infarction + Hydrogel + E-selectin,Myocardial infarction,Hydrogel,E-selectin,0,903,176,11,3,0,2,2,2,2,0,1,,novel - unpublished,E-selectin targeted Hydrogel for Myocardial infarction
+123,Rheumatoid arthritis + Hydrogel + E-selectin,Rheumatoid arthritis,Hydrogel,E-selectin,0,272,206,11,6,0,2,2,2,2,0,1,,novel - unpublished,E-selectin targeted Hydrogel for Rheumatoid arthritis
+124,Osteoarthritis + Hydrogel + E-selectin,Osteoarthritis,Hydrogel,E-selectin,0,1206,31,11,2,0,2,2,2,2,0,1,,novel - unpublished,E-selectin targeted Hydrogel for Osteoarthritis
+125,Breast cancer + Hydrogel + Annexin A1,Breast cancer,Hydrogel,Annexin A1,0,1360,106,10,5,1,2,2,2,2,0,1,,novel - unpublished,Annexin A1 targeted Hydrogel for Breast cancer
+126,Lung cancer + Hydrogel + Annexin A1,Lung cancer,Hydrogel,Annexin A1,0,492,98,10,2,1,2,2,2,2,0,1,,novel - unpublished,Annexin A1 targeted Hydrogel for Lung cancer
+127,Pancreatic cancer + Hydrogel + PSMA,Pancreatic cancer,Hydrogel,PSMA,0,279,64,10,8,0,2,2,2,2,0,1,,novel - unpublished,PSMA targeted Hydrogel for Pancreatic cancer
+128,Osteoarthritis + Hydrogel + ICAM-1,Osteoarthritis,Hydrogel,ICAM-1,1,1206,137,38,6,1,2,2,2,2,0,1,2021.0,novel - 1 publication >= 2021 (timely),ICAM-1 targeted Hydrogel for Osteoarthritis
+129,Lung cancer + Liposome + CAV1,Lung cancer,Liposome,CAV1,1,2398,253,22,8,1,2,2,2,2,0,1,2022.0,novel - 1 publication >= 2021 (timely),CAV1 targeted Liposome for Lung cancer
+130,Pancreatic cancer + Liposome + CAV1,Pancreatic cancer,Liposome,CAV1,1,794,83,22,5,1,2,2,2,2,0,1,2023.0,novel - 1 publication >= 2021 (timely),CAV1 targeted Liposome for Pancreatic cancer
+131,Pancreatic cancer + Hydrogel + CAV1,Pancreatic cancer,Hydrogel,CAV1,1,279,83,10,5,1,2,2,2,2,0,1,2026.0,novel - 1 publication >= 2021 (timely),CAV1 targeted Hydrogel for Pancreatic cancer
+132,Asthma + Hydrogel + E-selectin,Asthma,Hydrogel,E-selectin,0,69,139,11,0,0,2,2,2,2,0,0,,novel - unpublished,E-selectin targeted Hydrogel for Asthma
+133,Hepatitis c + Hydrogel + E-selectin,Hepatitis c,Hydrogel,E-selectin,0,11,22,11,0,0,2,2,2,2,0,0,,novel - unpublished,E-selectin targeted Hydrogel for Hepatitis c
+134,Glaucoma + Hydrogel + E-selectin,Glaucoma,Hydrogel,E-selectin,0,283,16,11,0,0,2,2,2,2,0,0,,novel - unpublished,E-selectin targeted Hydrogel for Glaucoma
+135,Pancreatic cancer + Hydrogel + Annexin A1,Pancreatic cancer,Hydrogel,Annexin A1,0,279,41,10,1,1,2,2,2,2,0,0,,novel - unpublished,Annexin A1 targeted Hydrogel for Pancreatic cancer
+136,Rheumatoid arthritis + Hydrogel + Annexin A1,Rheumatoid arthritis,Hydrogel,Annexin A1,0,272,44,10,0,1,2,2,2,2,0,0,,novel - unpublished,Annexin A1 targeted Hydrogel for Rheumatoid arthritis
+137,Asthma + Hydrogel + Annexin A1,Asthma,Hydrogel,Annexin A1,0,69,29,10,1,1,2,2,2,2,0,0,,novel - unpublished,Annexin A1 targeted Hydrogel for Asthma
+138,Osteoarthritis + Hydrogel + Annexin A1,Osteoarthritis,Hydrogel,Annexin A1,0,1206,14,10,1,1,2,2,2,2,0,0,,novel - unpublished,Annexin A1 targeted Hydrogel for Osteoarthritis
+139,Osteoarthritis + Hydrogel + CAV1,Osteoarthritis,Hydrogel,CAV1,1,1206,18,10,0,1,2,2,2,2,0,0,2023.0,novel - 1 publication >= 2021 (timely),CAV1 targeted Hydrogel for Osteoarthritis
+140,Myocardial infarction + Hydrogel + Annexin A1,Myocardial infarction,Hydrogel,Annexin A1,1,903,26,10,0,0,2,2,2,2,0,0,2024.0,novel - 1 publication >= 2021 (timely),Annexin A1 targeted Hydrogel for Myocardial infarction

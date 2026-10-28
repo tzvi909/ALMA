@@ -1,0 +1,425 @@
+rank,hypothesis,row,col,var,NOP,NOP_LR,NOP_THR,NOP_TVR,NOP_HR,NOP_VR,N,LR,TVR,THR,VR,HR,NOP_now,experiment,sLR,sTHR,sTVR,reasonability,novel_reasonable_2020,published_since,rank_in_exp,top10
+1,Sirolimus + Head and neck cancer + nanoparticle,Sirolimus,Head and neck cancer,nanoparticle,0,284,168,814,0,11,2,2,2,2,1,0,0,Fig 3 HNC + nanoparticle,2,2,2,6,True,False,1.0,True
+2,Imatinib + Head and neck cancer + nanoparticle,Imatinib,Head and neck cancer,nanoparticle,0,177,79,814,0,11,2,2,2,2,1,0,0,Fig 3 HNC + nanoparticle,2,2,2,6,True,False,2.0,True
+3,Dasatinib + Head and neck cancer + nanoparticle,Dasatinib,Head and neck cancer,nanoparticle,0,86,34,814,0,11,2,2,2,2,1,0,1,Fig 3 HNC + nanoparticle,2,2,2,6,True,True,3.0,True
+4,Everolimus + Head and neck cancer + nanoparticle,Everolimus,Head and neck cancer,nanoparticle,0,101,31,814,0,11,2,2,2,2,1,0,0,Fig 3 HNC + nanoparticle,2,2,2,6,True,False,4.0,True
+9,Temsirolimus + Head and neck cancer + nanoparticle,Temsirolimus,Head and neck cancer,nanoparticle,0,48,15,814,0,11,2,2,2,1,1,0,0,Fig 3 HNC + nanoparticle,2,1,2,5,True,False,5.0,True
+10,Axitinib + Head and neck cancer + nanoparticle,Axitinib,Head and neck cancer,nanoparticle,0,41,12,814,0,11,2,2,2,1,1,0,0,Fig 3 HNC + nanoparticle,2,1,2,5,True,False,6.0,True
+11,Vemurafenib + Head and neck cancer + nanoparticle,Vemurafenib,Head and neck cancer,nanoparticle,0,80,10,814,0,11,2,2,2,1,1,0,1,Fig 3 HNC + nanoparticle,2,1,2,5,True,True,7.0,True
+12,Vandetanib + Head and neck cancer + nanoparticle,Vandetanib,Head and neck cancer,nanoparticle,0,248,9,814,0,11,2,2,2,1,1,0,0,Fig 3 HNC + nanoparticle,2,1,2,5,False,False,8.0,True
+13,Afatinib + Head and neck cancer + nanoparticle,Afatinib,Head and neck cancer,nanoparticle,0,91,8,814,0,11,2,2,2,1,1,0,0,Fig 3 HNC + nanoparticle,2,1,2,5,False,False,9.0,True
+14,Pazopanib + Head and neck cancer + nanoparticle,Pazopanib,Head and neck cancer,nanoparticle,0,63,8,814,0,11,2,2,2,1,1,0,0,Fig 3 HNC + nanoparticle,2,1,2,5,False,False,10.0,True
+15,Lenvatinib + Head and neck cancer + nanoparticle,Lenvatinib,Head and neck cancer,nanoparticle,0,197,6,814,0,11,2,2,2,1,1,0,3,Fig 3 HNC + nanoparticle,2,1,2,5,False,True,11.0,False
+16,Trametinib + Head and neck cancer + nanoparticle,Trametinib,Head and neck cancer,nanoparticle,0,47,5,814,0,11,2,2,2,1,1,0,0,Fig 3 HNC + nanoparticle,2,1,2,5,False,False,12.0,False
+18,Cabozantinib + Head and neck cancer + nanoparticle,Cabozantinib,Head and neck cancer,nanoparticle,0,119,4,814,0,11,2,2,2,0,1,0,1,Fig 3 HNC + nanoparticle,2,0,2,4,False,True,13.0,False
+19,Dabrafenib + Head and neck cancer + nanoparticle,Dabrafenib,Head and neck cancer,nanoparticle,0,38,4,814,0,11,2,2,2,0,1,0,0,Fig 3 HNC + nanoparticle,2,0,2,4,False,False,14.0,False
+20,Palbociclib + Head and neck cancer + nanoparticle,Palbociclib,Head and neck cancer,nanoparticle,0,24,2,814,0,11,2,2,2,0,1,0,1,Fig 3 HNC + nanoparticle,2,0,2,4,False,True,15.0,False
+21,Dacomitinib + Head and neck cancer + nanoparticle,Dacomitinib,Head and neck cancer,nanoparticle,0,22,1,814,0,11,2,2,2,0,1,0,0,Fig 3 HNC + nanoparticle,2,0,2,4,False,False,16.0,False
+22,Nilotinib + Head and neck cancer + nanoparticle,Nilotinib,Head and neck cancer,nanoparticle,0,14,10,814,0,11,2,1,2,1,1,0,0,Fig 3 HNC + nanoparticle,1,1,2,4,True,False,17.0,False
+23,Regorafenib + Head and neck cancer + nanoparticle,Regorafenib,Head and neck cancer,nanoparticle,0,14,7,814,0,11,2,1,2,1,1,0,0,Fig 3 HNC + nanoparticle,1,1,2,4,False,False,18.0,False
+24,Nintedanib + Head and neck cancer + nanoparticle,Nintedanib,Head and neck cancer,nanoparticle,0,11,6,814,0,11,2,1,2,1,1,0,0,Fig 3 HNC + nanoparticle,1,1,2,4,False,False,19.0,False
+25,Ibrutinib + Head and neck cancer + nanoparticle,Ibrutinib,Head and neck cancer,nanoparticle,0,6,8,814,0,11,2,1,2,1,1,0,0,Fig 3 HNC + nanoparticle,1,1,2,4,False,False,20.0,False
+26,Osimertinib + Head and neck cancer + nanoparticle,Osimertinib,Head and neck cancer,nanoparticle,0,9,2,814,0,11,2,1,2,0,1,0,0,Fig 3 HNC + nanoparticle,1,0,2,3,False,False,21.0,False
+27,Ponatinib + Head and neck cancer + nanoparticle,Ponatinib,Head and neck cancer,nanoparticle,0,15,1,814,0,11,2,1,2,0,1,0,0,Fig 3 HNC + nanoparticle,1,0,2,3,False,False,22.0,False
+28,Bosutinib + Head and neck cancer + nanoparticle,Bosutinib,Head and neck cancer,nanoparticle,0,8,1,814,0,11,2,1,2,0,1,0,1,Fig 3 HNC + nanoparticle,1,0,2,3,False,True,23.0,False
+29,Ruxolitinib + Head and neck cancer + nanoparticle,Ruxolitinib,Head and neck cancer,nanoparticle,0,8,1,814,0,11,2,1,2,0,1,0,0,Fig 3 HNC + nanoparticle,1,0,2,3,False,False,24.0,False
+30,Ribociclib + Head and neck cancer + nanoparticle,Ribociclib,Head and neck cancer,nanoparticle,0,6,1,814,0,11,2,1,2,0,1,0,0,Fig 3 HNC + nanoparticle,1,0,2,3,False,False,25.0,False
+31,Binimetinib + Head and neck cancer + nanoparticle,Binimetinib,Head and neck cancer,nanoparticle,0,5,1,814,0,11,2,1,2,0,1,0,0,Fig 3 HNC + nanoparticle,1,0,2,3,False,False,26.0,False
+32,Ceritinib + Head and neck cancer + nanoparticle,Ceritinib,Head and neck cancer,nanoparticle,0,5,1,814,0,11,2,1,2,0,1,0,0,Fig 3 HNC + nanoparticle,1,0,2,3,False,False,27.0,False
+33,Alectinib + Head and neck cancer + nanoparticle,Alectinib,Head and neck cancer,nanoparticle,0,9,0,814,0,11,2,1,2,0,1,0,0,Fig 3 HNC + nanoparticle,1,0,2,3,False,False,28.0,False
+34,Larotrectinib + Head and neck cancer + nanoparticle,Larotrectinib,Head and neck cancer,nanoparticle,0,6,0,814,0,11,2,1,2,0,1,0,0,Fig 3 HNC + nanoparticle,1,0,2,3,False,False,29.0,False
+35,Cobimetinib + Head and neck cancer + nanoparticle,Cobimetinib,Head and neck cancer,nanoparticle,0,6,0,814,0,11,2,1,2,0,1,0,0,Fig 3 HNC + nanoparticle,1,0,2,3,False,False,30.0,False
+36,Midostaurin + Head and neck cancer + nanoparticle,Midostaurin,Head and neck cancer,nanoparticle,0,1,5,814,0,11,2,0,2,1,1,0,0,Fig 3 HNC + nanoparticle,0,1,2,3,False,False,31.0,False
+37,Neratinib + Head and neck cancer + nanoparticle,Neratinib,Head and neck cancer,nanoparticle,0,3,4,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,32.0,False
+38,Abemaciclib + Head and neck cancer + nanoparticle,Abemaciclib,Head and neck cancer,nanoparticle,0,3,1,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,33.0,False
+39,Brigatinib + Head and neck cancer + nanoparticle,Brigatinib,Head and neck cancer,nanoparticle,0,3,0,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,34.0,False
+40,Tofacitinib + Head and neck cancer + nanoparticle,Tofacitinib,Head and neck cancer,nanoparticle,0,2,0,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,35.0,False
+41,Encorafenib + Head and neck cancer + nanoparticle,Encorafenib,Head and neck cancer,nanoparticle,0,1,0,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,36.0,False
+42,Fostamatinib + Head and neck cancer + nanoparticle,Fostamatinib,Head and neck cancer,nanoparticle,0,1,0,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,37.0,False
+43,Entrectinib + Head and neck cancer + nanoparticle,Entrectinib,Head and neck cancer,nanoparticle,0,1,0,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,38.0,False
+44,Lorlatinib + Head and neck cancer + nanoparticle,Lorlatinib,Head and neck cancer,nanoparticle,0,0,0,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,39.0,False
+45,Baricitinib + Head and neck cancer + nanoparticle,Baricitinib,Head and neck cancer,nanoparticle,0,0,1,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,40.0,False
+46,Acalabrutinib + Head and neck cancer + nanoparticle,Acalabrutinib,Head and neck cancer,nanoparticle,0,0,0,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,41.0,False
+47,Gilteritinib + Head and neck cancer + nanoparticle,Gilteritinib,Head and neck cancer,nanoparticle,0,0,0,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,42.0,False
+48,Erdafitinib + Head and neck cancer + nanoparticle,Erdafitinib,Head and neck cancer,nanoparticle,0,0,0,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,43.0,False
+49,Idelalisib + Head and neck cancer + nanoparticle,Idelalisib,Head and neck cancer,nanoparticle,0,0,0,814,0,11,2,0,2,0,1,0,0,Fig 3 HNC + nanoparticle,0,0,2,2,False,False,44.0,False
+2,Regorafenib + Head and neck cancer + radiotherapy,Regorafenib,Head and neck cancer,radiotherapy,0,14,27,59868,0,567,2,1,2,2,2,0,2,Fig 3 HNC + radiotherapy,1,2,2,5,True,True,1.0,True
+3,Alectinib + Head and neck cancer + radiotherapy,Alectinib,Head and neck cancer,radiotherapy,0,9,35,59868,0,567,2,1,2,2,2,0,2,Fig 3 HNC + radiotherapy,1,2,2,5,False,True,2.0,True
+4,Ibrutinib + Head and neck cancer + radiotherapy,Ibrutinib,Head and neck cancer,radiotherapy,0,6,22,59868,0,567,2,1,2,2,2,0,0,Fig 3 HNC + radiotherapy,1,2,2,5,False,False,3.0,True
+5,Ceritinib + Head and neck cancer + radiotherapy,Ceritinib,Head and neck cancer,radiotherapy,0,5,21,59868,0,567,2,1,2,2,2,0,2,Fig 3 HNC + radiotherapy,1,2,2,5,False,True,4.0,True
+7,Ponatinib + Head and neck cancer + radiotherapy,Ponatinib,Head and neck cancer,radiotherapy,0,15,5,59868,0,567,2,1,2,1,2,0,1,Fig 3 HNC + radiotherapy,1,1,2,4,False,True,5.0,True
+13,Larotrectinib + Head and neck cancer + radiotherapy,Larotrectinib,Head and neck cancer,radiotherapy,0,6,1,59868,0,567,2,1,2,0,2,0,9,Fig 3 HNC + radiotherapy,1,0,2,3,False,True,6.0,True
+16,Brigatinib + Head and neck cancer + radiotherapy,Brigatinib,Head and neck cancer,radiotherapy,0,3,10,59868,0,567,2,0,2,1,2,0,0,Fig 3 HNC + radiotherapy,0,1,2,3,False,False,7.0,True
+17,Abemaciclib + Head and neck cancer + radiotherapy,Abemaciclib,Head and neck cancer,radiotherapy,0,3,5,59868,0,567,2,0,2,1,2,0,2,Fig 3 HNC + radiotherapy,0,1,2,3,False,True,8.0,True
+18,Lorlatinib + Head and neck cancer + radiotherapy,Lorlatinib,Head and neck cancer,radiotherapy,0,0,7,59868,0,567,2,0,2,1,2,0,0,Fig 3 HNC + radiotherapy,0,1,2,3,False,False,9.0,True
+19,Idelalisib + Head and neck cancer + radiotherapy,Idelalisib,Head and neck cancer,radiotherapy,0,0,8,59868,0,567,2,0,2,1,2,0,1,Fig 3 HNC + radiotherapy,0,1,2,3,False,True,10.0,True
+21,Tofacitinib + Head and neck cancer + radiotherapy,Tofacitinib,Head and neck cancer,radiotherapy,0,2,1,59868,0,567,2,0,2,0,2,0,0,Fig 3 HNC + radiotherapy,0,0,2,2,False,False,11.0,False
+22,Midostaurin + Head and neck cancer + radiotherapy,Midostaurin,Head and neck cancer,radiotherapy,0,1,4,59868,0,567,2,0,2,0,2,0,0,Fig 3 HNC + radiotherapy,0,0,2,2,False,False,12.0,False
+23,Encorafenib + Head and neck cancer + radiotherapy,Encorafenib,Head and neck cancer,radiotherapy,0,1,2,59868,0,567,2,0,2,0,2,0,1,Fig 3 HNC + radiotherapy,0,0,2,2,False,True,13.0,False
+24,Entrectinib + Head and neck cancer + radiotherapy,Entrectinib,Head and neck cancer,radiotherapy,0,1,3,59868,0,567,2,0,2,0,2,0,5,Fig 3 HNC + radiotherapy,0,0,2,2,False,True,14.0,False
+25,Fostamatinib + Head and neck cancer + radiotherapy,Fostamatinib,Head and neck cancer,radiotherapy,0,1,0,59868,0,567,2,0,2,0,2,0,0,Fig 3 HNC + radiotherapy,0,0,2,2,False,False,15.0,False
+26,Baricitinib + Head and neck cancer + radiotherapy,Baricitinib,Head and neck cancer,radiotherapy,0,0,0,59868,0,567,2,0,2,0,2,0,0,Fig 3 HNC + radiotherapy,0,0,2,2,False,False,16.0,False
+27,Acalabrutinib + Head and neck cancer + radiotherapy,Acalabrutinib,Head and neck cancer,radiotherapy,0,0,1,59868,0,567,2,0,2,0,2,0,0,Fig 3 HNC + radiotherapy,0,0,2,2,False,False,17.0,False
+28,Gilteritinib + Head and neck cancer + radiotherapy,Gilteritinib,Head and neck cancer,radiotherapy,0,0,0,59868,0,567,2,0,2,0,2,0,0,Fig 3 HNC + radiotherapy,0,0,2,2,False,False,18.0,False
+29,Erdafitinib + Head and neck cancer + radiotherapy,Erdafitinib,Head and neck cancer,radiotherapy,0,0,2,59868,0,567,2,0,2,0,2,0,0,Fig 3 HNC + radiotherapy,0,0,2,2,False,False,19.0,False
+1,Imatinib + Hepatocellular carcinoma + radiotherapy,Imatinib,Hepatocellular carcinoma,radiotherapy,0,53,312,3200,98,287,2,2,2,2,2,2,1,Fig 3d KIs x 7 cancers + radiotherapy,2,2,2,6,True,True,1.0,True
+2,Trametinib + Breast cancer + radiotherapy,Trametinib,Breast cancer,radiotherapy,0,47,37,32780,35,332,2,2,2,2,2,2,2,Fig 3d KIs x 7 cancers + radiotherapy,2,2,2,6,True,True,2.0,True
+3,Lapatinib + Pancreatic cancer + radiotherapy,Lapatinib,Pancreatic cancer,radiotherapy,0,35,158,5336,150,177,2,2,2,2,2,2,0,Fig 3d KIs x 7 cancers + radiotherapy,2,2,2,6,True,False,3.0,True
+4,Lenvatinib + Pancreatic cancer + radiotherapy,Lenvatinib,Pancreatic cancer,radiotherapy,0,29,56,5336,56,177,2,2,2,2,2,2,18,Fig 3d KIs x 7 cancers + radiotherapy,2,2,2,6,True,True,4.0,True
+5,Lenvatinib + Melanoma + radiotherapy,Lenvatinib,Melanoma,radiotherapy,0,20,56,8193,56,243,2,2,2,2,2,2,5,Fig 3d KIs x 7 cancers + radiotherapy,2,2,2,6,True,True,5.0,True
+45,Palbociclib + Melanoma + radiotherapy,Palbociclib,Melanoma,radiotherapy,0,27,25,8193,18,243,2,2,2,2,2,1,1,Fig 3d KIs x 7 cancers + radiotherapy,2,2,2,6,True,True,6.0,True
+49,Ibrutinib + Lung cancer + radiotherapy,Ibrutinib,Lung cancer,radiotherapy,0,56,22,35162,0,1080,2,2,2,2,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,2,2,2,6,True,True,7.0,True
+50,Dacomitinib + Lung cancer + radiotherapy,Dacomitinib,Lung cancer,radiotherapy,0,132,8,35162,8,1080,2,2,2,1,2,1,5,Fig 3d KIs x 7 cancers + radiotherapy,2,1,2,5,False,True,8.0,True
+53,Ruxolitinib + Lung cancer + radiotherapy,Ruxolitinib,Lung cancer,radiotherapy,0,25,15,35162,2,1080,2,2,2,1,2,0,2,Fig 3d KIs x 7 cancers + radiotherapy,2,1,2,5,True,True,9.0,True
+54,Nilotinib + Lung cancer + radiotherapy,Nilotinib,Lung cancer,radiotherapy,0,23,10,35162,3,1080,2,2,2,1,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,2,1,2,5,True,True,10.0,True
+55,Nilotinib + Breast cancer + radiotherapy,Nilotinib,Breast cancer,radiotherapy,0,25,10,32780,3,332,2,2,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,2,1,2,5,True,False,11.0,False
+61,Midostaurin + Lung cancer + radiotherapy,Midostaurin,Lung cancer,radiotherapy,0,25,4,35162,0,1080,2,2,2,0,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,2,0,2,4,False,True,12.0,False
+62,Bosutinib + Lung cancer + radiotherapy,Bosutinib,Lung cancer,radiotherapy,0,22,2,35162,2,1080,2,2,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,2,0,2,4,False,False,13.0,False
+67,Vandetanib + Hepatocellular carcinoma + radiotherapy,Vandetanib,Hepatocellular carcinoma,radiotherapy,0,17,52,3200,28,287,2,1,2,2,2,2,3,Fig 3d KIs x 7 cancers + radiotherapy,1,2,2,5,True,True,14.0,False
+68,Lapatinib + Hepatocellular carcinoma + radiotherapy,Lapatinib,Hepatocellular carcinoma,radiotherapy,0,15,158,3200,150,287,2,1,2,2,2,2,0,Fig 3d KIs x 7 cancers + radiotherapy,1,2,2,5,True,False,15.0,False
+69,Cabozantinib + Melanoma + radiotherapy,Cabozantinib,Melanoma,radiotherapy,0,12,34,8193,24,243,2,1,2,2,2,2,4,Fig 3d KIs x 7 cancers + radiotherapy,1,2,2,5,True,True,16.0,False
+70,Trametinib + Hepatocellular carcinoma + radiotherapy,Trametinib,Hepatocellular carcinoma,radiotherapy,0,9,37,3200,35,287,2,1,2,2,2,2,1,Fig 3d KIs x 7 cancers + radiotherapy,1,2,2,5,False,True,17.0,False
+92,Palbociclib + Pancreatic cancer + radiotherapy,Palbociclib,Pancreatic cancer,radiotherapy,0,14,25,5336,18,177,2,1,2,2,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,1,2,2,5,True,False,18.0,False
+93,Palbociclib + Prostate cancer + radiotherapy,Palbociclib,Prostate cancer,radiotherapy,0,9,25,23575,18,69,2,1,2,2,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,1,2,2,5,False,False,19.0,False
+97,Ibrutinib + Breast cancer + radiotherapy,Ibrutinib,Breast cancer,radiotherapy,0,15,22,32780,0,332,2,1,2,2,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,1,2,2,5,True,True,20.0,False
+99,Ibrutinib + Pancreatic cancer + radiotherapy,Ibrutinib,Pancreatic cancer,radiotherapy,0,6,22,5336,0,177,2,1,2,2,2,0,3,Fig 3d KIs x 7 cancers + radiotherapy,1,2,2,5,False,True,21.0,False
+100,Ibrutinib + Hepatocellular carcinoma + radiotherapy,Ibrutinib,Hepatocellular carcinoma,radiotherapy,0,5,22,3200,0,287,2,1,2,2,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,2,2,5,False,False,22.0,False
+101,Ibrutinib + Melanoma + radiotherapy,Ibrutinib,Melanoma,radiotherapy,0,5,22,8193,0,243,2,1,2,2,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,1,2,2,5,False,True,23.0,False
+102,Nintedanib + Prostate cancer + radiotherapy,Nintedanib,Prostate cancer,radiotherapy,0,17,10,23575,8,69,2,1,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,True,False,24.0,False
+103,Nintedanib + Hepatocellular carcinoma + radiotherapy,Nintedanib,Hepatocellular carcinoma,radiotherapy,0,14,10,3200,8,287,2,1,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,True,False,25.0,False
+104,Dacomitinib + Breast cancer + radiotherapy,Dacomitinib,Breast cancer,radiotherapy,0,13,8,32780,8,332,2,1,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,False,False,26.0,False
+105,Nintedanib + Pancreatic cancer + radiotherapy,Nintedanib,Pancreatic cancer,radiotherapy,0,7,10,5336,8,177,2,1,2,1,2,1,1,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,False,True,27.0,False
+106,Cobimetinib + Breast cancer + radiotherapy,Cobimetinib,Breast cancer,radiotherapy,0,7,6,32780,7,332,2,1,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,False,False,28.0,False
+107,Abemaciclib + Melanoma + radiotherapy,Abemaciclib,Melanoma,radiotherapy,0,15,5,8193,5,243,2,1,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,False,False,29.0,False
+112,Ruxolitinib + Breast cancer + radiotherapy,Ruxolitinib,Breast cancer,radiotherapy,0,19,15,32780,2,332,2,1,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,True,False,30.0,False
+113,Nilotinib + Prostate cancer + radiotherapy,Nilotinib,Prostate cancer,radiotherapy,0,8,10,23575,3,69,2,1,2,1,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,False,True,31.0,False
+114,Ruxolitinib + Melanoma + radiotherapy,Ruxolitinib,Melanoma,radiotherapy,0,8,15,8193,2,243,2,1,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,False,False,32.0,False
+115,Idelalisib + Lung cancer + radiotherapy,Idelalisib,Lung cancer,radiotherapy,0,6,8,35162,0,1080,2,1,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,False,False,33.0,False
+116,Ponatinib + Breast cancer + radiotherapy,Ponatinib,Breast cancer,radiotherapy,0,16,5,32780,1,332,2,1,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,False,False,34.0,False
+118,Ponatinib + Prostate cancer + radiotherapy,Ponatinib,Prostate cancer,radiotherapy,0,5,5,23575,1,69,2,1,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,False,False,35.0,False
+119,Ponatinib + Melanoma + radiotherapy,Ponatinib,Melanoma,radiotherapy,0,5,5,8193,1,243,2,1,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,1,2,4,False,False,36.0,False
+127,Midostaurin + Breast cancer + radiotherapy,Midostaurin,Breast cancer,radiotherapy,0,12,4,32780,0,332,2,1,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,False,37.0,False
+128,Midostaurin + Melanoma + radiotherapy,Midostaurin,Melanoma,radiotherapy,0,9,4,8193,0,243,2,1,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,False,38.0,False
+129,Ribociclib + Lung cancer + radiotherapy,Ribociclib,Lung cancer,radiotherapy,0,15,4,35162,4,1080,2,1,2,0,2,0,4,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,True,39.0,False
+130,Ribociclib + Prostate cancer + radiotherapy,Ribociclib,Prostate cancer,radiotherapy,0,5,4,23575,4,69,2,1,2,0,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,True,40.0,False
+131,Ribociclib + Melanoma + radiotherapy,Ribociclib,Melanoma,radiotherapy,0,8,4,8193,4,243,2,1,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,False,41.0,False
+132,Bosutinib + Pancreatic cancer + radiotherapy,Bosutinib,Pancreatic cancer,radiotherapy,0,7,2,5336,2,177,2,1,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,False,42.0,False
+133,Erdafitinib + Lung cancer + radiotherapy,Erdafitinib,Lung cancer,radiotherapy,0,9,2,35162,0,1080,2,1,2,0,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,True,43.0,False
+134,Erdafitinib + Breast cancer + radiotherapy,Erdafitinib,Breast cancer,radiotherapy,0,7,2,32780,0,332,2,1,2,0,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,True,44.0,False
+135,Erdafitinib + Prostate cancer + radiotherapy,Erdafitinib,Prostate cancer,radiotherapy,0,5,2,23575,0,69,2,1,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,False,45.0,False
+136,Larotrectinib + Lung cancer + radiotherapy,Larotrectinib,Lung cancer,radiotherapy,0,15,1,35162,0,1080,2,1,2,0,2,0,9,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,True,46.0,False
+137,Larotrectinib + Breast cancer + radiotherapy,Larotrectinib,Breast cancer,radiotherapy,0,9,1,32780,0,332,2,1,2,0,2,0,2,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,True,47.0,False
+139,Tofacitinib + Lung cancer + radiotherapy,Tofacitinib,Lung cancer,radiotherapy,0,7,1,35162,0,1080,2,1,2,0,2,0,2,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,True,48.0,False
+140,Tofacitinib + Breast cancer + radiotherapy,Tofacitinib,Breast cancer,radiotherapy,0,7,1,32780,0,332,2,1,2,0,2,0,2,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,True,49.0,False
+141,Tofacitinib + Melanoma + radiotherapy,Tofacitinib,Melanoma,radiotherapy,0,19,1,8193,0,243,2,1,2,0,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,1,0,2,3,False,True,50.0,False
+146,Alectinib + Pancreatic cancer + radiotherapy,Alectinib,Pancreatic cancer,radiotherapy,0,3,35,5336,33,177,2,0,2,2,2,2,0,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,False,51.0,False
+147,Ceritinib + Hepatocellular carcinoma + radiotherapy,Ceritinib,Hepatocellular carcinoma,radiotherapy,0,3,21,3200,22,287,2,0,2,2,2,2,0,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,False,52.0,False
+148,Lenvatinib + Prostate cancer + radiotherapy,Lenvatinib,Prostate cancer,radiotherapy,0,2,56,23575,56,69,2,0,2,2,2,2,3,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,True,53.0,False
+149,Osimertinib + Pancreatic cancer + radiotherapy,Osimertinib,Pancreatic cancer,radiotherapy,0,2,37,5336,40,177,2,0,2,2,2,2,3,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,True,54.0,False
+150,Dabrafenib + Prostate cancer + radiotherapy,Dabrafenib,Prostate cancer,radiotherapy,0,2,65,23575,71,69,2,0,2,2,2,2,0,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,False,55.0,False
+151,Alectinib + Prostate cancer + radiotherapy,Alectinib,Prostate cancer,radiotherapy,0,1,35,23575,33,69,2,0,2,2,2,2,0,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,False,56.0,False
+152,Ceritinib + Prostate cancer + radiotherapy,Ceritinib,Prostate cancer,radiotherapy,0,1,21,23575,22,69,2,0,2,2,2,2,0,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,False,57.0,False
+153,Osimertinib + Prostate cancer + radiotherapy,Osimertinib,Prostate cancer,radiotherapy,0,0,37,23575,40,69,2,0,2,2,2,2,2,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,True,58.0,False
+154,Osimertinib + Hepatocellular carcinoma + radiotherapy,Osimertinib,Hepatocellular carcinoma,radiotherapy,0,0,37,3200,40,287,2,0,2,2,2,2,1,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,True,59.0,False
+155,Dabrafenib + Hepatocellular carcinoma + radiotherapy,Dabrafenib,Hepatocellular carcinoma,radiotherapy,0,0,65,3200,71,287,2,0,2,2,2,2,1,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,True,60.0,False
+156,Alectinib + Hepatocellular carcinoma + radiotherapy,Alectinib,Hepatocellular carcinoma,radiotherapy,0,0,35,3200,33,287,2,0,2,2,2,2,0,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,False,61.0,False
+163,Ibrutinib + Prostate cancer + radiotherapy,Ibrutinib,Prostate cancer,radiotherapy,0,4,22,23575,0,69,2,0,2,2,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,0,2,2,4,False,True,62.0,False
+164,Neratinib + Pancreatic cancer + radiotherapy,Neratinib,Pancreatic cancer,radiotherapy,0,4,16,5336,20,177,2,0,2,1,2,2,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,63.0,False
+165,Neratinib + Hepatocellular carcinoma + radiotherapy,Neratinib,Hepatocellular carcinoma,radiotherapy,0,2,16,3200,20,287,2,0,2,1,2,2,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,64.0,False
+166,Neratinib + Prostate cancer + radiotherapy,Neratinib,Prostate cancer,radiotherapy,0,0,16,23575,20,69,2,0,2,1,2,2,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,65.0,False
+167,Nintedanib + Melanoma + radiotherapy,Nintedanib,Melanoma,radiotherapy,0,4,10,8193,8,243,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,66.0,False
+168,Cobimetinib + Pancreatic cancer + radiotherapy,Cobimetinib,Pancreatic cancer,radiotherapy,0,4,6,5336,7,177,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,67.0,False
+169,Dacomitinib + Pancreatic cancer + radiotherapy,Dacomitinib,Pancreatic cancer,radiotherapy,0,3,8,5336,8,177,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,68.0,False
+172,Binimetinib + Pancreatic cancer + radiotherapy,Binimetinib,Pancreatic cancer,radiotherapy,0,2,6,5336,5,177,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,69.0,False
+173,Abemaciclib + Pancreatic cancer + radiotherapy,Abemaciclib,Pancreatic cancer,radiotherapy,0,2,5,5336,5,177,2,0,2,1,2,1,1,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,True,70.0,False
+174,Dacomitinib + Prostate cancer + radiotherapy,Dacomitinib,Prostate cancer,radiotherapy,0,1,8,23575,8,69,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,71.0,False
+175,Cobimetinib + Prostate cancer + radiotherapy,Cobimetinib,Prostate cancer,radiotherapy,0,1,6,23575,7,69,2,0,2,1,2,1,1,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,True,72.0,False
+176,Cobimetinib + Hepatocellular carcinoma + radiotherapy,Cobimetinib,Hepatocellular carcinoma,radiotherapy,0,1,6,3200,7,287,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,73.0,False
+177,Binimetinib + Prostate cancer + radiotherapy,Binimetinib,Prostate cancer,radiotherapy,0,1,6,23575,5,69,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,74.0,False
+178,Abemaciclib + Hepatocellular carcinoma + radiotherapy,Abemaciclib,Hepatocellular carcinoma,radiotherapy,0,1,5,3200,5,287,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,75.0,False
+179,Dacomitinib + Hepatocellular carcinoma + radiotherapy,Dacomitinib,Hepatocellular carcinoma,radiotherapy,0,0,8,3200,8,287,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,76.0,False
+180,Binimetinib + Hepatocellular carcinoma + radiotherapy,Binimetinib,Hepatocellular carcinoma,radiotherapy,0,0,6,3200,5,287,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,77.0,False
+182,Lorlatinib + Prostate cancer + radiotherapy,Lorlatinib,Prostate cancer,radiotherapy,0,0,7,23575,8,69,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,78.0,False
+183,Lorlatinib + Pancreatic cancer + radiotherapy,Lorlatinib,Pancreatic cancer,radiotherapy,0,0,7,5336,8,177,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,79.0,False
+184,Lorlatinib + Hepatocellular carcinoma + radiotherapy,Lorlatinib,Hepatocellular carcinoma,radiotherapy,0,0,7,3200,8,287,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,80.0,False
+185,Brigatinib + Prostate cancer + radiotherapy,Brigatinib,Prostate cancer,radiotherapy,0,0,10,23575,12,69,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,81.0,False
+186,Brigatinib + Hepatocellular carcinoma + radiotherapy,Brigatinib,Hepatocellular carcinoma,radiotherapy,0,0,10,3200,12,287,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,82.0,False
+187,Abemaciclib + Prostate cancer + radiotherapy,Abemaciclib,Prostate cancer,radiotherapy,0,0,5,23575,5,69,2,0,2,1,2,1,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,83.0,False
+194,Ruxolitinib + Hepatocellular carcinoma + radiotherapy,Ruxolitinib,Hepatocellular carcinoma,radiotherapy,0,4,15,3200,2,287,2,0,2,1,2,0,2,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,True,84.0,False
+195,Idelalisib + Breast cancer + radiotherapy,Idelalisib,Breast cancer,radiotherapy,0,4,8,32780,0,332,2,0,2,1,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,True,85.0,False
+196,Ponatinib + Pancreatic cancer + radiotherapy,Ponatinib,Pancreatic cancer,radiotherapy,0,3,5,5336,1,177,2,0,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,86.0,False
+197,Ponatinib + Hepatocellular carcinoma + radiotherapy,Ponatinib,Hepatocellular carcinoma,radiotherapy,0,3,5,3200,1,287,2,0,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,87.0,False
+198,Nilotinib + Pancreatic cancer + radiotherapy,Nilotinib,Pancreatic cancer,radiotherapy,0,3,10,5336,3,177,2,0,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,88.0,False
+199,Nilotinib + Hepatocellular carcinoma + radiotherapy,Nilotinib,Hepatocellular carcinoma,radiotherapy,0,3,10,3200,3,287,2,0,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,89.0,False
+200,Ruxolitinib + Prostate cancer + radiotherapy,Ruxolitinib,Prostate cancer,radiotherapy,0,2,15,23575,2,69,2,0,2,1,2,0,2,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,True,90.0,False
+201,Idelalisib + Hepatocellular carcinoma + radiotherapy,Idelalisib,Hepatocellular carcinoma,radiotherapy,0,2,8,3200,0,287,2,0,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,91.0,False
+202,Idelalisib + Melanoma + radiotherapy,Idelalisib,Melanoma,radiotherapy,0,2,8,8193,0,243,2,0,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,92.0,False
+203,Idelalisib + Prostate cancer + radiotherapy,Idelalisib,Prostate cancer,radiotherapy,0,1,8,23575,0,69,2,0,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,93.0,False
+204,Idelalisib + Pancreatic cancer + radiotherapy,Idelalisib,Pancreatic cancer,radiotherapy,0,1,8,5336,0,177,2,0,2,1,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,1,2,3,False,False,94.0,False
+207,Midostaurin + Hepatocellular carcinoma + radiotherapy,Midostaurin,Hepatocellular carcinoma,radiotherapy,0,3,4,3200,0,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,95.0,False
+208,Ribociclib + Hepatocellular carcinoma + radiotherapy,Ribociclib,Hepatocellular carcinoma,radiotherapy,0,3,4,3200,4,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,96.0,False
+209,Midostaurin + Pancreatic cancer + radiotherapy,Midostaurin,Pancreatic cancer,radiotherapy,0,2,4,5336,0,177,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,97.0,False
+210,Bosutinib + Prostate cancer + radiotherapy,Bosutinib,Prostate cancer,radiotherapy,0,4,2,23575,2,69,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,98.0,False
+211,Bosutinib + Melanoma + radiotherapy,Bosutinib,Melanoma,radiotherapy,0,2,2,8193,2,243,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,99.0,False
+212,Erdafitinib + Melanoma + radiotherapy,Erdafitinib,Melanoma,radiotherapy,0,2,2,8193,0,243,2,0,2,0,2,0,2,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,True,100.0,False
+213,Entrectinib + Pancreatic cancer + radiotherapy,Entrectinib,Pancreatic cancer,radiotherapy,0,2,3,5336,4,177,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,101.0,False
+215,Bosutinib + Hepatocellular carcinoma + radiotherapy,Bosutinib,Hepatocellular carcinoma,radiotherapy,0,1,2,3200,2,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,102.0,False
+216,Larotrectinib + Prostate cancer + radiotherapy,Larotrectinib,Prostate cancer,radiotherapy,0,1,1,23575,0,69,2,0,2,0,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,True,103.0,False
+217,Larotrectinib + Pancreatic cancer + radiotherapy,Larotrectinib,Pancreatic cancer,radiotherapy,0,3,1,5336,0,177,2,0,2,0,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,True,104.0,False
+218,Larotrectinib + Melanoma + radiotherapy,Larotrectinib,Melanoma,radiotherapy,0,1,1,8193,0,243,2,0,2,0,2,0,4,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,True,105.0,False
+220,Encorafenib + Pancreatic cancer + radiotherapy,Encorafenib,Pancreatic cancer,radiotherapy,0,1,2,5336,3,177,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,106.0,False
+222,Tofacitinib + Prostate cancer + radiotherapy,Tofacitinib,Prostate cancer,radiotherapy,0,2,1,23575,0,69,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,107.0,False
+223,Tofacitinib + Pancreatic cancer + radiotherapy,Tofacitinib,Pancreatic cancer,radiotherapy,0,3,1,5336,0,177,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,108.0,False
+224,Tofacitinib + Hepatocellular carcinoma + radiotherapy,Tofacitinib,Hepatocellular carcinoma,radiotherapy,0,2,1,3200,0,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,109.0,False
+225,Acalabrutinib + Lung cancer + radiotherapy,Acalabrutinib,Lung cancer,radiotherapy,0,2,1,35162,0,1080,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,110.0,False
+226,Acalabrutinib + Hepatocellular carcinoma + radiotherapy,Acalabrutinib,Hepatocellular carcinoma,radiotherapy,0,1,1,3200,0,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,111.0,False
+227,Erdafitinib + Hepatocellular carcinoma + radiotherapy,Erdafitinib,Hepatocellular carcinoma,radiotherapy,0,1,2,3200,0,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,112.0,False
+229,Entrectinib + Prostate cancer + radiotherapy,Entrectinib,Prostate cancer,radiotherapy,0,1,3,23575,4,69,2,0,2,0,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,True,113.0,False
+230,Midostaurin + Prostate cancer + radiotherapy,Midostaurin,Prostate cancer,radiotherapy,0,0,4,23575,0,69,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,114.0,False
+231,Larotrectinib + Hepatocellular carcinoma + radiotherapy,Larotrectinib,Hepatocellular carcinoma,radiotherapy,0,0,1,3200,0,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,115.0,False
+232,Encorafenib + Prostate cancer + radiotherapy,Encorafenib,Prostate cancer,radiotherapy,0,0,2,23575,3,69,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,116.0,False
+233,Encorafenib + Hepatocellular carcinoma + radiotherapy,Encorafenib,Hepatocellular carcinoma,radiotherapy,0,0,2,3200,3,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,117.0,False
+234,Baricitinib + Lung cancer + radiotherapy,Baricitinib,Lung cancer,radiotherapy,0,3,0,35162,0,1080,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,118.0,False
+235,Baricitinib + Breast cancer + radiotherapy,Baricitinib,Breast cancer,radiotherapy,0,2,0,32780,0,332,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,119.0,False
+237,Baricitinib + Prostate cancer + radiotherapy,Baricitinib,Prostate cancer,radiotherapy,0,0,0,23575,0,69,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,120.0,False
+238,Baricitinib + Pancreatic cancer + radiotherapy,Baricitinib,Pancreatic cancer,radiotherapy,0,0,0,5336,0,177,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,121.0,False
+239,Baricitinib + Hepatocellular carcinoma + radiotherapy,Baricitinib,Hepatocellular carcinoma,radiotherapy,0,0,0,3200,0,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,122.0,False
+240,Baricitinib + Melanoma + radiotherapy,Baricitinib,Melanoma,radiotherapy,0,3,0,8193,0,243,2,0,2,0,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,True,123.0,False
+241,Fostamatinib + Lung cancer + radiotherapy,Fostamatinib,Lung cancer,radiotherapy,0,2,0,35162,0,1080,2,0,2,0,2,0,1,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,True,124.0,False
+242,Fostamatinib + Breast cancer + radiotherapy,Fostamatinib,Breast cancer,radiotherapy,0,3,0,32780,0,332,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,125.0,False
+244,Fostamatinib + Prostate cancer + radiotherapy,Fostamatinib,Prostate cancer,radiotherapy,0,0,0,23575,0,69,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,126.0,False
+245,Fostamatinib + Pancreatic cancer + radiotherapy,Fostamatinib,Pancreatic cancer,radiotherapy,0,0,0,5336,0,177,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,127.0,False
+246,Fostamatinib + Hepatocellular carcinoma + radiotherapy,Fostamatinib,Hepatocellular carcinoma,radiotherapy,0,0,0,3200,0,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,128.0,False
+247,Fostamatinib + Melanoma + radiotherapy,Fostamatinib,Melanoma,radiotherapy,0,1,0,8193,0,243,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,129.0,False
+248,Ribociclib + Pancreatic cancer + radiotherapy,Ribociclib,Pancreatic cancer,radiotherapy,0,0,4,5336,4,177,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,130.0,False
+249,Acalabrutinib + Breast cancer + radiotherapy,Acalabrutinib,Breast cancer,radiotherapy,0,0,1,32780,0,332,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,131.0,False
+251,Acalabrutinib + Prostate cancer + radiotherapy,Acalabrutinib,Prostate cancer,radiotherapy,0,0,1,23575,0,69,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,132.0,False
+252,Acalabrutinib + Pancreatic cancer + radiotherapy,Acalabrutinib,Pancreatic cancer,radiotherapy,0,0,1,5336,0,177,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,133.0,False
+253,Acalabrutinib + Melanoma + radiotherapy,Acalabrutinib,Melanoma,radiotherapy,0,0,1,8193,0,243,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,134.0,False
+254,Gilteritinib + Lung cancer + radiotherapy,Gilteritinib,Lung cancer,radiotherapy,0,3,0,35162,0,1080,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,135.0,False
+255,Gilteritinib + Breast cancer + radiotherapy,Gilteritinib,Breast cancer,radiotherapy,0,2,0,32780,0,332,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,136.0,False
+257,Gilteritinib + Prostate cancer + radiotherapy,Gilteritinib,Prostate cancer,radiotherapy,0,0,0,23575,0,69,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,137.0,False
+258,Gilteritinib + Pancreatic cancer + radiotherapy,Gilteritinib,Pancreatic cancer,radiotherapy,0,1,0,5336,0,177,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,138.0,False
+259,Gilteritinib + Hepatocellular carcinoma + radiotherapy,Gilteritinib,Hepatocellular carcinoma,radiotherapy,0,1,0,3200,0,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,139.0,False
+260,Gilteritinib + Melanoma + radiotherapy,Gilteritinib,Melanoma,radiotherapy,0,0,0,8193,0,243,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,140.0,False
+262,Erdafitinib + Pancreatic cancer + radiotherapy,Erdafitinib,Pancreatic cancer,radiotherapy,0,0,2,5336,0,177,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,141.0,False
+263,Entrectinib + Hepatocellular carcinoma + radiotherapy,Entrectinib,Hepatocellular carcinoma,radiotherapy,0,0,3,3200,4,287,2,0,2,0,2,0,0,Fig 3d KIs x 7 cancers + radiotherapy,0,0,2,2,False,False,142.0,False
+1,Pancreatic cancer + Nanoparticle + VCAM-1,Pancreatic cancer,Nanoparticle,VCAM-1,0,962,85,201,4,20,2,2,2,2,2,1,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,1.0,True
+5,Asthma + Nanoparticle + VCAM-1,Asthma,Nanoparticle,VCAM-1,0,297,400,201,1,20,2,2,2,2,2,0,1,Fig 5 targeted biomaterials,2,2,2,6,True,True,2.0,True
+6,Hepatitis c + Nanoparticle + ICAM-1,Hepatitis c,Nanoparticle,ICAM-1,0,167,105,185,1,18,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,3.0,True
+7,Hepatitis c + Liposome + ICAM-1,Hepatitis c,Liposome,ICAM-1,0,123,105,157,1,23,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,4.0,True
+8,Pancreatic cancer + Nanoparticle + ICAM-1,Pancreatic cancer,Nanoparticle,ICAM-1,0,962,102,185,1,18,2,2,2,2,2,0,1,Fig 5 targeted biomaterials,2,2,2,6,True,True,5.0,True
+9,Osteoarthritis + Nanoparticle + VCAM-1,Osteoarthritis,Nanoparticle,VCAM-1,0,210,96,201,1,20,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,6.0,True
+10,Osteoarthritis + Liposome + VCAM-1,Osteoarthritis,Liposome,VCAM-1,0,82,96,128,1,22,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,7.0,True
+11,Hepatitis c + Nanoparticle + VCAM-1,Hepatitis c,Nanoparticle,VCAM-1,0,167,54,201,0,20,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,8.0,True
+12,Hepatitis c + Liposome + VCAM-1,Hepatitis c,Liposome,VCAM-1,0,123,54,128,0,22,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,9.0,True
+13,Glaucoma + Nanoparticle + CAV1,Glaucoma,Nanoparticle,CAV1,0,166,45,35,0,12,2,2,2,2,2,0,1,Fig 5 targeted biomaterials,2,2,2,6,True,True,10.0,True
+14,Myocardial infarction + Nanoparticle + CAV1,Myocardial infarction,Nanoparticle,CAV1,0,506,32,35,0,12,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,11.0,False
+15,Asthma + Nanoparticle + CAV1,Asthma,Nanoparticle,CAV1,0,297,23,35,0,12,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,12.0,False
+16,Glaucoma + Nanoparticle + ICAM-1,Glaucoma,Nanoparticle,ICAM-1,0,166,17,185,0,18,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,13.0,False
+17,Glaucoma + Liposome + ICAM-1,Glaucoma,Liposome,ICAM-1,0,78,17,157,0,23,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,14.0,False
+18,Glaucoma + Nanoparticle + VCAM-1,Glaucoma,Nanoparticle,VCAM-1,0,166,12,201,0,20,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,15.0,False
+19,Glaucoma + Liposome + VCAM-1,Glaucoma,Liposome,VCAM-1,0,78,12,128,0,22,2,2,2,2,2,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,16.0,False
+22,Breast cancer + Radiolabeled Antibody + ICAM-1,Breast cancer,Radiolabeled Antibody,ICAM-1,0,505,297,83,10,7,2,2,2,2,1,2,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,17.0,False
+23,Rheumatoid arthritis + Liposome + E-selectin,Rheumatoid arthritis,Liposome,E-selectin,0,234,191,71,5,9,2,2,2,2,1,1,1,Fig 5 targeted biomaterials,2,2,2,6,True,True,18.0,False
+24,Pancreatic cancer + Radiolabeled Antibody + VCAM-1,Pancreatic cancer,Radiolabeled Antibody,VCAM-1,0,147,85,70,4,8,2,2,2,2,1,1,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,19.0,False
+25,Rheumatoid arthritis + Nanoparticle + E-selectin,Rheumatoid arthritis,Nanoparticle,E-selectin,0,328,191,61,5,6,2,2,2,2,1,1,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,20.0,False
+26,Breast cancer + Radiolabeled Antibody + E-selectin,Breast cancer,Radiolabeled Antibody,E-selectin,0,505,138,60,7,9,2,2,2,2,1,1,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,21.0,False
+27,Myocardial infarction + Radiolabeled Antibody + VCAM-1,Myocardial infarction,Radiolabeled Antibody,VCAM-1,0,55,343,70,7,8,2,2,2,2,1,1,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,22.0,False
+28,Myocardial infarction + Radiolabeled Antibody + ICAM-1,Myocardial infarction,Radiolabeled Antibody,ICAM-1,0,55,398,83,4,7,2,2,2,2,1,1,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,23.0,False
+29,Myocardial infarction + Radiolabeled Antibody + E-selectin,Myocardial infarction,Radiolabeled Antibody,E-selectin,0,55,160,60,2,9,2,2,2,2,1,1,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,24.0,False
+30,Osteoarthritis + Nanoparticle + E-selectin,Osteoarthritis,Nanoparticle,E-selectin,0,210,31,61,2,6,2,2,2,2,1,1,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,25.0,False
+31,Osteoarthritis + Liposome + E-selectin,Osteoarthritis,Liposome,E-selectin,0,82,31,71,2,9,2,2,2,2,1,1,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,26.0,False
+32,Asthma + Radiolabeled Antibody + ICAM-1,Asthma,Radiolabeled Antibody,ICAM-1,0,29,690,83,7,7,2,2,2,2,1,1,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,27.0,False
+33,Lung cancer + Liposome + FAP,Lung cancer,Liposome,FAP,0,1513,100,19,3,3,2,2,2,2,1,1,2,Fig 5 targeted biomaterials,2,2,1,5,True,True,28.0,False
+34,Hepatitis c + Liposome + ASGPR,Hepatitis c,Liposome,ASGPR,0,123,14,43,2,3,2,2,2,2,1,1,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,29.0,False
+35,Rheumatoid arthritis + Nanoparticle + FAP,Rheumatoid arthritis,Nanoparticle,FAP,0,328,12,24,4,3,2,2,2,2,1,1,2,Fig 5 targeted biomaterials,2,1,2,5,True,True,30.0,False
+43,Pancreatic cancer + Radiolabeled Antibody + ICAM-1,Pancreatic cancer,Radiolabeled Antibody,ICAM-1,0,147,102,83,1,7,2,2,2,2,1,0,1,Fig 5 targeted biomaterials,2,2,2,6,True,True,31.0,False
+44,Asthma + Liposome + E-selectin,Asthma,Liposome,E-selectin,0,123,130,71,0,9,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,32.0,False
+45,Asthma + Nanoparticle + E-selectin,Asthma,Nanoparticle,E-selectin,0,297,130,61,0,6,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,33.0,False
+46,Pancreatic cancer + Nanoparticle + E-selectin,Pancreatic cancer,Nanoparticle,E-selectin,0,962,50,61,0,6,2,2,2,2,1,0,1,Fig 5 targeted biomaterials,2,2,2,6,True,True,34.0,False
+47,Pancreatic cancer + Liposome + E-selectin,Pancreatic cancer,Liposome,E-selectin,0,341,50,71,0,9,2,2,2,2,1,0,1,Fig 5 targeted biomaterials,2,2,2,6,True,True,35.0,False
+48,Pancreatic cancer + Radiolabeled Antibody + E-selectin,Pancreatic cancer,Radiolabeled Antibody,E-selectin,0,147,50,60,0,9,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,36.0,False
+49,Asthma + Radiolabeled Antibody + VCAM-1,Asthma,Radiolabeled Antibody,VCAM-1,0,29,400,70,1,8,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,37.0,False
+50,Asthma + Radiolabeled Antibody + E-selectin,Asthma,Radiolabeled Antibody,E-selectin,0,29,130,60,0,9,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,38.0,False
+51,Pancreatic cancer + Nanoparticle + FAP,Pancreatic cancer,Nanoparticle,FAP,0,962,101,24,1,3,2,2,2,2,1,0,9,Fig 5 targeted biomaterials,2,2,2,6,True,True,39.0,False
+52,Glaucoma + Nanoparticle + FAP,Glaucoma,Nanoparticle,FAP,0,166,27,24,0,3,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,40.0,False
+53,Pancreatic cancer + Liposome + FAP,Pancreatic cancer,Liposome,FAP,0,341,101,19,1,3,2,2,2,2,1,0,3,Fig 5 targeted biomaterials,2,2,1,5,True,True,41.0,False
+54,Glaucoma + Liposome + FAP,Glaucoma,Liposome,FAP,0,78,27,19,0,3,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,42.0,False
+55,Hepatitis c + Nanoparticle + E-selectin,Hepatitis c,Nanoparticle,E-selectin,0,167,16,61,0,6,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,43.0,False
+56,Hepatitis c + Liposome + E-selectin,Hepatitis c,Liposome,E-selectin,0,123,16,71,0,9,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,44.0,False
+57,Glaucoma + Nanoparticle + E-selectin,Glaucoma,Nanoparticle,E-selectin,0,166,15,61,0,6,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,45.0,False
+58,Glaucoma + Liposome + E-selectin,Glaucoma,Liposome,E-selectin,0,78,15,71,0,9,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,46.0,False
+59,Hepatitis c + Radiolabeled Antibody + VCAM-1,Hepatitis c,Radiolabeled Antibody,VCAM-1,0,13,54,70,0,8,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,1,2,2,5,True,False,47.0,False
+60,Hepatitis c + Radiolabeled Antibody + E-selectin,Hepatitis c,Radiolabeled Antibody,E-selectin,0,13,16,60,0,9,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,1,1,2,4,True,False,48.0,False
+61,Myocardial infarction + Nanoparticle + FAP,Myocardial infarction,Nanoparticle,FAP,0,506,13,24,0,3,2,2,2,2,1,0,7,Fig 5 targeted biomaterials,2,1,2,5,True,True,49.0,False
+62,Myocardial infarction + Liposome + FAP,Myocardial infarction,Liposome,FAP,0,172,13,19,0,3,2,2,2,2,1,0,1,Fig 5 targeted biomaterials,2,1,1,4,True,True,50.0,False
+63,Asthma + Nanoparticle + FAP,Asthma,Nanoparticle,FAP,0,297,12,24,0,3,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,51.0,False
+64,Asthma + Liposome + FAP,Asthma,Liposome,FAP,0,123,12,19,0,3,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,1,1,4,True,False,52.0,False
+65,Hepatitis c + Nanoparticle + FAP,Hepatitis c,Nanoparticle,FAP,0,167,12,24,0,3,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,53.0,False
+66,Hepatitis c + Liposome + FAP,Hepatitis c,Liposome,FAP,0,123,12,19,0,3,2,2,2,2,1,0,0,Fig 5 targeted biomaterials,2,1,1,4,True,False,54.0,False
+72,Breast cancer + Hydrogel + VCAM-1,Breast cancer,Hydrogel,VCAM-1,0,399,299,26,16,1,2,2,2,2,0,2,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,55.0,False
+73,Lung cancer + Hydrogel + VCAM-1,Lung cancer,Hydrogel,VCAM-1,0,153,340,26,15,1,2,2,2,2,0,2,1,Fig 5 targeted biomaterials,2,2,2,6,True,True,56.0,False
+74,Breast cancer + Hydrogel + ICAM-1,Breast cancer,Hydrogel,ICAM-1,0,399,297,13,10,1,2,2,2,2,0,2,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,57.0,False
+75,Rheumatoid arthritis + Hydrogel + ICAM-1,Rheumatoid arthritis,Hydrogel,ICAM-1,0,56,497,13,10,1,2,2,2,2,0,2,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,58.0,False
+77,Pancreatic cancer + Hydrogel + VCAM-1,Pancreatic cancer,Hydrogel,VCAM-1,0,63,85,26,4,1,2,2,2,2,0,1,1,Fig 5 targeted biomaterials,2,2,2,6,True,True,59.0,False
+78,Rheumatoid arthritis + Hydrogel + VCAM-1,Rheumatoid arthritis,Hydrogel,VCAM-1,0,56,385,26,7,1,2,2,2,2,0,1,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,60.0,False
+79,Myocardial infarction + Hydrogel + ICAM-1,Myocardial infarction,Hydrogel,ICAM-1,0,395,398,13,4,1,2,2,2,2,0,1,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,61.0,False
+80,Asthma + Hydrogel + ICAM-1,Asthma,Hydrogel,ICAM-1,0,22,690,13,7,1,2,2,2,2,0,1,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,62.0,False
+81,Osteoarthritis + Hydrogel + ICAM-1,Osteoarthritis,Hydrogel,ICAM-1,0,285,119,13,4,1,2,2,2,2,0,1,1,Fig 5 targeted biomaterials,2,2,1,5,True,True,63.0,False
+82,Breast cancer + Liposome + CAV1,Breast cancer,Liposome,CAV1,0,1827,234,11,5,0,2,2,2,2,0,1,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,64.0,False
+83,Lung cancer + Liposome + CAV1,Lung cancer,Liposome,CAV1,0,1513,177,11,4,0,2,2,2,2,0,1,1,Fig 5 targeted biomaterials,2,2,1,5,True,True,65.0,False
+84,Pancreatic cancer + Liposome + CAV1,Pancreatic cancer,Liposome,CAV1,0,341,41,11,3,0,2,2,2,2,0,1,1,Fig 5 targeted biomaterials,2,2,1,5,True,True,66.0,False
+86,Lung cancer + Liposome + Annexin A1,Lung cancer,Liposome,Annexin A1,0,1513,63,28,0,1,2,2,2,2,0,0,1,Fig 5 targeted biomaterials,2,2,2,6,True,True,67.0,False
+87,Rheumatoid arthritis + Liposome + Annexin A1,Rheumatoid arthritis,Liposome,Annexin A1,0,234,33,28,0,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,68.0,False
+88,Osteoarthritis + Hydrogel + VCAM-1,Osteoarthritis,Hydrogel,VCAM-1,0,285,96,26,1,1,2,2,2,2,0,0,2,Fig 5 targeted biomaterials,2,2,2,6,True,True,69.0,False
+89,Pancreatic cancer + Liposome + Annexin A1,Pancreatic cancer,Liposome,Annexin A1,0,341,25,28,0,1,2,2,2,2,0,0,1,Fig 5 targeted biomaterials,2,2,2,6,True,True,70.0,False
+90,Asthma + Hydrogel + VCAM-1,Asthma,Hydrogel,VCAM-1,0,22,400,26,1,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,71.0,False
+91,Asthma + Liposome + Annexin A1,Asthma,Liposome,Annexin A1,0,123,21,28,0,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,2,2,6,True,False,72.0,False
+92,Pancreatic cancer + Hydrogel + ICAM-1,Pancreatic cancer,Hydrogel,ICAM-1,0,63,102,13,1,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,73.0,False
+93,Glaucoma + Hydrogel + ICAM-1,Glaucoma,Hydrogel,ICAM-1,0,114,17,13,0,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,1,1,4,True,False,74.0,False
+94,Myocardial infarction + Liposome + Annexin A1,Myocardial infarction,Liposome,Annexin A1,0,172,13,28,0,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,75.0,False
+95,Glaucoma + Hydrogel + VCAM-1,Glaucoma,Hydrogel,VCAM-1,0,114,12,26,0,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,1,2,5,True,False,76.0,False
+96,Myocardial infarction + Liposome + CAV1,Myocardial infarction,Liposome,CAV1,0,172,32,11,0,0,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,77.0,False
+97,Asthma + Liposome + CAV1,Asthma,Liposome,CAV1,0,123,23,11,0,0,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,78.0,False
+98,Glaucoma + Liposome + CAV1,Glaucoma,Liposome,CAV1,0,78,45,11,0,0,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,79.0,False
+99,Lung cancer + Nanoparticle + Annexin A1,Lung cancer,Nanoparticle,Annexin A1,0,2930,63,11,0,1,2,2,2,2,0,0,1,Fig 5 targeted biomaterials,2,2,1,5,True,True,80.0,False
+100,Pancreatic cancer + Nanoparticle + Annexin A1,Pancreatic cancer,Nanoparticle,Annexin A1,0,962,25,11,0,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,81.0,False
+101,Myocardial infarction + Nanoparticle + Annexin A1,Myocardial infarction,Nanoparticle,Annexin A1,0,506,13,11,0,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,1,1,4,True,False,82.0,False
+102,Rheumatoid arthritis + Nanoparticle + Annexin A1,Rheumatoid arthritis,Nanoparticle,Annexin A1,0,328,33,11,0,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,2,2,1,5,True,False,83.0,False
+103,Asthma + Nanoparticle + Annexin A1,Asthma,Nanoparticle,Annexin A1,0,297,21,11,0,1,2,2,2,2,0,0,1,Fig 5 targeted biomaterials,2,2,1,5,True,True,84.0,False
+104,Hepatitis c + Hydrogel + VCAM-1,Hepatitis c,Hydrogel,VCAM-1,0,10,54,26,0,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,1,2,2,5,True,False,85.0,False
+105,Hepatitis c + Hydrogel + ICAM-1,Hepatitis c,Hydrogel,ICAM-1,0,10,105,13,1,1,2,2,2,2,0,0,0,Fig 5 targeted biomaterials,1,2,1,4,True,False,86.0,False
+108,Hepatitis c + Nanoparticle + CAV1,Hepatitis c,Nanoparticle,CAV1,0,167,8,35,0,12,2,2,2,1,2,0,0,Fig 5 targeted biomaterials,2,1,2,5,False,False,87.0,False
+109,Osteoarthritis + Nanoparticle + CAV1,Osteoarthritis,Nanoparticle,CAV1,0,210,5,35,0,12,2,2,2,1,2,0,0,Fig 5 targeted biomaterials,2,1,2,5,False,False,88.0,False
+110,Rheumatoid arthritis + Nanoparticle + CAV1,Rheumatoid arthritis,Nanoparticle,CAV1,0,328,4,35,0,12,2,2,2,1,2,0,1,Fig 5 targeted biomaterials,2,0,2,4,False,True,89.0,False
+112,Osteoarthritis + Nanoparticle + FAP,Osteoarthritis,Nanoparticle,FAP,0,210,9,24,0,3,2,2,2,1,1,0,1,Fig 5 targeted biomaterials,2,1,2,5,False,True,90.0,False
+113,Osteoarthritis + Liposome + FAP,Osteoarthritis,Liposome,FAP,0,82,9,19,0,3,2,2,2,1,1,0,1,Fig 5 targeted biomaterials,2,1,1,4,False,True,91.0,False
+114,Breast cancer + Liposome + ASGPR,Breast cancer,Liposome,ASGPR,0,1827,3,43,1,3,2,2,2,1,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,92.0,False
+116,Hepatitis c + Liposome + CAV1,Hepatitis c,Liposome,CAV1,0,123,8,11,0,0,2,2,2,1,0,0,0,Fig 5 targeted biomaterials,2,1,1,4,False,False,93.0,False
+117,Osteoarthritis + Nanoparticle + Annexin A1,Osteoarthritis,Nanoparticle,Annexin A1,0,210,8,11,0,1,2,2,2,1,0,0,1,Fig 5 targeted biomaterials,2,1,1,4,False,True,94.0,False
+118,Osteoarthritis + Liposome + Annexin A1,Osteoarthritis,Liposome,Annexin A1,0,82,8,28,0,1,2,2,2,1,0,0,0,Fig 5 targeted biomaterials,2,1,2,5,False,False,95.0,False
+119,Osteoarthritis + Liposome + CAV1,Osteoarthritis,Liposome,CAV1,0,82,5,11,0,0,2,2,2,1,0,0,0,Fig 5 targeted biomaterials,2,1,1,4,False,False,96.0,False
+120,Glaucoma + Nanoparticle + Annexin A1,Glaucoma,Nanoparticle,Annexin A1,0,166,5,11,0,1,2,2,2,1,0,0,0,Fig 5 targeted biomaterials,2,1,1,4,False,False,97.0,False
+121,Glaucoma + Liposome + Annexin A1,Glaucoma,Liposome,Annexin A1,0,78,5,28,0,1,2,2,2,1,0,0,0,Fig 5 targeted biomaterials,2,1,2,5,False,False,98.0,False
+122,Rheumatoid arthritis + Liposome + CAV1,Rheumatoid arthritis,Liposome,CAV1,0,234,4,11,0,0,2,2,2,1,0,0,0,Fig 5 targeted biomaterials,2,0,1,3,False,False,99.0,False
+123,Myocardial infarction + Nanoparticle + PSMA,Myocardial infarction,Nanoparticle,PSMA,0,506,1,149,0,10,2,2,2,0,2,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,100.0,False
+124,Asthma + Nanoparticle + PSMA,Asthma,Nanoparticle,PSMA,0,297,1,149,0,10,2,2,2,0,2,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,101.0,False
+125,Osteoarthritis + Nanoparticle + PSMA,Osteoarthritis,Nanoparticle,PSMA,0,210,1,149,0,10,2,2,2,0,2,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,102.0,False
+126,Glaucoma + Nanoparticle + PSMA,Glaucoma,Nanoparticle,PSMA,0,166,1,149,0,10,2,2,2,0,2,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,103.0,False
+127,Rheumatoid arthritis + Nanoparticle + PSMA,Rheumatoid arthritis,Nanoparticle,PSMA,0,328,0,149,0,10,2,2,2,0,2,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,104.0,False
+128,Hepatitis c + Nanoparticle + PSMA,Hepatitis c,Nanoparticle,PSMA,0,167,0,149,0,10,2,2,2,0,2,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,105.0,False
+129,Myocardial infarction + Nanoparticle + ASGPR,Myocardial infarction,Nanoparticle,ASGPR,0,506,1,85,1,3,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,106.0,False
+130,Rheumatoid arthritis + Nanoparticle + ASGPR,Rheumatoid arthritis,Nanoparticle,ASGPR,0,328,1,85,0,3,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,107.0,False
+131,Rheumatoid arthritis + Liposome + ASGPR,Rheumatoid arthritis,Liposome,ASGPR,0,234,1,43,0,3,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,108.0,False
+132,Myocardial infarction + Liposome + PSMA,Myocardial infarction,Liposome,PSMA,0,172,1,21,0,6,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,109.0,False
+133,Myocardial infarction + Radiolabeled Antibody + PSMA,Myocardial infarction,Radiolabeled Antibody,PSMA,0,55,1,70,0,5,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,110.0,False
+134,Asthma + Liposome + PSMA,Asthma,Liposome,PSMA,0,123,1,21,0,6,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,111.0,False
+135,Asthma + Radiolabeled Antibody + PSMA,Asthma,Radiolabeled Antibody,PSMA,0,29,1,70,0,5,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,112.0,False
+136,Osteoarthritis + Liposome + PSMA,Osteoarthritis,Liposome,PSMA,0,82,1,21,0,6,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,113.0,False
+137,Osteoarthritis + Radiolabeled Antibody + PSMA,Osteoarthritis,Radiolabeled Antibody,PSMA,0,14,1,70,0,5,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,1,0,2,3,False,False,114.0,False
+138,Glaucoma + Liposome + PSMA,Glaucoma,Liposome,PSMA,0,78,1,21,0,6,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,115.0,False
+139,Pancreatic cancer + Nanoparticle + ASGPR,Pancreatic cancer,Nanoparticle,ASGPR,0,962,0,85,0,3,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,116.0,False
+140,Pancreatic cancer + Liposome + ASGPR,Pancreatic cancer,Liposome,ASGPR,0,341,0,43,0,3,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,117.0,False
+141,Asthma + Nanoparticle + ASGPR,Asthma,Nanoparticle,ASGPR,0,297,0,85,0,3,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,118.0,False
+142,Asthma + Liposome + ASGPR,Asthma,Liposome,ASGPR,0,123,0,43,0,3,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,119.0,False
+143,Osteoarthritis + Nanoparticle + ASGPR,Osteoarthritis,Nanoparticle,ASGPR,0,210,0,85,0,3,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,120.0,False
+144,Osteoarthritis + Liposome + ASGPR,Osteoarthritis,Liposome,ASGPR,0,82,0,43,0,3,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,121.0,False
+145,Glaucoma + Nanoparticle + ASGPR,Glaucoma,Nanoparticle,ASGPR,0,166,0,85,0,3,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,122.0,False
+146,Glaucoma + Liposome + ASGPR,Glaucoma,Liposome,ASGPR,0,78,0,43,0,3,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,123.0,False
+147,Rheumatoid arthritis + Liposome + PSMA,Rheumatoid arthritis,Liposome,PSMA,0,234,0,21,0,6,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,124.0,False
+148,Rheumatoid arthritis + Radiolabeled Antibody + PSMA,Rheumatoid arthritis,Radiolabeled Antibody,PSMA,0,118,0,70,0,5,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,125.0,False
+149,Hepatitis c + Liposome + PSMA,Hepatitis c,Liposome,PSMA,0,123,0,21,0,6,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,126.0,False
+150,Hepatitis c + Radiolabeled Antibody + PSMA,Hepatitis c,Radiolabeled Antibody,PSMA,0,13,0,70,0,5,2,2,2,0,1,0,0,Fig 5 targeted biomaterials,1,0,2,3,False,False,127.0,False
+152,Hepatitis c + Nanoparticle + Annexin A1,Hepatitis c,Nanoparticle,Annexin A1,0,167,1,11,0,1,2,2,2,0,0,0,0,Fig 5 targeted biomaterials,2,0,1,3,False,False,128.0,False
+153,Hepatitis c + Liposome + Annexin A1,Hepatitis c,Liposome,Annexin A1,0,123,1,28,0,1,2,2,2,0,0,0,0,Fig 5 targeted biomaterials,2,0,2,4,False,False,129.0,False
+154,Breast cancer + Radiolabeled Antibody + FAP,Breast cancer,Radiolabeled Antibody,FAP,0,505,139,6,3,5,2,2,1,2,1,1,2,Fig 5 targeted biomaterials,2,2,1,5,False,True,130.0,False
+156,Myocardial infarction + Radiolabeled Antibody + FAP,Myocardial infarction,Radiolabeled Antibody,FAP,0,55,13,6,0,5,2,2,1,2,1,0,0,Fig 5 targeted biomaterials,2,1,1,4,False,False,131.0,False
+157,Asthma + Radiolabeled Antibody + FAP,Asthma,Radiolabeled Antibody,FAP,0,29,12,6,0,5,2,2,1,2,1,0,0,Fig 5 targeted biomaterials,2,1,1,4,False,False,132.0,False
+158,Hepatitis c + Radiolabeled Antibody + FAP,Hepatitis c,Radiolabeled Antibody,FAP,0,13,12,6,0,5,2,2,1,2,1,0,0,Fig 5 targeted biomaterials,1,1,1,3,False,False,133.0,False
+160,Breast cancer + Hydrogel + PSMA,Breast cancer,Hydrogel,PSMA,0,399,71,3,11,0,2,2,1,2,0,2,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,134.0,False
+161,Breast cancer + Hydrogel + E-selectin,Breast cancer,Hydrogel,E-selectin,0,399,138,6,7,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,2,2,1,5,False,False,135.0,False
+162,Lung cancer + Hydrogel + E-selectin,Lung cancer,Hydrogel,E-selectin,0,153,143,6,8,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,2,2,1,5,False,False,136.0,False
+163,Myocardial infarction + Hydrogel + E-selectin,Myocardial infarction,Hydrogel,E-selectin,0,395,160,6,2,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,2,2,1,5,False,False,137.0,False
+164,Rheumatoid arthritis + Hydrogel + E-selectin,Rheumatoid arthritis,Hydrogel,E-selectin,0,56,191,6,5,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,2,2,1,5,False,False,138.0,False
+165,Osteoarthritis + Hydrogel + E-selectin,Osteoarthritis,Hydrogel,E-selectin,0,285,31,6,2,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,2,2,1,5,False,False,139.0,False
+166,Hepatitis c + Hydrogel + ASGPR,Hepatitis c,Hydrogel,ASGPR,0,10,14,4,2,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,1,1,0,2,False,False,140.0,False
+167,Breast cancer + Radiolabeled Antibody + CAV1,Breast cancer,Radiolabeled Antibody,CAV1,0,505,234,3,5,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,141.0,False
+168,Lung cancer + Radiolabeled Antibody + CAV1,Lung cancer,Radiolabeled Antibody,CAV1,0,442,177,3,4,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,142.0,False
+169,Pancreatic cancer + Radiolabeled Antibody + CAV1,Pancreatic cancer,Radiolabeled Antibody,CAV1,0,147,41,3,3,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,143.0,False
+170,Lung cancer + Hydrogel + PSMA,Lung cancer,Hydrogel,PSMA,0,153,100,3,7,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,144.0,False
+171,Pancreatic cancer + Hydrogel + PSMA,Pancreatic cancer,Hydrogel,PSMA,0,63,21,3,3,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,145.0,False
+172,Breast cancer + Hydrogel + FAP,Breast cancer,Hydrogel,FAP,0,399,139,2,3,0,2,2,1,2,0,1,1,Fig 5 targeted biomaterials,2,2,0,4,False,True,146.0,False
+173,Lung cancer + Hydrogel + FAP,Lung cancer,Hydrogel,FAP,0,153,100,2,3,0,2,2,1,2,0,1,2,Fig 5 targeted biomaterials,2,2,0,4,False,True,147.0,False
+174,Rheumatoid arthritis + Hydrogel + FAP,Rheumatoid arthritis,Hydrogel,FAP,0,56,12,2,4,0,2,2,1,2,0,1,0,Fig 5 targeted biomaterials,2,1,0,3,False,False,148.0,False
+175,Pancreatic cancer + Hydrogel + E-selectin,Pancreatic cancer,Hydrogel,E-selectin,0,63,50,6,0,0,2,2,1,2,0,0,0,Fig 5 targeted biomaterials,2,2,1,5,False,False,149.0,False
+176,Asthma + Hydrogel + E-selectin,Asthma,Hydrogel,E-selectin,0,22,130,6,0,0,2,2,1,2,0,0,0,Fig 5 targeted biomaterials,2,2,1,5,False,False,150.0,False
+177,Hepatitis c + Hydrogel + E-selectin,Hepatitis c,Hydrogel,E-selectin,0,10,16,6,0,0,2,2,1,2,0,0,0,Fig 5 targeted biomaterials,1,1,1,3,False,False,151.0,False
+178,Glaucoma + Hydrogel + E-selectin,Glaucoma,Hydrogel,E-selectin,0,114,15,6,0,0,2,2,1,2,0,0,0,Fig 5 targeted biomaterials,2,1,1,4,False,False,152.0,False
+179,Myocardial infarction + Radiolabeled Antibody + CAV1,Myocardial infarction,Radiolabeled Antibody,CAV1,0,55,32,3,0,0,2,2,1,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,153.0,False
+180,Asthma + Radiolabeled Antibody + CAV1,Asthma,Radiolabeled Antibody,CAV1,0,29,23,3,0,0,2,2,1,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,154.0,False
+181,Pancreatic cancer + Hydrogel + FAP,Pancreatic cancer,Hydrogel,FAP,0,63,101,2,1,0,2,2,1,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,155.0,False
+182,Myocardial infarction + Hydrogel + FAP,Myocardial infarction,Hydrogel,FAP,0,395,13,2,0,0,2,2,1,2,0,0,2,Fig 5 targeted biomaterials,2,1,0,3,False,True,156.0,False
+183,Asthma + Hydrogel + FAP,Asthma,Hydrogel,FAP,0,22,12,2,0,0,2,2,1,2,0,0,0,Fig 5 targeted biomaterials,2,1,0,3,False,False,157.0,False
+184,Hepatitis c + Hydrogel + FAP,Hepatitis c,Hydrogel,FAP,0,10,12,2,0,0,2,2,1,2,0,0,0,Fig 5 targeted biomaterials,1,1,0,2,False,False,158.0,False
+185,Glaucoma + Hydrogel + FAP,Glaucoma,Hydrogel,FAP,0,114,27,2,0,0,2,2,1,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,159.0,False
+187,Osteoarthritis + Radiolabeled Antibody + FAP,Osteoarthritis,Radiolabeled Antibody,FAP,0,14,9,6,0,5,2,2,1,1,1,0,0,Fig 5 targeted biomaterials,1,1,1,3,False,False,160.0,False
+188,Lung cancer + Radiolabeled Antibody + ASGPR,Lung cancer,Radiolabeled Antibody,ASGPR,0,442,5,6,3,1,2,2,1,1,0,1,0,Fig 5 targeted biomaterials,2,1,1,4,False,False,161.0,False
+189,Lung cancer + Hydrogel + ASGPR,Lung cancer,Hydrogel,ASGPR,0,153,5,4,3,0,2,2,1,1,0,1,0,Fig 5 targeted biomaterials,2,1,0,3,False,False,162.0,False
+190,Breast cancer + Hydrogel + ASGPR,Breast cancer,Hydrogel,ASGPR,0,399,3,4,1,0,2,2,1,1,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,163.0,False
+191,Breast cancer + Radiolabeled Antibody + ASGPR,Breast cancer,Radiolabeled Antibody,ASGPR,0,505,3,6,1,1,2,2,1,1,0,0,0,Fig 5 targeted biomaterials,2,0,1,3,False,False,164.0,False
+192,Rheumatoid arthritis + Radiolabeled Antibody + CAV1,Rheumatoid arthritis,Radiolabeled Antibody,CAV1,0,118,4,3,0,0,2,2,1,1,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,165.0,False
+193,Osteoarthritis + Radiolabeled Antibody + CAV1,Osteoarthritis,Radiolabeled Antibody,CAV1,0,14,5,3,0,0,2,2,1,1,0,0,0,Fig 5 targeted biomaterials,1,1,0,2,False,False,166.0,False
+194,Hepatitis c + Radiolabeled Antibody + CAV1,Hepatitis c,Radiolabeled Antibody,CAV1,0,13,8,3,0,0,2,2,1,1,0,0,0,Fig 5 targeted biomaterials,1,1,0,2,False,False,167.0,False
+195,Osteoarthritis + Hydrogel + FAP,Osteoarthritis,Hydrogel,FAP,0,285,9,2,0,0,2,2,1,1,0,0,0,Fig 5 targeted biomaterials,2,1,0,3,False,False,168.0,False
+196,Myocardial infarction + Hydrogel + ASGPR,Myocardial infarction,Hydrogel,ASGPR,0,395,1,4,1,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,169.0,False
+197,Myocardial infarction + Radiolabeled Antibody + ASGPR,Myocardial infarction,Radiolabeled Antibody,ASGPR,0,55,1,6,1,1,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,1,3,False,False,170.0,False
+198,Rheumatoid arthritis + Hydrogel + ASGPR,Rheumatoid arthritis,Hydrogel,ASGPR,0,56,1,4,0,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,171.0,False
+199,Rheumatoid arthritis + Radiolabeled Antibody + ASGPR,Rheumatoid arthritis,Radiolabeled Antibody,ASGPR,0,118,1,6,0,1,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,1,3,False,False,172.0,False
+200,Myocardial infarction + Hydrogel + PSMA,Myocardial infarction,Hydrogel,PSMA,0,395,1,3,0,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,173.0,False
+201,Asthma + Hydrogel + PSMA,Asthma,Hydrogel,PSMA,0,22,1,3,0,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,174.0,False
+202,Osteoarthritis + Hydrogel + PSMA,Osteoarthritis,Hydrogel,PSMA,0,285,1,3,0,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,175.0,False
+203,Glaucoma + Hydrogel + PSMA,Glaucoma,Hydrogel,PSMA,0,114,1,3,0,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,176.0,False
+204,Pancreatic cancer + Hydrogel + ASGPR,Pancreatic cancer,Hydrogel,ASGPR,0,63,0,4,0,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,177.0,False
+205,Pancreatic cancer + Radiolabeled Antibody + ASGPR,Pancreatic cancer,Radiolabeled Antibody,ASGPR,0,147,0,6,0,1,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,1,3,False,False,178.0,False
+206,Asthma + Hydrogel + ASGPR,Asthma,Hydrogel,ASGPR,0,22,0,4,0,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,179.0,False
+207,Asthma + Radiolabeled Antibody + ASGPR,Asthma,Radiolabeled Antibody,ASGPR,0,29,0,6,0,1,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,1,3,False,False,180.0,False
+208,Osteoarthritis + Hydrogel + ASGPR,Osteoarthritis,Hydrogel,ASGPR,0,285,0,4,0,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,181.0,False
+209,Osteoarthritis + Radiolabeled Antibody + ASGPR,Osteoarthritis,Radiolabeled Antibody,ASGPR,0,14,0,6,0,1,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,1,0,1,2,False,False,182.0,False
+210,Glaucoma + Hydrogel + ASGPR,Glaucoma,Hydrogel,ASGPR,0,114,0,4,0,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,183.0,False
+211,Rheumatoid arthritis + Hydrogel + PSMA,Rheumatoid arthritis,Hydrogel,PSMA,0,56,0,3,0,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,184.0,False
+212,Hepatitis c + Hydrogel + PSMA,Hepatitis c,Hydrogel,PSMA,0,10,0,3,0,0,2,2,1,0,0,0,0,Fig 5 targeted biomaterials,1,0,0,1,False,False,185.0,False
+213,Breast cancer + Hydrogel + CAV1,Breast cancer,Hydrogel,CAV1,0,399,234,1,5,0,2,2,0,2,0,1,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,186.0,False
+214,Lung cancer + Hydrogel + CAV1,Lung cancer,Hydrogel,CAV1,0,153,177,1,4,0,2,2,0,2,0,1,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,187.0,False
+215,Pancreatic cancer + Hydrogel + CAV1,Pancreatic cancer,Hydrogel,CAV1,0,63,41,1,3,0,2,2,0,2,0,1,1,Fig 5 targeted biomaterials,2,2,0,4,False,True,188.0,False
+216,Breast cancer + Hydrogel + Annexin A1,Breast cancer,Hydrogel,Annexin A1,0,399,73,1,2,0,2,2,0,2,0,1,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,189.0,False
+217,Breast cancer + Radiolabeled Antibody + Annexin A1,Breast cancer,Radiolabeled Antibody,Annexin A1,0,505,73,0,2,0,2,2,0,2,0,1,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,190.0,False
+218,Myocardial infarction + Hydrogel + CAV1,Myocardial infarction,Hydrogel,CAV1,0,395,32,1,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,191.0,False
+219,Asthma + Hydrogel + CAV1,Asthma,Hydrogel,CAV1,0,22,23,1,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,192.0,False
+220,Glaucoma + Hydrogel + CAV1,Glaucoma,Hydrogel,CAV1,0,114,45,1,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,193.0,False
+221,Lung cancer + Hydrogel + Annexin A1,Lung cancer,Hydrogel,Annexin A1,0,153,63,1,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,194.0,False
+222,Pancreatic cancer + Hydrogel + Annexin A1,Pancreatic cancer,Hydrogel,Annexin A1,0,63,25,1,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,195.0,False
+223,Myocardial infarction + Hydrogel + Annexin A1,Myocardial infarction,Hydrogel,Annexin A1,0,395,13,1,0,0,2,2,0,2,0,0,1,Fig 5 targeted biomaterials,2,1,0,3,False,True,196.0,False
+224,Rheumatoid arthritis + Hydrogel + Annexin A1,Rheumatoid arthritis,Hydrogel,Annexin A1,0,56,33,1,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,197.0,False
+225,Asthma + Hydrogel + Annexin A1,Asthma,Hydrogel,Annexin A1,0,22,21,1,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,198.0,False
+226,Lung cancer + Radiolabeled Antibody + Annexin A1,Lung cancer,Radiolabeled Antibody,Annexin A1,0,442,63,0,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,199.0,False
+227,Pancreatic cancer + Radiolabeled Antibody + Annexin A1,Pancreatic cancer,Radiolabeled Antibody,Annexin A1,0,147,25,0,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,200.0,False
+228,Myocardial infarction + Radiolabeled Antibody + Annexin A1,Myocardial infarction,Radiolabeled Antibody,Annexin A1,0,55,13,0,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,1,0,3,False,False,201.0,False
+229,Rheumatoid arthritis + Radiolabeled Antibody + Annexin A1,Rheumatoid arthritis,Radiolabeled Antibody,Annexin A1,0,118,33,0,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,202.0,False
+230,Asthma + Radiolabeled Antibody + Annexin A1,Asthma,Radiolabeled Antibody,Annexin A1,0,29,21,0,0,0,2,2,0,2,0,0,0,Fig 5 targeted biomaterials,2,2,0,4,False,False,203.0,False
+231,Rheumatoid arthritis + Hydrogel + CAV1,Rheumatoid arthritis,Hydrogel,CAV1,0,56,4,1,0,0,2,2,0,1,0,0,0,Fig 5 targeted biomaterials,2,0,0,2,False,False,204.0,False
+232,Osteoarthritis + Hydrogel + CAV1,Osteoarthritis,Hydrogel,CAV1,0,285,5,1,0,0,2,2,0,1,0,0,1,Fig 5 targeted biomaterials,2,1,0,3,False,True,205.0,False
+233,Hepatitis c + Hydrogel + CAV1,Hepatitis c,Hydrogel,CAV1,0,10,8,1,0,0,2,2,0,1,0,0,0,Fig 5 targeted biomaterials,1,1,0,2,False,False,206.0,False
+234,Osteoarthritis + Hydrogel + Annexin A1,Osteoarthritis,Hydrogel,Annexin A1,0,285,8,1,0,0,2,2,0,1,0,0,0,Fig 5 targeted biomaterials,2,1,0,3,False,False,207.0,False
+235,Glaucoma + Hydrogel + Annexin A1,Glaucoma,Hydrogel,Annexin A1,0,114,5,1,0,0,2,2,0,1,0,0,0,Fig 5 targeted biomaterials,2,1,0,3,False,False,208.0,False
+236,Osteoarthritis + Radiolabeled Antibody + Annexin A1,Osteoarthritis,Radiolabeled Antibody,Annexin A1,0,14,8,0,0,0,2,2,0,1,0,0,0,Fig 5 targeted biomaterials,1,1,0,2,False,False,209.0,False
+237,Hepatitis c + Hydrogel + Annexin A1,Hepatitis c,Hydrogel,Annexin A1,0,10,1,1,0,0,2,2,0,0,0,0,0,Fig 5 targeted biomaterials,1,0,0,1,False,False,210.0,False
+238,Hepatitis c + Radiolabeled Antibody + Annexin A1,Hepatitis c,Radiolabeled Antibody,Annexin A1,0,13,1,0,0,0,2,2,0,0,0,0,0,Fig 5 targeted biomaterials,1,0,0,1,False,False,211.0,False
+239,Glaucoma + Radiolabeled Antibody + VCAM-1,Glaucoma,Radiolabeled Antibody,VCAM-1,0,3,12,70,0,8,2,1,2,2,1,0,0,Fig 5 targeted biomaterials,0,1,2,3,False,False,212.0,False
+240,Glaucoma + Radiolabeled Antibody + ICAM-1,Glaucoma,Radiolabeled Antibody,ICAM-1,0,3,17,83,0,7,2,1,2,2,1,0,0,Fig 5 targeted biomaterials,0,1,2,3,False,False,213.0,False
+241,Glaucoma + Radiolabeled Antibody + E-selectin,Glaucoma,Radiolabeled Antibody,E-selectin,0,3,15,60,0,9,2,1,2,2,1,0,0,Fig 5 targeted biomaterials,0,1,2,3,False,False,214.0,False
+242,Glaucoma + Radiolabeled Antibody + PSMA,Glaucoma,Radiolabeled Antibody,PSMA,0,3,1,70,0,5,2,1,2,0,1,0,0,Fig 5 targeted biomaterials,0,0,2,2,False,False,215.0,False
+243,Glaucoma + Radiolabeled Antibody + FAP,Glaucoma,Radiolabeled Antibody,FAP,0,3,27,6,0,5,2,1,1,2,1,0,0,Fig 5 targeted biomaterials,0,2,1,3,False,False,216.0,False
+244,Glaucoma + Radiolabeled Antibody + CAV1,Glaucoma,Radiolabeled Antibody,CAV1,0,3,45,3,0,0,2,1,1,2,0,0,0,Fig 5 targeted biomaterials,0,2,0,2,False,False,217.0,False
+245,Glaucoma + Radiolabeled Antibody + ASGPR,Glaucoma,Radiolabeled Antibody,ASGPR,0,3,0,6,0,1,2,1,1,0,0,0,0,Fig 5 targeted biomaterials,0,0,1,1,False,False,218.0,False
+246,Glaucoma + Radiolabeled Antibody + Annexin A1,Glaucoma,Radiolabeled Antibody,Annexin A1,0,3,5,0,0,0,2,1,0,1,0,0,0,Fig 5 targeted biomaterials,0,1,0,1,False,False,219.0,False

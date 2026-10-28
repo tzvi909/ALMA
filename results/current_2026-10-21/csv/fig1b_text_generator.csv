@@ -1,0 +1,37 @@
+hypothesis,first,second,NOP
+treating Lung cancer with EGFR inhibitor combined with radiotherapy,Lung cancer,EGFR,547
+treating Head and neck cancer with EGFR inhibitor combined with radiotherapy,Head and neck cancer,EGFR,358
+treating Breast cancer with HER2 inhibitor combined with radiotherapy,Breast cancer,HER2,270
+treating Breast cancer with EGFR inhibitor combined with radiotherapy,Breast cancer,EGFR,187
+treating Lung cancer with PI3K inhibitor combined with radiotherapy,Lung cancer,PI3K,53
+treating Lung cancer with HER2 inhibitor combined with radiotherapy,Lung cancer,HER2,50
+treating Head and neck cancer with PI3K inhibitor combined with radiotherapy,Head and neck cancer,PI3K,47
+treating Head and neck cancer with HER2 inhibitor combined with radiotherapy,Head and neck cancer,HER2,45
+treating Breast cancer with PI3K inhibitor combined with radiotherapy,Breast cancer,PI3K,43
+treating Lung cancer with ERK inhibitor combined with radiotherapy,Lung cancer,ERK,28
+treating Prostate cancer with EGFR inhibitor combined with radiotherapy,Prostate cancer,EGFR,22
+treating Head and neck cancer with ERK inhibitor combined with radiotherapy,Head and neck cancer,ERK,20
+treating Melanoma with EGFR inhibitor combined with radiotherapy,Melanoma,EGFR,19
+treating Prostate cancer with PI3K inhibitor combined with radiotherapy,Prostate cancer,PI3K,15
+treating Hepatocellular carcinoma with PI3K inhibitor combined with radiotherapy,Hepatocellular carcinoma,PI3K,15
+treating Breast cancer with ERK inhibitor combined with radiotherapy,Breast cancer,ERK,12
+treating Prostate cancer with HER2 inhibitor combined with radiotherapy,Prostate cancer,HER2,11
+treating Melanoma with ERK inhibitor combined with radiotherapy,Melanoma,ERK,9
+treating Melanoma with HER2 inhibitor combined with radiotherapy,Melanoma,HER2,8
+treating Melanoma with PI3K inhibitor combined with radiotherapy,Melanoma,PI3K,8
+treating Lung cancer with PDGFR inhibitor combined with radiotherapy,Lung cancer,PDGFR,7
+treating Lung cancer with FGFR inhibitor combined with radiotherapy,Lung cancer,FGFR,6
+treating Hepatocellular carcinoma with EGFR inhibitor combined with radiotherapy,Hepatocellular carcinoma,EGFR,6
+treating Head and neck cancer with PDGFR inhibitor combined with radiotherapy,Head and neck cancer,PDGFR,5
+treating Head and neck cancer with FGFR inhibitor combined with radiotherapy,Head and neck cancer,FGFR,5
+treating Prostate cancer with PDGFR inhibitor combined with radiotherapy,Prostate cancer,PDGFR,5
+treating Breast cancer with FGFR inhibitor combined with radiotherapy,Breast cancer,FGFR,4
+treating Hepatocellular carcinoma with ERK inhibitor combined with radiotherapy,Hepatocellular carcinoma,ERK,4
+treating Breast cancer with PDGFR inhibitor combined with radiotherapy,Breast cancer,PDGFR,2
+treating Prostate cancer with ERK inhibitor combined with radiotherapy,Prostate cancer,ERK,2
+treating Hepatocellular carcinoma with HER2 inhibitor combined with radiotherapy,Hepatocellular carcinoma,HER2,2
+treating Prostate cancer with FGFR inhibitor combined with radiotherapy,Prostate cancer,FGFR,1
+treating Hepatocellular carcinoma with PDGFR inhibitor combined with radiotherapy,Hepatocellular carcinoma,PDGFR,1
+treating Hepatocellular carcinoma with FGFR inhibitor combined with radiotherapy,Hepatocellular carcinoma,FGFR,0
+treating Melanoma with PDGFR inhibitor combined with radiotherapy,Melanoma,PDGFR,0
+treating Melanoma with FGFR inhibitor combined with radiotherapy,Melanoma,FGFR,0

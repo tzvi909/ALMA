@@ -1,0 +1,351 @@
+rank,hypothesis,row,col,var,NOP,NOP_LR,NOP_THR,NOP_TVR,NOP_HR,NOP_VR,N,LR,TVR,THR,VR,HR
+1,Lapatinib + Pancreatic cancer + radiotherapy,Lapatinib,Pancreatic cancer,radiotherapy,0,62,219,8372,204,287,2,2,2,2,2,2
+2,Palbociclib + Pancreatic cancer + radiotherapy,Palbociclib,Pancreatic cancer,radiotherapy,0,57,125,8372,113,287,2,2,2,2,2,2
+3,Lapatinib + Hepatocellular carcinoma + radiotherapy,Lapatinib,Hepatocellular carcinoma,radiotherapy,0,39,219,5803,204,621,2,2,2,2,2,2
+4,Abemaciclib + Melanoma + radiotherapy,Abemaciclib,Melanoma,radiotherapy,0,30,78,11209,75,404,2,2,2,2,2,2
+5,Palbociclib + Prostate cancer + radiotherapy,Palbociclib,Prostate cancer,radiotherapy,0,29,125,33495,113,99,2,2,2,2,2,2
+6,Ribociclib + Melanoma + radiotherapy,Ribociclib,Melanoma,radiotherapy,0,28,60,11209,62,404,2,2,2,2,2,2
+7,Dasatinib + Melanoma + radiotherapy,Dasatinib,Melanoma,radiotherapy,1,88,94,11209,41,403,2,2,2,2,2,2
+8,Imatinib + Hepatocellular carcinoma + radiotherapy,Imatinib,Hepatocellular carcinoma,radiotherapy,1,87,402,5803,125,620,2,2,2,2,2,2
+9,Palbociclib + Melanoma + radiotherapy,Palbociclib,Melanoma,radiotherapy,1,68,125,11209,112,403,2,2,2,2,2,2
+10,Lapatinib + Prostate cancer + radiotherapy,Lapatinib,Prostate cancer,radiotherapy,1,49,219,33495,203,98,2,2,2,2,2,2
+11,Pazopanib + Prostate cancer + radiotherapy,Pazopanib,Prostate cancer,radiotherapy,1,42,195,33495,60,98,2,2,2,2,2,2
+12,Palbociclib + Hepatocellular carcinoma + radiotherapy,Palbociclib,Hepatocellular carcinoma,radiotherapy,1,39,125,5803,112,620,2,2,2,2,2,2
+13,Trametinib + Hepatocellular carcinoma + radiotherapy,Trametinib,Hepatocellular carcinoma,radiotherapy,1,34,160,5803,117,620,2,2,2,2,2,2
+14,Temsirolimus + Hepatocellular carcinoma + radiotherapy,Temsirolimus,Hepatocellular carcinoma,radiotherapy,1,31,83,5803,30,620,2,2,2,2,2,2
+15,Crizotinib + Hepatocellular carcinoma + radiotherapy,Crizotinib,Hepatocellular carcinoma,radiotherapy,1,27,205,5803,191,620,2,2,2,2,2,2
+16,Pazopanib + Hepatocellular carcinoma + radiotherapy,Pazopanib,Hepatocellular carcinoma,radiotherapy,1,25,195,5803,60,620,2,2,2,2,2,2
+17,Vandetanib + Prostate cancer + radiotherapy,Vandetanib,Prostate cancer,radiotherapy,1,25,72,33495,43,98,2,2,2,2,2,2
+18,Larotrectinib + Pancreatic cancer + radiotherapy,Larotrectinib,Pancreatic cancer,radiotherapy,1,24,30,8372,25,286,2,2,2,2,2,2
+19,Crizotinib + Prostate cancer + radiotherapy,Crizotinib,Prostate cancer,radiotherapy,1,24,205,33495,191,98,2,2,2,2,2,2
+20,Afatinib + Hepatocellular carcinoma + radiotherapy,Afatinib,Hepatocellular carcinoma,radiotherapy,1,23,134,5803,135,620,2,2,2,2,2,2
+21,Trametinib + Breast cancer + radiotherapy,Trametinib,Breast cancer,radiotherapy,2,136,160,46750,116,681,2,2,2,2,2,2
+22,Vandetanib + Breast cancer + radiotherapy,Vandetanib,Breast cancer,radiotherapy,2,84,72,46750,42,681,2,2,2,2,2,2
+23,Dasatinib + Hepatocellular carcinoma + radiotherapy,Dasatinib,Hepatocellular carcinoma,radiotherapy,2,71,94,5803,40,619,2,2,2,2,2,2
+24,Axitinib + Pancreatic cancer + radiotherapy,Axitinib,Pancreatic cancer,radiotherapy,2,68,71,8372,33,285,2,2,2,2,2,2
+25,Regorafenib + Pancreatic cancer + radiotherapy,Regorafenib,Pancreatic cancer,radiotherapy,2,60,98,8372,42,285,2,2,2,2,2,2
+26,Axitinib + Prostate cancer + radiotherapy,Axitinib,Prostate cancer,radiotherapy,2,43,71,33495,33,97,2,2,2,2,2,2
+27,Temsirolimus + Melanoma + radiotherapy,Temsirolimus,Melanoma,radiotherapy,2,40,83,11209,29,402,2,2,2,2,2,2
+28,Regorafenib + Head and neck cancer + radiotherapy,Regorafenib,Head and neck cancer,radiotherapy,2,35,98,79230,42,859,2,2,2,2,2,2
+29,Larotrectinib + Breast cancer + radiotherapy,Larotrectinib,Breast cancer,radiotherapy,2,50,30,46750,24,681,2,2,2,2,2,2
+30,Vemurafenib + Pancreatic cancer + radiotherapy,Vemurafenib,Pancreatic cancer,radiotherapy,2,26,154,8372,164,285,2,2,2,2,2,2
+31,Trametinib + Prostate cancer + radiotherapy,Trametinib,Prostate cancer,radiotherapy,2,26,160,33495,116,97,2,2,2,2,2,2
+32,Vandetanib + Pancreatic cancer + radiotherapy,Vandetanib,Pancreatic cancer,radiotherapy,2,20,72,8372,42,285,2,2,2,2,2,2
+33,Abemaciclib + Head and neck cancer + radiotherapy,Abemaciclib,Head and neck cancer,radiotherapy,2,20,78,79230,73,859,2,2,2,2,2,2
+34,Dasatinib + Pancreatic cancer + radiotherapy,Dasatinib,Pancreatic cancer,radiotherapy,3,94,94,8372,39,284,2,2,2,2,2,2
+35,Temsirolimus + Breast cancer + radiotherapy,Temsirolimus,Breast cancer,radiotherapy,3,130,83,46750,28,680,2,2,2,2,2,2
+36,Axitinib + Breast cancer + radiotherapy,Axitinib,Breast cancer,radiotherapy,3,65,71,46750,32,680,2,2,2,2,2,2
+37,Axitinib + Hepatocellular carcinoma + radiotherapy,Axitinib,Hepatocellular carcinoma,radiotherapy,3,52,71,5803,32,618,2,2,2,2,2,2
+38,Temsirolimus + Prostate cancer + radiotherapy,Temsirolimus,Prostate cancer,radiotherapy,3,40,83,33495,28,96,2,2,2,2,2,2
+39,Temsirolimus + Pancreatic cancer + radiotherapy,Temsirolimus,Pancreatic cancer,radiotherapy,3,40,83,8372,28,284,2,2,2,2,2,2
+40,Regorafenib + Melanoma + radiotherapy,Regorafenib,Melanoma,radiotherapy,3,32,98,11209,41,401,2,2,2,2,2,2
+41,Dabrafenib + Pancreatic cancer + radiotherapy,Dabrafenib,Pancreatic cancer,radiotherapy,3,31,154,8372,130,284,2,2,2,2,2,2
+42,Osimertinib + Pancreatic cancer + radiotherapy,Osimertinib,Pancreatic cancer,radiotherapy,3,30,245,8372,251,284,2,2,2,2,2,2
+43,Alectinib + Breast cancer + radiotherapy,Alectinib,Breast cancer,radiotherapy,3,29,113,46750,100,680,2,2,2,2,2,2
+44,Vandetanib + Hepatocellular carcinoma + radiotherapy,Vandetanib,Hepatocellular carcinoma,radiotherapy,3,26,72,5803,41,618,2,2,2,2,2,2
+45,Osimertinib + Melanoma + radiotherapy,Osimertinib,Melanoma,radiotherapy,3,21,245,11209,251,401,2,2,2,2,2,2
+46,Ceritinib + Breast cancer + radiotherapy,Ceritinib,Breast cancer,radiotherapy,3,20,39,46750,37,680,2,2,2,2,2,2
+47,Sirolimus + Hepatocellular carcinoma + radiotherapy,Sirolimus,Hepatocellular carcinoma,radiotherapy,4,390,382,5803,129,617,2,2,2,2,2,2
+48,Everolimus + Melanoma + radiotherapy,Everolimus,Melanoma,radiotherapy,4,103,286,11209,138,400,2,2,2,2,2,2
+49,Afatinib + Pancreatic cancer + radiotherapy,Afatinib,Pancreatic cancer,radiotherapy,4,60,134,8372,132,283,2,2,2,2,2,2
+50,Ribociclib + Lung cancer + radiotherapy,Ribociclib,Lung cancer,radiotherapy,4,72,60,51153,58,1864,2,2,2,2,2,2
+51,Pazopanib + Pancreatic cancer + radiotherapy,Pazopanib,Pancreatic cancer,radiotherapy,4,51,195,8372,57,283,2,2,2,2,2,2
+52,Crizotinib + Pancreatic cancer + radiotherapy,Crizotinib,Pancreatic cancer,radiotherapy,4,42,205,8372,188,283,2,2,2,2,2,2
+53,Cabozantinib + Melanoma + radiotherapy,Cabozantinib,Melanoma,radiotherapy,4,35,123,11209,86,400,2,2,2,2,2,2
+54,Entrectinib + Breast cancer + radiotherapy,Entrectinib,Breast cancer,radiotherapy,4,38,34,46750,30,679,2,2,2,2,2,2
+55,Ruxolitinib + Breast cancer + radiotherapy,Ruxolitinib,Breast cancer,radiotherapy,0,57,45,46750,10,683,2,2,2,2,2,1
+56,Ruxolitinib + Melanoma + radiotherapy,Ruxolitinib,Melanoma,radiotherapy,0,61,45,11209,10,404,2,2,2,2,2,1
+57,Nilotinib + Breast cancer + radiotherapy,Nilotinib,Breast cancer,radiotherapy,0,49,23,46750,7,683,2,2,2,2,2,1
+58,Ibrutinib + Head and neck cancer + radiotherapy,Ibrutinib,Head and neck cancer,radiotherapy,0,20,67,79230,7,861,2,2,2,2,2,1
+59,Ibrutinib + Lung cancer + radiotherapy,Ibrutinib,Lung cancer,radiotherapy,1,122,67,51153,6,1867,2,2,2,2,2,1
+60,Ibrutinib + Breast cancer + radiotherapy,Ibrutinib,Breast cancer,radiotherapy,1,58,67,46750,6,682,2,2,2,2,2,1
+61,Ruxolitinib + Pancreatic cancer + radiotherapy,Ruxolitinib,Pancreatic cancer,radiotherapy,1,31,45,8372,9,286,2,2,2,2,2,1
+62,Ibrutinib + Melanoma + radiotherapy,Ibrutinib,Melanoma,radiotherapy,1,28,67,11209,6,403,2,2,2,2,2,1
+63,Nilotinib + Lung cancer + radiotherapy,Nilotinib,Lung cancer,radiotherapy,1,50,23,51153,6,1867,2,2,2,2,2,1
+64,Nilotinib + Melanoma + radiotherapy,Nilotinib,Melanoma,radiotherapy,1,42,23,11209,6,403,2,2,2,2,2,1
+65,Nintedanib + Head and neck cancer + radiotherapy,Nintedanib,Head and neck cancer,radiotherapy,1,22,28,79230,18,860,2,2,2,2,2,1
+66,Nintedanib + Pancreatic cancer + radiotherapy,Nintedanib,Pancreatic cancer,radiotherapy,1,20,28,8372,18,286,2,2,2,2,2,1
+67,Ruxolitinib + Lung cancer + radiotherapy,Ruxolitinib,Lung cancer,radiotherapy,2,85,45,51153,8,1866,2,2,2,2,2,1
+68,Ruxolitinib + Head and neck cancer + radiotherapy,Ruxolitinib,Head and neck cancer,radiotherapy,3,38,45,79230,7,858,2,2,2,2,2,1
+69,Nintedanib + Breast cancer + radiotherapy,Nintedanib,Breast cancer,radiotherapy,3,40,28,46750,16,680,2,2,2,2,2,1
+70,Ibrutinib + Pancreatic cancer + radiotherapy,Ibrutinib,Pancreatic cancer,radiotherapy,3,20,67,8372,4,284,2,2,2,2,2,0
+71,Nilotinib + Head and neck cancer + radiotherapy,Nilotinib,Head and neck cancer,radiotherapy,4,32,23,79230,3,857,2,2,2,2,2,0
+72,Cobimetinib + Breast cancer + radiotherapy,Cobimetinib,Breast cancer,radiotherapy,0,25,15,46750,12,683,2,2,2,1,2,1
+73,Dacomitinib + Breast cancer + radiotherapy,Dacomitinib,Breast cancer,radiotherapy,0,30,14,46750,14,683,2,2,2,1,2,1
+74,Cobimetinib + Lung cancer + radiotherapy,Cobimetinib,Lung cancer,radiotherapy,1,35,15,51153,11,1867,2,2,2,1,2,1
+75,Binimetinib + Lung cancer + radiotherapy,Binimetinib,Lung cancer,radiotherapy,2,68,17,51153,14,1866,2,2,2,1,2,1
+76,Binimetinib + Breast cancer + radiotherapy,Binimetinib,Breast cancer,radiotherapy,2,24,17,46750,14,681,2,2,2,1,2,1
+77,Encorafenib + Lung cancer + radiotherapy,Encorafenib,Lung cancer,radiotherapy,3,59,15,51153,14,1865,2,2,2,1,2,1
+78,Ponatinib + Breast cancer + radiotherapy,Ponatinib,Breast cancer,radiotherapy,0,34,13,46750,2,683,2,2,2,1,2,0
+79,Bosutinib + Lung cancer + radiotherapy,Bosutinib,Lung cancer,radiotherapy,0,41,6,51153,4,1868,2,2,2,1,2,0
+80,Acalabrutinib + Lung cancer + radiotherapy,Acalabrutinib,Lung cancer,radiotherapy,0,22,6,51153,0,1868,2,2,2,1,2,0
+81,Gilteritinib + Lung cancer + radiotherapy,Gilteritinib,Lung cancer,radiotherapy,0,32,5,51153,0,1868,2,2,2,1,2,0
+82,Erdafitinib + Lung cancer + radiotherapy,Erdafitinib,Lung cancer,radiotherapy,1,27,15,51153,3,1867,2,2,2,1,2,0
+83,Erdafitinib + Breast cancer + radiotherapy,Erdafitinib,Breast cancer,radiotherapy,1,24,15,46750,3,682,2,2,2,1,2,0
+84,Ponatinib + Lung cancer + radiotherapy,Ponatinib,Lung cancer,radiotherapy,1,61,13,51153,1,1867,2,2,2,1,2,0
+85,Tofacitinib + Melanoma + radiotherapy,Tofacitinib,Melanoma,radiotherapy,1,104,13,11209,4,403,2,2,2,1,2,0
+86,Midostaurin + Lung cancer + radiotherapy,Midostaurin,Lung cancer,radiotherapy,1,36,9,51153,0,1867,2,2,2,1,2,0
+87,Tofacitinib + Lung cancer + radiotherapy,Tofacitinib,Lung cancer,radiotherapy,2,40,13,51153,3,1866,2,2,2,1,2,0
+88,Bosutinib + Breast cancer + radiotherapy,Bosutinib,Breast cancer,radiotherapy,2,45,6,46750,2,681,2,2,2,1,2,0
+89,Entrectinib + Pancreatic cancer + radiotherapy,Entrectinib,Pancreatic cancer,radiotherapy,0,14,34,8372,34,287,2,1,2,2,2,2
+90,Brigatinib + Head and neck cancer + radiotherapy,Brigatinib,Head and neck cancer,radiotherapy,0,13,31,79230,33,861,2,1,2,2,2,2
+91,Ribociclib + Hepatocellular carcinoma + radiotherapy,Ribociclib,Hepatocellular carcinoma,radiotherapy,0,12,60,5803,62,621,2,1,2,2,2,2
+92,Neratinib + Pancreatic cancer + radiotherapy,Neratinib,Pancreatic cancer,radiotherapy,0,10,41,8372,45,287,2,1,2,2,2,2
+93,Alectinib + Pancreatic cancer + radiotherapy,Alectinib,Pancreatic cancer,radiotherapy,0,10,113,8372,103,287,2,1,2,2,2,2
+94,Lorlatinib + Head and neck cancer + radiotherapy,Lorlatinib,Head and neck cancer,radiotherapy,0,9,41,79230,35,861,2,1,2,2,2,2
+95,Abemaciclib + Prostate cancer + radiotherapy,Abemaciclib,Prostate cancer,radiotherapy,0,9,78,33495,75,99,2,1,2,2,2,2
+96,Abemaciclib + Hepatocellular carcinoma + radiotherapy,Abemaciclib,Hepatocellular carcinoma,radiotherapy,0,9,78,5803,75,621,2,1,2,2,2,2
+97,Dabrafenib + Prostate cancer + radiotherapy,Dabrafenib,Prostate cancer,radiotherapy,0,8,154,33495,133,99,2,1,2,2,2,2
+98,Lorlatinib + Pancreatic cancer + radiotherapy,Lorlatinib,Pancreatic cancer,radiotherapy,0,7,41,8372,35,287,2,1,2,2,2,2
+99,Ribociclib + Pancreatic cancer + radiotherapy,Ribociclib,Pancreatic cancer,radiotherapy,0,7,60,8372,62,287,2,1,2,2,2,2
+100,Osimertinib + Hepatocellular carcinoma + radiotherapy,Osimertinib,Hepatocellular carcinoma,radiotherapy,1,17,245,5803,253,620,2,1,2,2,2,2
+101,Abemaciclib + Pancreatic cancer + radiotherapy,Abemaciclib,Pancreatic cancer,radiotherapy,1,16,78,8372,74,286,2,1,2,2,2,2
+102,Afatinib + Prostate cancer + radiotherapy,Afatinib,Prostate cancer,radiotherapy,1,15,134,33495,135,98,2,1,2,2,2,2
+103,Vandetanib + Melanoma + radiotherapy,Vandetanib,Melanoma,radiotherapy,1,14,72,11209,43,403,2,1,2,2,2,2
+104,Ceritinib + Melanoma + radiotherapy,Ceritinib,Melanoma,radiotherapy,1,12,39,11209,39,403,2,1,2,2,2,2
+105,Ribociclib + Prostate cancer + radiotherapy,Ribociclib,Prostate cancer,radiotherapy,1,12,60,33495,61,98,2,1,2,2,2,2
+106,Neratinib + Head and neck cancer + radiotherapy,Neratinib,Head and neck cancer,radiotherapy,1,11,41,79230,44,860,2,1,2,2,2,2
+107,Vemurafenib + Hepatocellular carcinoma + radiotherapy,Vemurafenib,Hepatocellular carcinoma,radiotherapy,1,11,154,5803,165,620,2,1,2,2,2,2
+108,Alectinib + Melanoma + radiotherapy,Alectinib,Melanoma,radiotherapy,1,11,113,11209,102,403,2,1,2,2,2,2
+109,Dabrafenib + Hepatocellular carcinoma + radiotherapy,Dabrafenib,Hepatocellular carcinoma,radiotherapy,1,10,154,5803,132,620,2,1,2,2,2,2
+110,Ceritinib + Pancreatic cancer + radiotherapy,Ceritinib,Pancreatic cancer,radiotherapy,1,10,39,8372,39,286,2,1,2,2,2,2
+111,Regorafenib + Prostate cancer + radiotherapy,Regorafenib,Prostate cancer,radiotherapy,1,8,98,33495,43,98,2,1,2,2,2,2
+112,Brigatinib + Pancreatic cancer + radiotherapy,Brigatinib,Pancreatic cancer,radiotherapy,1,8,31,8372,32,286,2,1,2,2,2,2
+113,Larotrectinib + Prostate cancer + radiotherapy,Larotrectinib,Prostate cancer,radiotherapy,1,7,30,33495,25,98,2,1,2,2,2,2
+114,Lorlatinib + Melanoma + radiotherapy,Lorlatinib,Melanoma,radiotherapy,1,7,41,11209,34,403,2,1,2,2,2,2
+115,Lorlatinib + Breast cancer + radiotherapy,Lorlatinib,Breast cancer,radiotherapy,1,6,41,46750,34,682,2,1,2,2,2,2
+116,Entrectinib + Prostate cancer + radiotherapy,Entrectinib,Prostate cancer,radiotherapy,1,6,34,33495,33,98,2,1,2,2,2,2
+117,Osimertinib + Prostate cancer + radiotherapy,Osimertinib,Prostate cancer,radiotherapy,2,18,245,33495,252,97,2,1,2,2,2,2
+118,Alectinib + Head and neck cancer + radiotherapy,Alectinib,Head and neck cancer,radiotherapy,2,18,113,79230,101,859,2,1,2,2,2,2
+119,Afatinib + Melanoma + radiotherapy,Afatinib,Melanoma,radiotherapy,2,16,134,11209,134,402,2,1,2,2,2,2
+120,Vemurafenib + Prostate cancer + radiotherapy,Vemurafenib,Prostate cancer,radiotherapy,2,16,154,33495,164,97,2,1,2,2,2,2
+121,Brigatinib + Breast cancer + radiotherapy,Brigatinib,Breast cancer,radiotherapy,2,11,31,46750,31,681,2,1,2,2,2,2
+122,Ceritinib + Head and neck cancer + radiotherapy,Ceritinib,Head and neck cancer,radiotherapy,2,10,39,79230,38,859,2,1,2,2,2,2
+123,Ribociclib + Head and neck cancer + radiotherapy,Ribociclib,Head and neck cancer,radiotherapy,3,16,60,79230,59,858,2,1,2,2,2,2
+124,Lenvatinib + Prostate cancer + radiotherapy,Lenvatinib,Prostate cancer,radiotherapy,3,15,316,33495,284,96,2,1,2,2,2,2
+125,Neratinib + Melanoma + radiotherapy,Neratinib,Melanoma,radiotherapy,3,14,41,11209,42,401,2,1,2,2,2,2
+126,Larotrectinib + Melanoma + radiotherapy,Larotrectinib,Melanoma,radiotherapy,4,13,30,11209,22,400,2,1,2,2,2,2
+127,Nintedanib + Prostate cancer + radiotherapy,Nintedanib,Prostate cancer,radiotherapy,0,19,28,33495,19,99,2,1,2,2,2,1
+128,Nintedanib + Melanoma + radiotherapy,Nintedanib,Melanoma,radiotherapy,0,19,28,11209,19,404,2,1,2,2,2,1
+129,Nilotinib + Hepatocellular carcinoma + radiotherapy,Nilotinib,Hepatocellular carcinoma,radiotherapy,0,19,23,5803,7,621,2,1,2,2,2,1
+130,Nintedanib + Hepatocellular carcinoma + radiotherapy,Nintedanib,Hepatocellular carcinoma,radiotherapy,0,17,28,5803,19,621,2,1,2,2,2,1
+131,Nilotinib + Pancreatic cancer + radiotherapy,Nilotinib,Pancreatic cancer,radiotherapy,0,10,23,8372,7,287,2,1,2,2,2,1
+132,Ibrutinib + Hepatocellular carcinoma + radiotherapy,Ibrutinib,Hepatocellular carcinoma,radiotherapy,0,7,67,5803,7,621,2,1,2,2,2,1
+133,Ibrutinib + Prostate cancer + radiotherapy,Ibrutinib,Prostate cancer,radiotherapy,1,15,67,33495,6,98,2,1,2,2,2,1
+134,Nilotinib + Prostate cancer + radiotherapy,Nilotinib,Prostate cancer,radiotherapy,1,13,23,33495,6,98,2,1,2,2,2,1
+135,Ruxolitinib + Hepatocellular carcinoma + radiotherapy,Ruxolitinib,Hepatocellular carcinoma,radiotherapy,2,18,45,5803,8,619,2,1,2,2,2,1
+136,Ruxolitinib + Prostate cancer + radiotherapy,Ruxolitinib,Prostate cancer,radiotherapy,2,12,45,33495,8,97,2,1,2,2,2,1
+137,Cobimetinib + Pancreatic cancer + radiotherapy,Cobimetinib,Pancreatic cancer,radiotherapy,0,18,15,8372,12,287,2,1,2,1,2,1
+138,Binimetinib + Pancreatic cancer + radiotherapy,Binimetinib,Pancreatic cancer,radiotherapy,0,10,17,8372,16,287,2,1,2,1,2,1
+139,Encorafenib + Pancreatic cancer + radiotherapy,Encorafenib,Pancreatic cancer,radiotherapy,0,8,15,8372,17,287,2,1,2,1,2,1
+140,Dacomitinib + Pancreatic cancer + radiotherapy,Dacomitinib,Pancreatic cancer,radiotherapy,0,7,14,8372,14,287,2,1,2,1,2,1
+141,Tofacitinib + Head and neck cancer + radiotherapy,Tofacitinib,Head and neck cancer,radiotherapy,0,6,13,79230,5,861,2,1,2,1,2,1
+142,Tofacitinib + Pancreatic cancer + radiotherapy,Tofacitinib,Pancreatic cancer,radiotherapy,0,6,13,8372,5,287,2,1,2,1,2,1
+143,Dacomitinib + Prostate cancer + radiotherapy,Dacomitinib,Prostate cancer,radiotherapy,0,5,14,33495,14,99,2,1,2,1,2,1
+144,Cobimetinib + Hepatocellular carcinoma + radiotherapy,Cobimetinib,Hepatocellular carcinoma,radiotherapy,0,5,15,5803,12,621,2,1,2,1,2,1
+145,Tofacitinib + Hepatocellular carcinoma + radiotherapy,Tofacitinib,Hepatocellular carcinoma,radiotherapy,0,5,13,5803,5,621,2,1,2,1,2,1
+146,Encorafenib + Head and neck cancer + radiotherapy,Encorafenib,Head and neck cancer,radiotherapy,1,14,15,79230,16,860,2,1,2,1,2,1
+147,Cobimetinib + Prostate cancer + radiotherapy,Cobimetinib,Prostate cancer,radiotherapy,1,5,15,33495,11,98,2,1,2,1,2,1
+148,Binimetinib + Head and neck cancer + radiotherapy,Binimetinib,Head and neck cancer,radiotherapy,2,17,17,79230,14,859,2,1,2,1,2,1
+149,Encorafenib + Breast cancer + radiotherapy,Encorafenib,Breast cancer,radiotherapy,2,16,15,46750,15,681,2,1,2,1,2,1
+150,Cobimetinib + Head and neck cancer + radiotherapy,Cobimetinib,Head and neck cancer,radiotherapy,4,13,15,79230,8,857,2,1,2,1,2,1
+151,Erdafitinib + Prostate cancer + radiotherapy,Erdafitinib,Prostate cancer,radiotherapy,0,19,15,33495,4,99,2,1,2,1,2,0
+152,Ponatinib + Melanoma + radiotherapy,Ponatinib,Melanoma,radiotherapy,0,10,13,11209,2,404,2,1,2,1,2,0
+153,Midostaurin + Breast cancer + radiotherapy,Midostaurin,Breast cancer,radiotherapy,0,19,9,46750,1,683,2,1,2,1,2,0
+154,Midostaurin + Melanoma + radiotherapy,Midostaurin,Melanoma,radiotherapy,0,11,9,11209,1,404,2,1,2,1,2,0
+155,Ponatinib + Prostate cancer + radiotherapy,Ponatinib,Prostate cancer,radiotherapy,0,9,13,33495,2,99,2,1,2,1,2,0
+156,Idelalisib + Lung cancer + radiotherapy,Idelalisib,Lung cancer,radiotherapy,0,9,13,51153,2,1868,2,1,2,1,2,0
+157,Ponatinib + Hepatocellular carcinoma + radiotherapy,Ponatinib,Hepatocellular carcinoma,radiotherapy,0,8,13,5803,2,621,2,1,2,1,2,0
+158,Erdafitinib + Head and neck cancer + radiotherapy,Erdafitinib,Head and neck cancer,radiotherapy,0,8,15,79230,4,861,2,1,2,1,2,0
+159,Ponatinib + Pancreatic cancer + radiotherapy,Ponatinib,Pancreatic cancer,radiotherapy,0,7,13,8372,2,287,2,1,2,1,2,0
+160,Midostaurin + Hepatocellular carcinoma + radiotherapy,Midostaurin,Hepatocellular carcinoma,radiotherapy,0,6,9,5803,1,621,2,1,2,1,2,0
+161,Bosutinib + Pancreatic cancer + radiotherapy,Bosutinib,Pancreatic cancer,radiotherapy,0,13,6,8372,4,287,2,1,2,1,2,0
+162,Acalabrutinib + Breast cancer + radiotherapy,Acalabrutinib,Breast cancer,radiotherapy,0,16,6,46750,0,683,2,1,2,1,2,0
+163,Idelalisib + Hepatocellular carcinoma + radiotherapy,Idelalisib,Hepatocellular carcinoma,radiotherapy,0,6,13,5803,2,621,2,1,2,1,2,0
+164,Midostaurin + Pancreatic cancer + radiotherapy,Midostaurin,Pancreatic cancer,radiotherapy,0,5,9,8372,1,287,2,1,2,1,2,0
+165,Bosutinib + Prostate cancer + radiotherapy,Bosutinib,Prostate cancer,radiotherapy,0,5,6,33495,4,99,2,1,2,1,2,0
+166,Bosutinib + Hepatocellular carcinoma + radiotherapy,Bosutinib,Hepatocellular carcinoma,radiotherapy,0,5,6,5803,4,621,2,1,2,1,2,0
+167,Gilteritinib + Breast cancer + radiotherapy,Gilteritinib,Breast cancer,radiotherapy,0,8,5,46750,0,683,2,1,2,1,2,0
+168,Gilteritinib + Prostate cancer + radiotherapy,Gilteritinib,Prostate cancer,radiotherapy,0,5,5,33495,0,99,2,1,2,1,2,0
+169,Erdafitinib + Pancreatic cancer + radiotherapy,Erdafitinib,Pancreatic cancer,radiotherapy,0,5,15,8372,4,287,2,1,2,1,2,0
+170,Ponatinib + Head and neck cancer + radiotherapy,Ponatinib,Head and neck cancer,radiotherapy,1,18,13,79230,1,860,2,1,2,1,2,0
+171,Idelalisib + Breast cancer + radiotherapy,Idelalisib,Breast cancer,radiotherapy,1,16,13,46750,1,682,2,1,2,1,2,0
+172,Tofacitinib + Breast cancer + radiotherapy,Tofacitinib,Breast cancer,radiotherapy,2,19,13,46750,3,681,2,1,2,1,2,0
+173,Erdafitinib + Melanoma + radiotherapy,Erdafitinib,Melanoma,radiotherapy,2,7,15,11209,2,402,2,1,2,1,2,0
+174,Bosutinib + Head and neck cancer + radiotherapy,Bosutinib,Head and neck cancer,radiotherapy,2,11,6,79230,2,859,2,1,2,1,2,0
+175,Baricitinib + Lung cancer + radiotherapy,Baricitinib,Lung cancer,radiotherapy,0,19,4,51153,1,1868,2,1,2,0,2,0
+176,Baricitinib + Breast cancer + radiotherapy,Baricitinib,Breast cancer,radiotherapy,0,12,4,46750,1,683,2,1,2,0,2,0
+177,Baricitinib + Hepatocellular carcinoma + radiotherapy,Baricitinib,Hepatocellular carcinoma,radiotherapy,0,10,4,5803,1,621,2,1,2,0,2,0
+178,Fostamatinib + Breast cancer + radiotherapy,Fostamatinib,Breast cancer,radiotherapy,0,9,2,46750,1,683,2,1,2,0,2,0
+179,Fostamatinib + Prostate cancer + radiotherapy,Fostamatinib,Prostate cancer,radiotherapy,0,5,2,33495,1,99,2,1,2,0,2,0
+180,Fostamatinib + Pancreatic cancer + radiotherapy,Fostamatinib,Pancreatic cancer,radiotherapy,0,6,2,8372,1,287,2,1,2,0,2,0
+181,Baricitinib + Melanoma + radiotherapy,Baricitinib,Melanoma,radiotherapy,1,17,4,11209,0,403,2,1,2,0,2,0
+182,Fostamatinib + Lung cancer + radiotherapy,Fostamatinib,Lung cancer,radiotherapy,1,16,2,51153,0,1867,2,1,2,0,2,0
+183,Larotrectinib + Hepatocellular carcinoma + radiotherapy,Larotrectinib,Hepatocellular carcinoma,radiotherapy,0,4,30,5803,26,621,2,0,2,2,2,2
+184,Ceritinib + Hepatocellular carcinoma + radiotherapy,Ceritinib,Hepatocellular carcinoma,radiotherapy,0,4,39,5803,40,621,2,0,2,2,2,2
+185,Neratinib + Hepatocellular carcinoma + radiotherapy,Neratinib,Hepatocellular carcinoma,radiotherapy,0,3,41,5803,45,621,2,0,2,2,2,2
+186,Lorlatinib + Prostate cancer + radiotherapy,Lorlatinib,Prostate cancer,radiotherapy,0,3,41,33495,35,99,2,0,2,2,2,2
+187,Alectinib + Prostate cancer + radiotherapy,Alectinib,Prostate cancer,radiotherapy,0,3,113,33495,103,99,2,0,2,2,2,2
+188,Neratinib + Prostate cancer + radiotherapy,Neratinib,Prostate cancer,radiotherapy,0,2,41,33495,45,99,2,0,2,2,2,2
+189,Lorlatinib + Hepatocellular carcinoma + radiotherapy,Lorlatinib,Hepatocellular carcinoma,radiotherapy,0,2,41,5803,35,621,2,0,2,2,2,2
+190,Ceritinib + Prostate cancer + radiotherapy,Ceritinib,Prostate cancer,radiotherapy,0,2,39,33495,40,99,2,0,2,2,2,2
+191,Entrectinib + Hepatocellular carcinoma + radiotherapy,Entrectinib,Hepatocellular carcinoma,radiotherapy,0,2,34,5803,34,621,2,0,2,2,2,2
+192,Alectinib + Hepatocellular carcinoma + radiotherapy,Alectinib,Hepatocellular carcinoma,radiotherapy,0,0,113,5803,103,621,2,0,2,2,2,2
+193,Brigatinib + Prostate cancer + radiotherapy,Brigatinib,Prostate cancer,radiotherapy,0,0,31,33495,33,99,2,0,2,2,2,2
+194,Brigatinib + Hepatocellular carcinoma + radiotherapy,Brigatinib,Hepatocellular carcinoma,radiotherapy,0,0,31,5803,33,621,2,0,2,2,2,2
+195,Brigatinib + Melanoma + radiotherapy,Brigatinib,Melanoma,radiotherapy,2,3,31,11209,31,402,2,0,2,2,2,2
+196,Dacomitinib + Hepatocellular carcinoma + radiotherapy,Dacomitinib,Hepatocellular carcinoma,radiotherapy,0,3,14,5803,14,621,2,0,2,1,2,1
+197,Tofacitinib + Prostate cancer + radiotherapy,Tofacitinib,Prostate cancer,radiotherapy,0,3,13,33495,5,99,2,0,2,1,2,1
+198,Binimetinib + Prostate cancer + radiotherapy,Binimetinib,Prostate cancer,radiotherapy,0,2,17,33495,16,99,2,0,2,1,2,1
+199,Encorafenib + Prostate cancer + radiotherapy,Encorafenib,Prostate cancer,radiotherapy,0,0,15,33495,17,99,2,0,2,1,2,1
+200,Encorafenib + Hepatocellular carcinoma + radiotherapy,Encorafenib,Hepatocellular carcinoma,radiotherapy,0,0,15,5803,17,621,2,0,2,1,2,1
+201,Binimetinib + Hepatocellular carcinoma + radiotherapy,Binimetinib,Hepatocellular carcinoma,radiotherapy,0,0,17,5803,16,621,2,0,2,1,2,1
+202,Dacomitinib + Melanoma + radiotherapy,Dacomitinib,Melanoma,radiotherapy,1,3,14,11209,13,403,2,0,2,1,2,1
+203,Bosutinib + Melanoma + radiotherapy,Bosutinib,Melanoma,radiotherapy,0,4,6,11209,4,404,2,0,2,1,2,0
+204,Idelalisib + Pancreatic cancer + radiotherapy,Idelalisib,Pancreatic cancer,radiotherapy,0,4,13,8372,2,287,2,0,2,1,2,0
+205,Idelalisib + Melanoma + radiotherapy,Idelalisib,Melanoma,radiotherapy,0,4,13,11209,2,404,2,0,2,1,2,0
+206,Midostaurin + Head and neck cancer + radiotherapy,Midostaurin,Head and neck cancer,radiotherapy,0,3,9,79230,1,861,2,0,2,1,2,0
+207,Idelalisib + Prostate cancer + radiotherapy,Idelalisib,Prostate cancer,radiotherapy,0,3,13,33495,2,99,2,0,2,1,2,0
+208,Midostaurin + Prostate cancer + radiotherapy,Midostaurin,Prostate cancer,radiotherapy,0,2,9,33495,1,99,2,0,2,1,2,0
+209,Acalabrutinib + Head and neck cancer + radiotherapy,Acalabrutinib,Head and neck cancer,radiotherapy,0,2,6,79230,0,861,2,0,2,1,2,0
+210,Acalabrutinib + Pancreatic cancer + radiotherapy,Acalabrutinib,Pancreatic cancer,radiotherapy,0,2,6,8372,0,287,2,0,2,1,2,0
+211,Acalabrutinib + Melanoma + radiotherapy,Acalabrutinib,Melanoma,radiotherapy,0,2,6,11209,0,404,2,0,2,1,2,0
+212,Gilteritinib + Pancreatic cancer + radiotherapy,Gilteritinib,Pancreatic cancer,radiotherapy,0,2,5,8372,0,287,2,0,2,1,2,0
+213,Erdafitinib + Hepatocellular carcinoma + radiotherapy,Erdafitinib,Hepatocellular carcinoma,radiotherapy,0,2,15,5803,4,621,2,0,2,1,2,0
+214,Acalabrutinib + Prostate cancer + radiotherapy,Acalabrutinib,Prostate cancer,radiotherapy,0,1,6,33495,0,99,2,0,2,1,2,0
+215,Acalabrutinib + Hepatocellular carcinoma + radiotherapy,Acalabrutinib,Hepatocellular carcinoma,radiotherapy,0,1,6,5803,0,621,2,0,2,1,2,0
+216,Gilteritinib + Head and neck cancer + radiotherapy,Gilteritinib,Head and neck cancer,radiotherapy,0,1,5,79230,0,861,2,0,2,1,2,0
+217,Gilteritinib + Hepatocellular carcinoma + radiotherapy,Gilteritinib,Hepatocellular carcinoma,radiotherapy,0,1,5,5803,0,621,2,0,2,1,2,0
+218,Gilteritinib + Melanoma + radiotherapy,Gilteritinib,Melanoma,radiotherapy,0,1,5,11209,0,404,2,0,2,1,2,0
+219,Idelalisib + Head and neck cancer + radiotherapy,Idelalisib,Head and neck cancer,radiotherapy,1,2,13,79230,1,860,2,0,2,1,2,0
+220,Baricitinib + Prostate cancer + radiotherapy,Baricitinib,Prostate cancer,radiotherapy,0,2,4,33495,1,99,2,0,2,0,2,0
+221,Fostamatinib + Head and neck cancer + radiotherapy,Fostamatinib,Head and neck cancer,radiotherapy,0,4,2,79230,1,861,2,0,2,0,2,0
+222,Fostamatinib + Hepatocellular carcinoma + radiotherapy,Fostamatinib,Hepatocellular carcinoma,radiotherapy,0,4,2,5803,1,621,2,0,2,0,2,0
+223,Fostamatinib + Melanoma + radiotherapy,Fostamatinib,Melanoma,radiotherapy,0,3,2,11209,1,404,2,0,2,0,2,0
+224,Baricitinib + Head and neck cancer + radiotherapy,Baricitinib,Head and neck cancer,radiotherapy,0,1,4,79230,1,861,2,0,2,0,2,0
+225,Baricitinib + Pancreatic cancer + radiotherapy,Baricitinib,Pancreatic cancer,radiotherapy,0,1,4,8372,1,287,2,0,2,0,2,0
+226,Everolimus + Hepatocellular carcinoma + radiotherapy,Everolimus,Hepatocellular carcinoma,radiotherapy,5,206,286,5803,137,616,1,2,2,2,2,2
+227,Sunitinib + Melanoma + radiotherapy,Sunitinib,Melanoma,radiotherapy,5,162,400,11209,156,399,1,2,2,2,2,2
+228,Sorafenib + Prostate cancer + radiotherapy,Sorafenib,Prostate cancer,radiotherapy,5,135,730,33495,644,94,1,2,2,2,2,2
+229,Crizotinib + Breast cancer + radiotherapy,Crizotinib,Breast cancer,radiotherapy,5,127,205,46750,187,678,1,2,2,2,2,2
+230,Gefitinib + Hepatocellular carcinoma + radiotherapy,Gefitinib,Hepatocellular carcinoma,radiotherapy,5,113,579,5803,522,616,1,2,2,2,2,2
+231,Dasatinib + Lung cancer + radiotherapy,Dasatinib,Lung cancer,radiotherapy,5,283,94,51153,37,1863,1,2,2,2,2,2
+232,Dasatinib + Prostate cancer + radiotherapy,Dasatinib,Prostate cancer,radiotherapy,5,117,94,33495,37,94,1,2,2,2,2,2
+233,Erlotinib + Prostate cancer + radiotherapy,Erlotinib,Prostate cancer,radiotherapy,5,83,627,33495,555,94,1,2,2,2,2,2
+234,Cabozantinib + Breast cancer + radiotherapy,Cabozantinib,Breast cancer,radiotherapy,5,78,123,46750,85,678,1,2,2,2,2,2
+235,Regorafenib + Breast cancer + radiotherapy,Regorafenib,Breast cancer,radiotherapy,5,67,98,46750,39,678,1,2,2,2,2,2
+236,Lenvatinib + Melanoma + radiotherapy,Lenvatinib,Melanoma,radiotherapy,5,66,316,11209,282,399,1,2,2,2,2,2
+237,Pazopanib + Melanoma + radiotherapy,Pazopanib,Melanoma,radiotherapy,5,49,195,11209,56,399,1,2,2,2,2,2
+238,Entrectinib + Head and neck cancer + radiotherapy,Entrectinib,Head and neck cancer,radiotherapy,5,34,34,79230,29,856,1,2,2,2,2,2
+239,Sirolimus + Prostate cancer + radiotherapy,Sirolimus,Prostate cancer,radiotherapy,6,223,382,33495,127,93,1,2,2,2,2,2
+240,Sirolimus + Melanoma + radiotherapy,Sirolimus,Melanoma,radiotherapy,6,194,382,11209,127,398,1,2,2,2,2,2
+241,Everolimus + Prostate cancer + radiotherapy,Everolimus,Prostate cancer,radiotherapy,6,100,286,33495,136,93,1,2,2,2,2,2
+242,Osimertinib + Head and neck cancer + radiotherapy,Osimertinib,Head and neck cancer,radiotherapy,6,81,245,79230,248,855,1,2,2,2,2,2
+243,Gefitinib + Melanoma + radiotherapy,Gefitinib,Melanoma,radiotherapy,6,70,579,11209,521,398,1,2,2,2,2,2
+244,Axitinib + Head and neck cancer + radiotherapy,Axitinib,Head and neck cancer,radiotherapy,6,68,71,79230,29,855,1,2,2,2,2,2
+245,Dabrafenib + Breast cancer + radiotherapy,Dabrafenib,Breast cancer,radiotherapy,6,58,154,46750,127,677,1,2,2,2,2,2
+246,Lapatinib + Melanoma + radiotherapy,Lapatinib,Melanoma,radiotherapy,6,50,219,11209,198,398,1,2,2,2,2,2
+247,Erlotinib + Hepatocellular carcinoma + radiotherapy,Erlotinib,Hepatocellular carcinoma,radiotherapy,7,188,627,5803,553,614,1,2,2,2,2,2
+248,Imatinib + Pancreatic cancer + radiotherapy,Imatinib,Pancreatic cancer,radiotherapy,7,158,402,8372,119,280,1,2,2,2,2,2
+249,Gefitinib + Pancreatic cancer + radiotherapy,Gefitinib,Pancreatic cancer,radiotherapy,7,135,579,8372,520,280,1,2,2,2,2,2
+250,Lenvatinib + Breast cancer + radiotherapy,Lenvatinib,Breast cancer,radiotherapy,7,132,316,46750,280,676,1,2,2,2,2,2
+251,Osimertinib + Breast cancer + radiotherapy,Osimertinib,Breast cancer,radiotherapy,7,114,245,46750,247,676,1,2,2,2,2,2
+252,Pazopanib + Breast cancer + radiotherapy,Pazopanib,Breast cancer,radiotherapy,7,107,195,46750,54,676,1,2,2,2,2,2
+253,Vandetanib + Lung cancer + radiotherapy,Vandetanib,Lung cancer,radiotherapy,7,269,72,51153,37,1861,1,2,2,2,2,2
+254,Neratinib + Lung cancer + radiotherapy,Neratinib,Lung cancer,radiotherapy,7,101,41,51153,38,1861,1,2,2,2,2,2
+255,Sunitinib + Hepatocellular carcinoma + radiotherapy,Sunitinib,Hepatocellular carcinoma,radiotherapy,8,208,400,5803,153,613,1,2,2,2,2,2
+256,Imatinib + Prostate cancer + radiotherapy,Imatinib,Prostate cancer,radiotherapy,8,168,402,33495,118,91,1,2,2,2,2,2
+257,Erlotinib + Melanoma + radiotherapy,Erlotinib,Melanoma,radiotherapy,8,94,627,11209,552,396,1,2,2,2,2,2
+258,Vemurafenib + Breast cancer + radiotherapy,Vemurafenib,Breast cancer,radiotherapy,8,86,154,46750,158,675,1,2,2,2,2,2
+259,Temsirolimus + Lung cancer + radiotherapy,Temsirolimus,Lung cancer,radiotherapy,8,120,83,51153,23,1860,1,2,2,2,2,2
+260,Abemaciclib + Lung cancer + radiotherapy,Abemaciclib,Lung cancer,radiotherapy,8,114,78,51153,67,1860,1,2,2,2,2,2
+261,Cabozantinib + Pancreatic cancer + radiotherapy,Cabozantinib,Pancreatic cancer,radiotherapy,8,70,123,8372,82,279,1,2,2,2,2,2
+262,Axitinib + Melanoma + radiotherapy,Axitinib,Melanoma,radiotherapy,8,68,71,11209,27,396,1,2,2,2,2,2
+263,Regorafenib + Lung cancer + radiotherapy,Regorafenib,Lung cancer,radiotherapy,9,134,98,51153,35,1859,1,2,2,2,2,2
+264,Dasatinib + Breast cancer + radiotherapy,Dasatinib,Breast cancer,radiotherapy,9,287,94,46750,33,674,1,2,2,2,2,2
+265,Palbociclib + Head and neck cancer + radiotherapy,Palbociclib,Head and neck cancer,radiotherapy,9,82,125,79230,104,852,1,2,2,2,2,2
+266,Sorafenib + Melanoma + radiotherapy,Sorafenib,Melanoma,radiotherapy,10,340,730,11209,639,394,1,2,2,2,2,2
+267,Gefitinib + Prostate cancer + radiotherapy,Gefitinib,Prostate cancer,radiotherapy,10,154,579,33495,517,89,1,2,2,2,2,2
+268,Crizotinib + Melanoma + radiotherapy,Crizotinib,Melanoma,radiotherapy,10,65,205,11209,182,394,1,2,2,2,2,2
+269,Afatinib + Breast cancer + radiotherapy,Afatinib,Breast cancer,radiotherapy,11,181,134,46750,125,672,1,2,2,2,2,2
+270,Cabozantinib + Lung cancer + radiotherapy,Cabozantinib,Lung cancer,radiotherapy,11,250,123,51153,79,1857,1,2,2,2,2,2
+271,Axitinib + Lung cancer + radiotherapy,Axitinib,Lung cancer,radiotherapy,11,140,71,51153,24,1857,1,2,2,2,2,2
+272,Temsirolimus + Head and neck cancer + radiotherapy,Temsirolimus,Head and neck cancer,radiotherapy,11,62,83,79230,20,850,1,2,2,2,2,2
+273,Trametinib + Pancreatic cancer + radiotherapy,Trametinib,Pancreatic cancer,radiotherapy,13,154,160,8372,105,274,1,2,2,2,2,2
+274,Sunitinib + Prostate cancer + radiotherapy,Sunitinib,Prostate cancer,radiotherapy,13,147,400,33495,148,86,1,2,2,2,2,2
+275,Palbociclib + Lung cancer + radiotherapy,Palbociclib,Lung cancer,radiotherapy,13,182,125,51153,100,1855,1,2,2,2,2,2
+276,Cabozantinib + Prostate cancer + radiotherapy,Cabozantinib,Prostate cancer,radiotherapy,13,179,123,33495,77,86,1,2,2,2,2,2
+277,Crizotinib + Head and neck cancer + radiotherapy,Crizotinib,Head and neck cancer,radiotherapy,13,93,205,79230,179,848,1,2,2,2,2,2
+278,Vemurafenib + Head and neck cancer + radiotherapy,Vemurafenib,Head and neck cancer,radiotherapy,14,138,154,79230,152,847,1,2,2,2,2,2
+279,Vemurafenib + Lung cancer + radiotherapy,Vemurafenib,Lung cancer,radiotherapy,17,217,154,51153,149,1851,1,2,2,2,2,2
+280,Dasatinib + Head and neck cancer + radiotherapy,Dasatinib,Head and neck cancer,radiotherapy,17,134,94,79230,25,844,1,2,2,2,2,2
+281,Lenvatinib + Pancreatic cancer + radiotherapy,Lenvatinib,Pancreatic cancer,radiotherapy,18,327,316,8372,269,269,1,2,2,2,2,2
+282,Lapatinib + Lung cancer + radiotherapy,Lapatinib,Lung cancer,radiotherapy,18,289,219,51153,186,1850,1,2,2,2,2,2
+283,Cabozantinib + Hepatocellular carcinoma + radiotherapy,Cabozantinib,Hepatocellular carcinoma,radiotherapy,18,422,123,5803,72,603,1,2,2,2,2,2
+284,Pazopanib + Head and neck cancer + radiotherapy,Pazopanib,Head and neck cancer,radiotherapy,18,100,195,79230,43,843,1,2,2,2,2,2
+285,Imatinib + Breast cancer + radiotherapy,Imatinib,Breast cancer,radiotherapy,19,444,402,46750,107,664,1,2,2,2,2,2
+286,Sirolimus + Pancreatic cancer + radiotherapy,Sirolimus,Pancreatic cancer,radiotherapy,19,454,382,8372,114,268,1,2,2,2,2,2
+287,Larotrectinib + Lung cancer + radiotherapy,Larotrectinib,Lung cancer,radiotherapy,9,89,30,51153,17,1859,1,2,2,2,2,1
+288,Larotrectinib + Head and neck cancer + radiotherapy,Larotrectinib,Head and neck cancer,radiotherapy,9,50,30,79230,17,852,1,2,2,2,2,1
+289,Nintedanib + Lung cancer + radiotherapy,Nintedanib,Lung cancer,radiotherapy,14,391,28,51153,5,1854,1,2,2,2,2,1
+290,Entrectinib + Lung cancer + radiotherapy,Entrectinib,Lung cancer,radiotherapy,19,254,34,51153,15,1849,1,2,2,2,2,1
+291,Dacomitinib + Lung cancer + radiotherapy,Dacomitinib,Lung cancer,radiotherapy,5,340,14,51153,9,1863,1,2,2,1,2,1
+292,Cobimetinib + Melanoma + radiotherapy,Cobimetinib,Melanoma,radiotherapy,6,356,15,11209,6,398,1,2,2,1,2,1
+293,Dacomitinib + Head and neck cancer + radiotherapy,Dacomitinib,Head and neck cancer,radiotherapy,8,31,14,79230,6,853,1,2,2,1,2,1
+294,Binimetinib + Melanoma + radiotherapy,Binimetinib,Melanoma,radiotherapy,10,299,17,11209,6,394,1,2,2,1,2,1
+295,Encorafenib + Melanoma + radiotherapy,Encorafenib,Melanoma,radiotherapy,11,302,15,11209,6,393,1,2,2,1,2,1
+296,Entrectinib + Melanoma + radiotherapy,Entrectinib,Melanoma,radiotherapy,5,17,34,11209,29,399,1,1,2,2,2,2
+297,Imatinib + Melanoma + radiotherapy,Imatinib,Melanoma,radiotherapy,21,379,402,11209,105,383,0,2,2,2,2,2
+298,Dabrafenib + Lung cancer + radiotherapy,Dabrafenib,Lung cancer,radiotherapy,22,321,154,51153,111,1846,0,2,2,2,2,2
+299,Regorafenib + Hepatocellular carcinoma + radiotherapy,Regorafenib,Hepatocellular carcinoma,radiotherapy,22,742,98,5803,22,599,0,2,2,2,2,2
+300,Sorafenib + Breast cancer + radiotherapy,Sorafenib,Breast cancer,radiotherapy,23,587,730,46750,626,660,0,2,2,2,2,2
+301,Erlotinib + Breast cancer + radiotherapy,Erlotinib,Breast cancer,radiotherapy,24,576,627,46750,536,659,0,2,2,2,2,2
+302,Lenvatinib + Lung cancer + radiotherapy,Lenvatinib,Lung cancer,radiotherapy,25,244,316,51153,262,1843,0,2,2,2,2,2
+303,Pazopanib + Lung cancer + radiotherapy,Pazopanib,Lung cancer,radiotherapy,25,233,195,51153,36,1843,0,2,2,2,2,2
+304,Everolimus + Head and neck cancer + radiotherapy,Everolimus,Head and neck cancer,radiotherapy,25,142,286,79230,117,836,0,2,2,2,2,2
+305,Sirolimus + Breast cancer + radiotherapy,Sirolimus,Breast cancer,radiotherapy,26,969,382,46750,107,657,0,2,2,2,2,2
+306,Trametinib + Lung cancer + radiotherapy,Trametinib,Lung cancer,radiotherapy,26,474,160,51153,92,1842,0,2,2,2,2,2
+307,Sunitinib + Breast cancer + radiotherapy,Sunitinib,Breast cancer,radiotherapy,27,422,400,46750,134,656,0,2,2,2,2,2
+308,Lapatinib + Head and neck cancer + radiotherapy,Lapatinib,Head and neck cancer,radiotherapy,27,163,219,79230,177,834,0,2,2,2,2,2
+309,Dabrafenib + Head and neck cancer + radiotherapy,Dabrafenib,Head and neck cancer,radiotherapy,27,176,154,79230,106,834,0,2,2,2,2,2
+310,Afatinib + Head and neck cancer + radiotherapy,Afatinib,Head and neck cancer,radiotherapy,27,156,134,79230,109,834,0,2,2,2,2,2
+311,Trametinib + Head and neck cancer + radiotherapy,Trametinib,Head and neck cancer,radiotherapy,28,195,160,79230,90,833,0,2,2,2,2,2
+312,Sunitinib + Pancreatic cancer + radiotherapy,Sunitinib,Pancreatic cancer,radiotherapy,29,478,400,8372,132,258,0,2,2,2,2,2
+313,Everolimus + Breast cancer + radiotherapy,Everolimus,Breast cancer,radiotherapy,29,995,286,46750,113,654,0,2,2,2,2,2
+314,Sorafenib + Pancreatic cancer + radiotherapy,Sorafenib,Pancreatic cancer,radiotherapy,30,532,730,8372,619,257,0,2,2,2,2,2
+315,Cabozantinib + Head and neck cancer + radiotherapy,Cabozantinib,Head and neck cancer,radiotherapy,31,257,123,79230,59,830,0,2,2,2,2,2
+316,Sirolimus + Lung cancer + radiotherapy,Sirolimus,Lung cancer,radiotherapy,32,802,382,51153,101,1836,0,2,2,2,2,2
+317,Gefitinib + Breast cancer + radiotherapy,Gefitinib,Breast cancer,radiotherapy,33,787,579,46750,494,650,0,2,2,2,2,2
+318,Imatinib + Lung cancer + radiotherapy,Imatinib,Lung cancer,radiotherapy,34,502,402,51153,92,1834,0,2,2,2,2,2
+319,Everolimus + Lung cancer + radiotherapy,Everolimus,Lung cancer,radiotherapy,34,481,286,51153,108,1834,0,2,2,2,2,2
+320,Imatinib + Head and neck cancer + radiotherapy,Imatinib,Head and neck cancer,radiotherapy,36,231,402,79230,90,825,0,2,2,2,2,2
+321,Sunitinib + Lung cancer + radiotherapy,Sunitinib,Lung cancer,radiotherapy,39,640,400,51153,122,1829,0,2,2,2,2,2
+322,Everolimus + Pancreatic cancer + radiotherapy,Everolimus,Pancreatic cancer,radiotherapy,39,565,286,8372,103,248,0,2,2,2,2,2
+323,Sirolimus + Head and neck cancer + radiotherapy,Sirolimus,Head and neck cancer,radiotherapy,40,365,382,79230,93,821,0,2,2,2,2,2
+324,Sunitinib + Head and neck cancer + radiotherapy,Sunitinib,Head and neck cancer,radiotherapy,40,217,400,79230,121,821,0,2,2,2,2,2
+325,Trametinib + Melanoma + radiotherapy,Trametinib,Melanoma,radiotherapy,46,1266,160,11209,72,358,0,2,2,2,2,2
+326,Sorafenib + Lung cancer + radiotherapy,Sorafenib,Lung cancer,radiotherapy,59,900,730,51153,590,1809,0,2,2,2,2,2
+327,Dabrafenib + Melanoma + radiotherapy,Dabrafenib,Melanoma,radiotherapy,74,1406,154,11209,59,330,0,2,2,2,2,2
+328,Erlotinib + Pancreatic cancer + radiotherapy,Erlotinib,Pancreatic cancer,radiotherapy,76,710,627,8372,484,211,0,2,2,2,2,2
+329,Palbociclib + Breast cancer + radiotherapy,Palbociclib,Breast cancer,radiotherapy,89,2029,125,46750,24,594,0,2,2,2,2,2
+330,Erlotinib + Head and neck cancer + radiotherapy,Erlotinib,Head and neck cancer,radiotherapy,90,510,627,79230,470,771,0,2,2,2,2,2
+331,Afatinib + Lung cancer + radiotherapy,Afatinib,Lung cancer,radiotherapy,90,1918,134,51153,46,1778,0,2,2,2,2,2
+332,Gefitinib + Head and neck cancer + radiotherapy,Gefitinib,Head and neck cancer,radiotherapy,96,502,579,79230,431,765,0,2,2,2,2,2
+333,Sorafenib + Head and neck cancer + radiotherapy,Sorafenib,Head and neck cancer,radiotherapy,107,568,730,79230,542,754,0,2,2,2,2,2
+334,Lenvatinib + Head and neck cancer + radiotherapy,Lenvatinib,Head and neck cancer,radiotherapy,112,566,316,79230,175,749,0,2,2,2,2,2
+335,Lenvatinib + Hepatocellular carcinoma + radiotherapy,Lenvatinib,Hepatocellular carcinoma,radiotherapy,117,2351,316,5803,170,504,0,2,2,2,2,2
+336,Vemurafenib + Melanoma + radiotherapy,Vemurafenib,Melanoma,radiotherapy,122,2364,154,11209,44,282,0,2,2,2,2,2
+337,Lapatinib + Breast cancer + radiotherapy,Lapatinib,Breast cancer,radiotherapy,152,2395,219,46750,52,531,0,2,2,2,2,2
+338,Crizotinib + Lung cancer + radiotherapy,Crizotinib,Lung cancer,radiotherapy,158,2968,205,51153,34,1710,0,2,2,2,2,2
+339,Osimertinib + Lung cancer + radiotherapy,Osimertinib,Lung cancer,radiotherapy,232,4173,245,51153,22,1636,0,2,2,2,2,2
+340,Erlotinib + Lung cancer + radiotherapy,Erlotinib,Lung cancer,radiotherapy,350,5462,627,51153,210,1518,0,2,2,2,2,2
+341,Gefitinib + Lung cancer + radiotherapy,Gefitinib,Lung cancer,radiotherapy,370,6361,579,51153,157,1498,0,2,2,2,2,2
+342,Sorafenib + Hepatocellular carcinoma + radiotherapy,Sorafenib,Hepatocellular carcinoma,radiotherapy,415,7689,730,5803,234,206,0,2,2,2,2,2
+343,Vandetanib + Head and neck cancer + radiotherapy,Vandetanib,Head and neck cancer,radiotherapy,28,350,72,79230,16,833,0,2,2,2,2,1
+344,Brigatinib + Lung cancer + radiotherapy,Brigatinib,Lung cancer,radiotherapy,28,507,31,51153,5,1840,0,2,2,2,2,1
+345,Ceritinib + Lung cancer + radiotherapy,Ceritinib,Lung cancer,radiotherapy,33,647,39,51153,7,1835,0,2,2,2,2,1
+346,Neratinib + Breast cancer + radiotherapy,Neratinib,Breast cancer,radiotherapy,34,531,41,46750,11,649,0,2,2,2,2,1
+347,Ribociclib + Breast cancer + radiotherapy,Ribociclib,Breast cancer,radiotherapy,54,1127,60,46750,8,629,0,2,2,2,2,1
+348,Abemaciclib + Breast cancer + radiotherapy,Abemaciclib,Breast cancer,radiotherapy,64,1224,78,46750,11,619,0,2,2,2,2,1
+349,Alectinib + Lung cancer + radiotherapy,Alectinib,Lung cancer,radiotherapy,97,1299,113,51153,6,1771,0,2,2,2,2,1
+350,Lorlatinib + Lung cancer + radiotherapy,Lorlatinib,Lung cancer,radiotherapy,33,735,41,51153,2,1835,0,2,2,2,2,0

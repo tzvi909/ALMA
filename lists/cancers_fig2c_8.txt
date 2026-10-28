@@ -1,0 +1,8 @@
+Breast cancer
+Head and neck cancer
+Hepatocellular carcinoma
+Lung cancer
+Melanoma
+Thyroid cancer
+Renal cell carcinoma
+Leukemia

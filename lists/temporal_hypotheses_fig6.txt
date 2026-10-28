@@ -1,0 +1,10 @@
+osimertinib + lung cancer
+cabozantinib + hepatocellular carcinoma
+olaparib + lung cancer
+olaparib + ovarian cancer
+olaparib + breast cancer
+pembrolizumab + lung cancer
+nivolumab + melanoma
+pazopanib + hepatocellular carcinoma
+everolimus + pancreatic cancer
+sorafenib + hepatocellular carcinoma

@@ -1,0 +1,7 @@
+HIPEC + ovarian cancer
+oncolytic virus + ovarian cancer
+high intensity focused ultrasound + glioma
+immunotherapy + esophageal cancer
+radiotherapy + gastrointestinal stromal tumor
+radiotherapy + breast cancer
+chemotherapy + lung cancer

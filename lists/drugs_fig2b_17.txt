@@ -1,0 +1,17 @@
+Doxorubicin
+5-Fu
+Paclitaxel
+Cisplatin
+Rapamycin
+Vincristine
+Gemcitabine
+Etoposide
+Mitomycin
+Everolimus
+Irinotecan
+Imatinib
+Sunitinib
+Sorafenib
+Cytarabine
+Dacarbazine
+Pemetrexed

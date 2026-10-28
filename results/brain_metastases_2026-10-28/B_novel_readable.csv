@@ -1,0 +1,38 @@
+hypothesis,papers (all 3),drug+BM,drug+strategy,BM+strategy
+Gefitinib + nanoparticle for brain metastases,0,321,149,177
+Sorafenib + nanoparticle for brain metastases,0,82,484,177
+Pembrolizumab + nanoparticle for brain metastases,0,322,62,177
+Temozolomide + focused ultrasound for brain metastases,0,315,58,156
+Atezolizumab + nanoparticle for brain metastases,0,114,56,177
+Nivolumab + nanoparticle for brain metastases,0,406,32,177
+Sirolimus + nanoparticle for brain metastases,0,29,351,177
+Sirolimus + focused ultrasound for brain metastases,0,29,29,156
+Imatinib + nanoparticle for brain metastases,0,28,147,177
+Imatinib + intrathecal for brain metastases,0,28,30,206
+Sirolimus + intrathecal for brain metastases,0,29,28,206
+Sorafenib + focused ultrasound for brain metastases,0,82,26,156
+Crizotinib + nanoparticle for brain metastases,0,339,24,177
+Everolimus + focused ultrasound for brain metastases,0,43,20,156
+Bevacizumab + nanoparticle for brain metastases,1,435,240,177
+Erlotinib + nanoparticle for brain metastases,1,302,145,177
+Everolimus + nanoparticle for brain metastases,1,43,59,177
+Bevacizumab + focused ultrasound for brain metastases,1,435,33,156
+Lenvatinib + nanoparticle for brain metastases,1,30,71,177
+Axitinib + nanoparticle for brain metastases,1,28,32,177
+Palbociclib + nanoparticle for brain metastases,1,28,38,177
+Olaparib + nanoparticle for brain metastases,1,26,66,177
+Afatinib + nanoparticle for brain metastases,1,181,22,177
+Pazopanib + nanoparticle for brain metastases,1,49,20,177
+Trametinib + nanoparticle for brain metastases,0,97,19,177
+Vemurafenib + nanoparticle for brain metastases,0,133,18,177
+Trastuzumab emtansine + nanoparticle for brain metastases,0,131,18,177
+Durvalumab + nanoparticle for brain metastases,0,61,17,177
+Ipilimumab + nanoparticle for brain metastases,0,364,16,177
+Imatinib + focused ultrasound for brain metastases,0,28,10,156
+Cabozantinib + nanoparticle for brain metastases,1,52,19,177
+Nivolumab + intrathecal for brain metastases,1,406,17,206
+Dabrafenib + nanoparticle for brain metastases,1,129,14,177
+Erlotinib + intrathecal for brain metastases,1,302,11,206
+Gefitinib + intrathecal for brain metastases,1,321,10,206
+Temsirolimus + nanoparticle for brain metastases,0,19,19,177
+Vandetanib + nanoparticle for brain metastases,0,19,12,177
